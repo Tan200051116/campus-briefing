@@ -29,12 +29,13 @@ sudo nano /opt/campus-briefing/server/.env
 
 ```dotenv
 SCRAPE_INTERVAL_MINUTES=60
+LOCAL_TIMEZONE=Asia/Shanghai
 ALLOWED_ORIGIN=https://tan200051116.github.io
 MY_NAME=谭睿
 KDOCS_URL=在这里粘贴金山共享表格链接
 ```
 
-`KDOCS_URL` 只填写在 VPS 的 `.env` 中，不要提交到公开仓库。`SCRAPE_INTERVAL_MINUTES` 改成 30 就是每 30 分钟抓取一次。为避免给学校网站造成压力，程序最低按 5 分钟执行，建议 30–120 分钟。
+`KDOCS_URL` 只填写在 VPS 的 `.env` 中，不要提交到公开仓库。程序按 `Asia/Shanghai` 判断日期，只保留今天及以后的宣讲。`SCRAPE_INTERVAL_MINUTES` 改成 30 就是每 30 分钟抓取一次。为避免给学校网站造成压力，程序最低按 5 分钟执行，建议 30–120 分钟。
 
 ## 3. 启动服务
 

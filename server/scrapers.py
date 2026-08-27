@@ -7,9 +7,10 @@ import os
 import re
 import unicodedata
 import zlib
-from datetime import date, datetime, timedelta
+from datetime import date, datetime
 from difflib import SequenceMatcher
 from urllib.parse import urljoin
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
@@ -27,6 +28,21 @@ DEFAULT_SHEETS = [
     "第十三周（11.23-11.29）", "第十四周（11.30-12.6）", "第十五周（12.7-12.13）",
     "第十六周（12.14-12.20）",
 ]
+
+
+def _local_today() -> date:
+    timezone_name = os.getenv("LOCAL_TIMEZONE", "Asia/Shanghai")
+    return datetime.now(ZoneInfo(timezone_name)).date()
+
+
+def _is_today_or_future(item: dict) -> bool:
+    value = item.get("date", "")
+    if not value:
+        return False
+    try:
+        return date.fromisoformat(value) >= _local_today()
+    except ValueError:
+        return False
 
 
 def _decode_official_html(page_html: str) -> str:
@@ -53,7 +69,7 @@ def scrape_official(max_pages: int = 30) -> list[dict]:
     events: list[dict] = []
     seen: set[str] = set()
     saw_upcoming = False
-    cutoff = date.today() - timedelta(days=1)
+    cutoff = _local_today()
 
     for page_number in range(1, max_pages + 1):
         response = session.get(_page_url(page_number), timeout=25)
@@ -95,7 +111,7 @@ def scrape_official(max_pages: int = 30) -> list[dict]:
 
         if not page_events:
             break
-        events.extend(page_events)
+        events.extend(event for event in page_events if _is_today_or_future(event))
         dated = [date.fromisoformat(e["date"]) for e in page_events if e["date"]]
         if saw_upcoming and dated and max(dated) < cutoff:
             break
@@ -227,6 +243,8 @@ def _match_score(official: dict, shared: dict) -> float:
 
 
 def merge_events(official_events: list[dict], shared_rows: list[dict], my_name: str) -> list[dict]:
+    official_events = [event for event in official_events if _is_today_or_future(event)]
+    shared_rows = [row for row in shared_rows if _is_today_or_future(row)]
     used_shared: set[str] = set()
     merged: list[dict] = []
 
