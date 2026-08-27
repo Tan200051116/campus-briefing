@@ -64,6 +64,28 @@ with sync_playwright() as playwright:
     print("EDITABLE", page.locator('[contenteditable="true"]').evaluate_all(
         "els => els.map(e => ({className:e.className, text:e.innerText})).filter(x => x.text)"
     ))
+    print("INTERNAL_METHODS", page.evaluate("""
+        () => {
+          const collect = (object) => {
+            const names = new Set();
+            let current = object;
+            for (let depth = 0; current && depth < 5; depth += 1) {
+              for (const name of Object.getOwnPropertyNames(current)) names.add(name);
+              current = Object.getPrototypeOf(current);
+            }
+            return [...names].filter(name => /cell|range|value|text|data|sheet|row|col|get/i.test(name)).sort();
+          };
+          const app = window.APP;
+          const sheet = app && app.getActiveSheet ? app.getActiveSheet() : null;
+          const range = sheet && sheet.createRANGE ? sheet.createRANGE(0, 1, 0, 1) : null;
+          return {
+            globals: Object.keys(window).filter(name => /app|wps|sheet|workbook/i.test(name)).sort(),
+            app: collect(app),
+            sheet: collect(sheet),
+            range: collect(range),
+          };
+        }
+    """))
     if open_responses:
         payload = open_responses[-1].body()
         print("OPEN_PAYLOAD", {
