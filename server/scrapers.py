@@ -1,8 +1,6 @@
 from __future__ import annotations
 
 import base64
-import csv
-import io
 import os
 import re
 import unicodedata
@@ -118,29 +116,42 @@ def scrape_official(max_pages: int = 30) -> list[dict]:
     return events
 
 
-def _read_clipboard(page, cell_range: str) -> str:
-    js = """
-() => {
-  const app = window.APP;
-  const sheet = app.getActiveSheet();
-  const lines = [];
-  for (let r = 0; r < 200; r++) {
-    const cells = [];
-    for (let c = 0; c < 9; c++) {
-      let v = "";
-      try { const raw = sheet.getCellString(r, c); v = raw == null ? "" : String(raw); } catch (e) { v = ""; }
-      cells.push(v);
+def _read_workbook(page, row_limit: int = 200, col_limit: int = 9) -> list[dict]:
+    return page.evaluate(
+        """
+({rowLimit, colLimit}) => {
+  const worksheets = window.APP.getWorksheets();
+  const sheets = (worksheets && worksheets._sheets) || [];
+  return sheets.map((sheet) => {
+    let name = "";
+    try { name = String(sheet.getName() || "").trim(); } catch (e) {}
+    const rows = [];
+    let emptyStreak = 0;
+    for (let r = 0; r < rowLimit; r++) {
+      const cells = [];
+      let hasValue = false;
+      for (let c = 0; c < colLimit; c++) {
+        let value = "";
+        try {
+          const raw = sheet.getCellString(r, c);
+          value = raw == null ? "" : String(raw).trim();
+        } catch (e) {}
+        if (value) hasValue = true;
+        cells.push(value);
+      }
+      rows.push(cells);
+      emptyStreak = hasValue ? 0 : emptyStreak + 1;
+      if (r > 0 && emptyStreak >= 10) break;
     }
-    lines.push(cells.join("\\t"));
-  }
-  return lines.join("\\n");
+    return {name, rows};
+  });
 }
-"""
-    return page.evaluate(js)
+        """,
+        {"rowLimit": row_limit, "colLimit": col_limit},
+    )
 
 
-def _parse_sheet_tsv(text: str, sheet: str) -> list[dict]:
-    rows = list(csv.reader(io.StringIO(text), dialect="excel-tab"))
+def _parse_sheet_rows(rows: list[list[str]], sheet: str) -> list[dict]:
     if not rows:
         return []
     header = [unicodedata.normalize("NFKC", value).strip() for value in rows[0]]
@@ -162,7 +173,7 @@ def _parse_sheet_tsv(text: str, sheet: str) -> list[dict]:
         "notes": find_col("备注"),
     }
     if columns["company"] is None:
-        raise RuntimeError(f"共享表格 {sheet} 没有找到“单位名称”列")
+        return []
 
     def value(row: list[str], key: str) -> str:
         index = columns[key]
@@ -196,7 +207,7 @@ def _parse_sheet_tsv(text: str, sheet: str) -> list[dict]:
 
 
 def scrape_kdocs(url: str, cell_range: str = "A1:I200", sheets: list[str] | None = None) -> list[dict]:
-    sheet_names = sheets or DEFAULT_SHEETS
+    wanted_sheets = {name.strip() for name in (sheets or DEFAULT_SHEETS)}
     all_rows: list[dict] = []
     with sync_playwright() as playwright:
         browser = playwright.chromium.launch(
@@ -204,25 +215,24 @@ def scrape_kdocs(url: str, cell_range: str = "A1:I200", sheets: list[str] | None
             args=["--no-sandbox", "--disable-dev-shm-usage"],
         )
         context = browser.new_context(locale="zh-CN")
-        context.grant_permissions(
-            ["clipboard-read", "clipboard-write"],
-            origin="https://www.kdocs.cn",
-        )
         page = context.new_page()
         try:
             page.goto(url, wait_until="domcontentloaded", timeout=45_000)
             page.locator("input.edit-box").wait_for(state="visible", timeout=45_000)
             if "account.wps.cn" in page.url:
                 raise RuntimeError("共享表格要求登录，请检查公开分享权限")
+            page.wait_for_function(
+                "() => window.APP && window.APP.getWorksheets && "
+                "window.APP.getWorksheets()._sheets && window.APP.getWorksheets()._sheets.length",
+                timeout=45_000,
+            )
 
-            for index, sheet_name in enumerate(sheet_names):
-                if index:
-                    page.keyboard.press("Control+PageDown")
-                    page.wait_for_timeout(350)
-                text = _read_clipboard(page, cell_range)
-                if not text.strip():
-                    raise RuntimeError(f"工作表复制结果为空：{sheet_name}")
-                all_rows.extend(_parse_sheet_tsv(text, sheet_name))
+            for sheet_data in _read_workbook(page):
+                sheet_name = str(sheet_data.get("name", "")).strip()
+                if not sheet_name or sheet_name not in wanted_sheets:
+                    continue
+                rows = sheet_data.get("rows") or []
+                all_rows.extend(_parse_sheet_rows(rows, sheet_name))
         finally:
             browser.close()
     return all_rows
@@ -252,7 +262,27 @@ def merge_events(official_events: list[dict], shared_rows: list[dict], my_name: 
     official_events = [event for event in official_events if _is_today_or_future(event)]
     shared_rows = [row for row in shared_rows if _is_today_or_future(row)]
     used_shared: set[str] = set()
+    seen_events: set[tuple[str, str, str]] = set()
     merged: list[dict] = []
+
+    def dedup_key(item: dict) -> tuple[str, str, str]:
+        company = _normalized_company(item.get("company") or item.get("title") or "")
+        time_text = unicodedata.normalize(
+            "NFKC", item.get("datetime") or item.get("time") or item.get("date") or ""
+        )
+        location = unicodedata.normalize("NFKC", item.get("location") or "")
+        return (
+            company,
+            re.sub(r"\s+", "", time_text),
+            re.sub(r"\s+", "", location),
+        )
+
+    def append_unique(item: dict) -> None:
+        key = dedup_key(item)
+        if key in seen_events:
+            return
+        seen_events.add(key)
+        merged.append(item)
 
     for official in official_events:
         best = None
@@ -272,7 +302,7 @@ def merge_events(official_events: list[dict], shared_rows: list[dict], my_name: 
                 "leader", "members", "contact", "contacted", "notes", "sheet"
             )})
             item["is_mine"] = my_name in f'{matched.get("leader", "")} {matched.get("members", "")}'
-        merged.append(item)
+        append_unique(item)
 
     for shared in shared_rows:
         if shared["id"] in used_shared:
@@ -287,6 +317,6 @@ def merge_events(official_events: list[dict], shared_rows: list[dict], my_name: 
                 "is_new": False,
                 "is_mine": True,
             })
-            merged.append(item)
+            append_unique(item)
 
     return sorted(merged, key=lambda item: item.get("datetime") or "9999")
