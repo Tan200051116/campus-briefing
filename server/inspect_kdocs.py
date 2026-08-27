@@ -33,6 +33,7 @@ with sync_playwright() as playwright:
     )
     page = context.new_page()
     responses: dict[str, tuple[int, str]] = {}
+    open_responses = []
 
     def remember(response) -> None:
         content_type = response.headers.get("content-type", "").split(";")[0]
@@ -42,6 +43,8 @@ with sync_playwright() as playwright:
             word in lower for word in ("/api/", "sheet", "office", "file", "drive")
         ):
             responses[path] = (response.status, content_type)
+        if "/open/ksheet" in response.url:
+            open_responses.append(response)
 
     page.on("response", remember)
     page.goto(url, wait_until="domcontentloaded", timeout=45_000)
@@ -61,6 +64,21 @@ with sync_playwright() as playwright:
     print("EDITABLE", page.locator('[contenteditable="true"]').evaluate_all(
         "els => els.map(e => ({className:e.className, text:e.innerText})).filter(x => x.text)"
     ))
+    if open_responses:
+        payload = open_responses[-1].body()
+        print("OPEN_PAYLOAD", {
+            "length": len(payload),
+            "first_32_hex": payload[:32].hex(),
+            "starts_zip": payload.startswith(b"PK"),
+            "starts_gzip": payload.startswith(b"\x1f\x8b"),
+            "starts_json": payload.lstrip().startswith((b"{", b"[")),
+            "headers": {
+                key: value for key, value in open_responses[-1].headers.items()
+                if key.lower() in {"content-encoding", "content-length", "content-type"}
+            },
+        })
+    else:
+        print("OPEN_PAYLOAD", "not found")
     print("RESPONSES")
     for path, (status, content_type) in sorted(responses.items()):
         print(status, content_type or "-", path)
