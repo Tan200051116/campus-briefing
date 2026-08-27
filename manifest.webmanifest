@@ -1,0 +1,11 @@
+{
+  "name": "宣讲工作台",
+  "short_name": "宣讲工作台",
+  "description": "就业宣讲接待、短信与设备提醒工作台",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafb",
+  "theme_color": "#0b3b5a",
+  "icons": [{ "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
