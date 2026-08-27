@@ -2,6 +2,13 @@ name: Fetch official briefings
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/fetch-official.yml"
+      - "server/fetch_official.py"
+      - "server/scrapers.py"
   schedule:
     - cron: "17 * * * *"
 
@@ -22,6 +29,7 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+          cache-dependency-path: server/requirements.txt
       - name: Install dependencies
         run: pip install -r server/requirements.txt
       - name: Fetch DLMU briefings
