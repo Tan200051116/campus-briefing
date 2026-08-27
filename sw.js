@@ -1,7 +1,18 @@
-const CACHE_NAME = "campus-briefing-v1";
+const CACHE_NAME = "campus-briefing-v2";
 
 self.addEventListener("install", (event) => {
-  event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.add("./")));
+  event.waitUntil(
+    caches.open(CACHE_NAME).then((cache) =>
+      cache.addAll([
+        "./",
+        "./events.html",
+        "./events.css",
+        "./events.js",
+        "./workbench-nav.css",
+        "./workbench-nav.js",
+      ]),
+    ),
+  );
   self.skipWaiting();
 });
 

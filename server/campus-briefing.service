@@ -1,0 +1,17 @@
+[Unit]
+Description=Campus briefing sync service
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=briefing
+Group=briefing
+WorkingDirectory=/opt/campus-briefing/server
+EnvironmentFile=/opt/campus-briefing/server/.env
+ExecStart=/opt/campus-briefing/server/.venv/bin/uvicorn app:app --host 127.0.0.1 --port 8765 --workers 1
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

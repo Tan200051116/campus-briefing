@@ -1,0 +1,48 @@
+.workbench-quick-nav {
+  position: fixed;
+  z-index: 9999;
+  left: 50%;
+  bottom: max(12px, env(safe-area-inset-bottom));
+  transform: translateX(-50%);
+  display: flex;
+  gap: 4px;
+  max-width: calc(100vw - 24px);
+  padding: 6px;
+  border: 1px solid rgba(148, 163, 184, 0.28);
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.94);
+  box-shadow: 0 12px 32px rgba(15, 23, 42, 0.16);
+  backdrop-filter: blur(16px);
+  font: 500 13px/1.2 system-ui, -apple-system, "PingFang SC", sans-serif;
+}
+
+.workbench-quick-nav a {
+  flex: 0 0 auto;
+  padding: 9px 11px;
+  border-radius: 11px;
+  color: #475569;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.workbench-quick-nav a:hover,
+.workbench-quick-nav a[aria-current="page"] {
+  color: #fff;
+  background: #0b5b79;
+}
+
+body.has-workbench-quick-nav {
+  padding-bottom: 82px !important;
+}
+
+@media (max-width: 520px) {
+  .workbench-quick-nav {
+    width: calc(100vw - 20px);
+    justify-content: space-between;
+  }
+
+  .workbench-quick-nav a {
+    padding-inline: 8px;
+    font-size: 12px;
+  }
+}

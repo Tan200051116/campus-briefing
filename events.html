@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#0b3b5a" />
+    <meta name="description" content="宣讲工作台自动同步列表" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./events.css" />
+    <link rel="stylesheet" href="./workbench-nav.css" />
+    <title>宣讲列表 · 宣讲工作台</title>
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">宣讲工作台</p>
+          <h1 id="page-title">全部宣讲</h1>
+          <p id="sync-summary" class="muted">正在连接 VPS…</p>
+        </div>
+        <button id="settings-button" class="secondary-button" type="button">连接设置</button>
+      </header>
+
+      <section id="settings-panel" class="settings-panel" hidden>
+        <label for="api-url">VPS API 地址（必须是 HTTPS）</label>
+        <div class="settings-row">
+          <input id="api-url" type="url" placeholder="https://briefing-api.example.com" autocomplete="url" />
+          <button id="save-settings" type="button">保存并连接</button>
+        </div>
+        <p class="hint">只需在每台设备首次使用时设置一次。</p>
+      </section>
+
+      <section class="stats" aria-label="宣讲数量">
+        <a href="./events.html?view=all"><span id="count-all">—</span><small>全部</small></a>
+        <a href="./events.html?view=new"><span id="count-new">—</span><small>新增</small></a>
+        <a href="./events.html?view=mine"><span id="count-mine">—</span><small>我的</small></a>
+      </section>
+
+      <div id="message" class="message" role="status">正在加载…</div>
+      <section id="event-list" class="event-list" aria-live="polite"></section>
+    </main>
+
+    <script src="./events.js" defer></script>
+    <script src="./workbench-nav.js" defer></script>
+  </body>
+</html>
