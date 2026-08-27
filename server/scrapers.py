@@ -120,13 +120,21 @@ def scrape_official(max_pages: int = 30) -> list[dict]:
 
 def _read_clipboard(page, cell_range: str) -> str:
     name_box = page.locator("input.edit-box")
+    page.evaluate("async () => await navigator.clipboard.writeText('')")
     name_box.fill(cell_range)
     name_box.press("Enter")
-    page.wait_for_timeout(250)
-    canvas = page.locator("canvas.et_main_canvas")
-    canvas.click(position={"x": 160, "y": 90}, force=True)
+    page.wait_for_timeout(400)
     page.keyboard.press("Control+C")
-    page.wait_for_timeout(250)
+    page.wait_for_timeout(400)
+    text = page.evaluate("async () => await navigator.clipboard.readText()")
+    if text:
+        return text
+
+    name_box.fill(cell_range)
+    name_box.press("Enter")
+    page.wait_for_timeout(400)
+    page.keyboard.press("Control+Insert")
+    page.wait_for_timeout(400)
     return page.evaluate("async () => await navigator.clipboard.readText()")
 
 
