@@ -10,13 +10,17 @@ from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 
-from scrapers import DEFAULT_SHEETS, merge_events, scrape_kdocs, scrape_official
+from scrapers import DEFAULT_SHEETS, fetch_official_feed, merge_events, scrape_kdocs, scrape_official
 
 
 load_dotenv()
 
 INTERVAL_MINUTES = max(5, int(os.getenv("SCRAPE_INTERVAL_MINUTES", "60")))
 OFFICIAL_MAX_PAGES = int(os.getenv("OFFICIAL_MAX_PAGES", "30"))
+OFFICIAL_FEED_URL = os.getenv(
+    "OFFICIAL_FEED_URL",
+    "https://tan200051116.github.io/campus-briefing/official-events.json",
+).strip()
 KDOCS_URL = os.getenv("KDOCS_URL", "").strip()
 KDOCS_RANGE = os.getenv("KDOCS_RANGE", "A1:I200")
 MY_NAME = os.getenv("MY_NAME", "谭睿")
@@ -70,7 +74,11 @@ def sync_once() -> None:
     shared = None
 
     try:
-        official = scrape_official(OFFICIAL_MAX_PAGES)
+        official = (
+            fetch_official_feed(OFFICIAL_FEED_URL)
+            if OFFICIAL_FEED_URL
+            else scrape_official(OFFICIAL_MAX_PAGES)
+        )
     except Exception as exc:  # 保存另一来源的成功结果，并在状态接口明确报告错误
         errors["official"] = str(exc)
 

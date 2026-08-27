@@ -30,12 +30,15 @@ sudo nano /opt/campus-briefing/server/.env
 ```dotenv
 SCRAPE_INTERVAL_MINUTES=60
 LOCAL_TIMEZONE=Asia/Shanghai
+OFFICIAL_FEED_URL=https://tan200051116.github.io/campus-briefing/official-events.json
 ALLOWED_ORIGIN=https://tan200051116.github.io
 MY_NAME=谭睿
 KDOCS_URL=在这里粘贴金山共享表格链接
 ```
 
 `KDOCS_URL` 只填写在 VPS 的 `.env` 中，不要提交到公开仓库。程序按 `Asia/Shanghai` 判断日期，只保留今天及以后的宣讲。`SCRAPE_INTERVAL_MINUTES` 改成 30 就是每 30 分钟抓取一次。为避免给学校网站造成压力，程序最低按 5 分钟执行，建议 30–120 分钟。
+
+就业网对部分境外 VPS 线路不可达，因此官网数据默认由 GitHub Actions 抓取并写入 `official-events.json`，VPS 再读取该文件与金山表格合并。GitHub Actions 默认每小时检查一次，只有数据变化时才提交文件。
 
 ## 3. 启动服务
 

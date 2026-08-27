@@ -116,6 +116,20 @@ def scrape_official(max_pages: int = 30) -> list[dict]:
     return events
 
 
+def fetch_official_feed(url: str) -> list[dict]:
+    response = requests.get(
+        url,
+        headers={"User-Agent": "CampusBriefingVPS/1.0", "Cache-Control": "no-cache"},
+        timeout=30,
+    )
+    response.raise_for_status()
+    payload = response.json()
+    events = payload.get("events") if isinstance(payload, dict) else payload
+    if not isinstance(events, list):
+        raise RuntimeError("官网数据中转文件格式不正确")
+    return [dict(event) for event in events if isinstance(event, dict)]
+
+
 def _read_workbook(page, row_limit: int = 200, col_limit: int = 9) -> list[dict]:
     return page.evaluate(
         """
