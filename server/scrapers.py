@@ -119,23 +119,24 @@ def scrape_official(max_pages: int = 30) -> list[dict]:
 
 
 def _read_clipboard(page, cell_range: str) -> str:
-    name_box = page.locator("input.edit-box")
-    page.evaluate("async () => await navigator.clipboard.writeText('')")
-    name_box.fill(cell_range)
-    name_box.press("Enter")
-    page.wait_for_timeout(400)
-    page.keyboard.press("Control+C")
-    page.wait_for_timeout(400)
-    text = page.evaluate("async () => await navigator.clipboard.readText()")
-    if text:
-        return text
-
-    name_box.fill(cell_range)
-    name_box.press("Enter")
-    page.wait_for_timeout(400)
-    page.keyboard.press("Control+Insert")
-    page.wait_for_timeout(400)
-    return page.evaluate("async () => await navigator.clipboard.readText()")
+    js = """
+() => {
+  const app = window.APP;
+  const sheet = app.getActiveSheet();
+  const lines = [];
+  for (let r = 0; r < 200; r++) {
+    const cells = [];
+    for (let c = 0; c < 9; c++) {
+      let v = "";
+      try { const raw = sheet.getCellString(r, c); v = raw == null ? "" : String(raw); } catch (e) { v = ""; }
+      cells.push(v);
+    }
+    lines.push(cells.join("\\t"));
+  }
+  return lines.join("\\n");
+}
+"""
+    return page.evaluate(js)
 
 
 def _parse_sheet_tsv(text: str, sheet: str) -> list[dict]:
