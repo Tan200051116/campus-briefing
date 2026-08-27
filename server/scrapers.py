@@ -14,7 +14,6 @@ from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
-from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 from playwright.sync_api import sync_playwright
 
 
@@ -207,16 +206,14 @@ def scrape_kdocs(url: str, cell_range: str = "A1:I200", sheets: list[str] | None
             if "account.wps.cn" in page.url:
                 raise RuntimeError("共享表格要求登录，请检查公开分享权限")
 
-            for sheet_name in sheet_names:
-                try:
-                    page.get_by_text(sheet_name, exact=True).last.click(timeout=8_000)
+            for index, sheet_name in enumerate(sheet_names):
+                if index:
+                    page.keyboard.press("Control+PageDown")
                     page.wait_for_timeout(350)
-                    text = _read_clipboard(page, cell_range)
-                    if not text.strip():
-                        raise RuntimeError("复制结果为空")
-                    all_rows.extend(_parse_sheet_tsv(text, sheet_name))
-                except PlaywrightTimeoutError as exc:
-                    raise RuntimeError(f"没有找到工作表标签：{sheet_name}") from exc
+                text = _read_clipboard(page, cell_range)
+                if not text.strip():
+                    raise RuntimeError(f"工作表复制结果为空：{sheet_name}")
+                all_rows.extend(_parse_sheet_tsv(text, sheet_name))
         finally:
             browser.close()
     return all_rows
