@@ -140,22 +140,17 @@ def _read_workbook(page, row_limit: int = 200, col_limit: int = 9) -> list[dict]
     let name = "";
     try { name = String(sheet.getName() || "").trim(); } catch (e) {}
     const rows = [];
-    let emptyStreak = 0;
     for (let r = 0; r < rowLimit; r++) {
       const cells = [];
-      let hasValue = false;
       for (let c = 0; c < colLimit; c++) {
         let value = "";
         try {
           const raw = sheet.getCellString(r, c);
           value = raw == null ? "" : String(raw).trim();
         } catch (e) {}
-        if (value) hasValue = true;
         cells.push(value);
       }
       rows.push(cells);
-      emptyStreak = hasValue ? 0 : emptyStreak + 1;
-      if (r > 0 && emptyStreak >= 10) break;
     }
     return {name, rows};
   });
@@ -168,7 +163,20 @@ def _read_workbook(page, row_limit: int = 200, col_limit: int = 9) -> list[dict]
 def _parse_sheet_rows(rows: list[list[str]], sheet: str) -> list[dict]:
     if not rows:
         return []
-    header = [unicodedata.normalize("NFKC", value).strip() for value in rows[0]]
+
+    # 周表可能在顶部留出标题、说明或空白区域，不能假定第一行就是表头。
+    header_index = None
+    header = []
+    for index, row in enumerate(rows):
+        normalized = [unicodedata.normalize("NFKC", value).strip() for value in row]
+        if any("单位名称" in value for value in normalized) and any(
+            "宣讲时间" in value for value in normalized
+        ):
+            header_index = index
+            header = normalized
+            break
+    if header_index is None:
+        return []
 
     def find_col(*needles: str) -> int | None:
         for index, value in enumerate(header):
@@ -194,7 +202,7 @@ def _parse_sheet_rows(rows: list[list[str]], sheet: str) -> list[dict]:
         return row[index].strip() if index is not None and index < len(row) else ""
 
     result = []
-    for row_number, row in enumerate(rows[1:], start=2):
+    for row_number, row in enumerate(rows[header_index + 1 :], start=header_index + 2):
         company = value(row, "company")
         if not company:
             continue
