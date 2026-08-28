@@ -1,4 +1,4 @@
-const CACHE_NAME = "campus-briefing-v2";
+const CACHE_NAME = "campus-briefing-v3";
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
@@ -10,6 +10,7 @@ self.addEventListener("install", (event) => {
         "./events.js",
         "./workbench-nav.css",
         "./workbench-nav.js",
+        "./workbench-autofill.js",
       ]),
     ),
   );

@@ -5,7 +5,7 @@
   const items = [
     ["workbench", "工作台", "./"],
     ["all", "全部宣讲", "./events.html?view=all"],
-    ["new", "新增宣讲", "./events.html?view=new"],
+    ["new", "新增通知", "./events.html?view=new"],
     ["mine", "我的宣讲", "./events.html?view=mine"],
   ];
 

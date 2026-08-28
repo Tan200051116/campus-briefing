@@ -3,8 +3,9 @@ from __future__ import annotations
 import json
 import os
 import threading
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Query
@@ -15,7 +16,10 @@ from scrapers import DEFAULT_SHEETS, fetch_official_feed, merge_events, scrape_k
 
 load_dotenv()
 
-INTERVAL_MINUTES = max(5, int(os.getenv("SCRAPE_INTERVAL_MINUTES", "60")))
+INTERVAL_MINUTES = max(5, int(os.getenv("SCRAPE_INTERVAL_MINUTES", "30")))
+LOCAL_TIMEZONE = os.getenv("LOCAL_TIMEZONE", "Asia/Shanghai")
+QUIET_START_HOUR = int(os.getenv("QUIET_START_HOUR", "22"))
+QUIET_END_HOUR = int(os.getenv("QUIET_END_HOUR", "8"))
 OFFICIAL_MAX_PAGES = int(os.getenv("OFFICIAL_MAX_PAGES", "30"))
 OFFICIAL_FEED_URL = os.getenv(
     "OFFICIAL_FEED_URL",
@@ -109,8 +113,36 @@ def sync_once() -> None:
     _save_snapshot()
 
 
+def _quiet_seconds_remaining(now: datetime | None = None) -> float:
+    local_now = now or datetime.now(ZoneInfo(LOCAL_TIMEZONE))
+    if local_now.tzinfo is None:
+        local_now = local_now.replace(tzinfo=ZoneInfo(LOCAL_TIMEZONE))
+
+    hour = local_now.hour
+    if QUIET_START_HOUR < QUIET_END_HOUR:
+        is_quiet = QUIET_START_HOUR <= hour < QUIET_END_HOUR
+    else:
+        is_quiet = hour >= QUIET_START_HOUR or hour < QUIET_END_HOUR
+    if not is_quiet:
+        return 0
+
+    next_active = local_now.replace(
+        hour=QUIET_END_HOUR,
+        minute=0,
+        second=0,
+        microsecond=0,
+    )
+    if QUIET_START_HOUR >= QUIET_END_HOUR and hour >= QUIET_START_HOUR:
+        next_active += timedelta(days=1)
+    return max(1, (next_active - local_now).total_seconds())
+
+
 def _worker() -> None:
     while not stop_event.is_set():
+        quiet_wait = _quiet_seconds_remaining()
+        if quiet_wait:
+            stop_event.wait(quiet_wait)
+            continue
         sync_once()
         stop_event.wait(INTERVAL_MINUTES * 60)
 
@@ -136,6 +168,11 @@ def get_status() -> dict:
             "last_success": state.get("last_success"),
             "errors": dict(state.get("errors", {})),
             "interval_minutes": INTERVAL_MINUTES,
+            "quiet_hours": {
+                "timezone": LOCAL_TIMEZONE,
+                "start": f"{QUIET_START_HOUR:02d}:00",
+                "end": f"{QUIET_END_HOUR:02d}:00",
+            },
             "counts": {
                 "all": len(events),
                 "new": sum(bool(e.get("is_new")) for e in events),

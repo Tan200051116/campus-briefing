@@ -260,7 +260,40 @@ def _normalized_company(value: str) -> str:
     return re.sub(r"[^0-9a-z\u4e00-\u9fff]", "", value)
 
 
+def _schedule_time_key(item: dict) -> str:
+    value = unicodedata.normalize(
+        "NFKC", item.get("datetime") or item.get("time") or ""
+    )
+    date_match = re.search(r"\d{4}-\d{2}-\d{2}", value)
+    time_match = re.search(
+        r"(\d{1,2}:\d{2})\s*(?:-|—|–|~|～|至|到)\s*(\d{1,2}:\d{2})",
+        value,
+    )
+    if date_match and time_match:
+        return f"{date_match.group(0)}|{time_match.group(1)}-{time_match.group(2)}"
+    return re.sub(r"\s+", "", value)
+
+
 def _match_score(official: dict, shared: dict) -> float:
+    official_time = _schedule_time_key(official)
+    shared_time = _schedule_time_key(shared)
+    official_location = re.sub(
+        r"\s+", "", unicodedata.normalize("NFKC", official.get("location") or "")
+    ).removeprefix("大连海事大学")
+    shared_location = re.sub(
+        r"\s+", "", unicodedata.normalize("NFKC", shared.get("location") or "")
+    ).removeprefix("大连海事大学")
+    if (
+        official_time
+        and shared_time
+        and official_location
+        and shared_location
+        and official_time == shared_time
+        and official_location == shared_location
+    ):
+        # 同一时间、同一地点视为同一场，以官网标题和详情为准。
+        return 2.0
+
     left = _normalized_company(official.get("company", ""))
     right = _normalized_company(shared.get("company", ""))
     if not left or not right:
@@ -302,6 +335,8 @@ def merge_events(official_events: list[dict], shared_rows: list[dict], my_name: 
         best = None
         best_score = 0.0
         for shared in shared_rows:
+            if shared["id"] in used_shared:
+                continue
             score = _match_score(official, shared)
             if score > best_score:
                 best, best_score = shared, score
