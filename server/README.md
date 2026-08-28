@@ -4,7 +4,7 @@
 
 ## 1. 准备域名和服务器
 
-先把一个域名或子域名的 A 记录指向 VPS 公网 IP。建议 VPS 至少 1 GB 内存；安装 Chromium 时可临时加 1–2 GB swap。
+先把一个域名或子域名的 A 记录指向 VPS 公网 IP。建议 VPS 至少 1 GB 内存。
 
 ```bash
 sudo apt update
@@ -14,8 +14,6 @@ sudo git clone https://github.com/Tan200051116/campus-briefing.git /opt/campus-b
 sudo chown -R briefing:briefing /opt/campus-briefing
 sudo -u briefing python3 -m venv /opt/campus-briefing/server/.venv
 sudo -u briefing /opt/campus-briefing/server/.venv/bin/pip install -r /opt/campus-briefing/server/requirements.txt
-sudo /opt/campus-briefing/server/.venv/bin/playwright install-deps chromium
-sudo -u briefing /opt/campus-briefing/server/.venv/bin/playwright install chromium
 ```
 
 ## 2. 配置抓取间隔
@@ -34,13 +32,11 @@ QUIET_START_HOUR=22
 QUIET_END_HOUR=8
 OFFICIAL_FEED_URL=https://tan200051116.github.io/campus-briefing/official-events.json
 ALLOWED_ORIGIN=https://tan200051116.github.io
-MY_NAME=谭睿
-KDOCS_URL=在这里粘贴金山共享表格链接
 ```
 
-`KDOCS_URL` 只填写在 VPS 的 `.env` 中，不要提交到公开仓库。程序按 `Asia/Shanghai` 判断日期，只保留今天及以后的宣讲。默认在北京时间 08:00–22:00 每 30 分钟检查一次，22:00–次日 08:00 暂停抓取。
+程序按 `Asia/Shanghai` 判断日期，只保留今天及以后的宣讲。默认在北京时间 08:00–22:00 每 30 分钟检查一次，22:00–次日 08:00 暂停抓取。
 
-就业网对部分境外 VPS 线路不可达，因此官网数据默认由 GitHub Actions 抓取并写入 `official-events.json`，VPS 再读取该文件与金山表格合并。GitHub Actions 同样只在北京时间 08:00–22:00 每半小时检查一次，只有数据变化时才提交文件。
+就业网对部分境外 VPS 线路不可达，因此官网数据默认由 GitHub Actions 抓取并写入 `official-events.json`，VPS 再读取该文件。系统不再访问共享表格；已读状态和“我的宣讲”由每台设备的浏览器保存。GitHub Actions 同样只在北京时间 08:00–22:00 每半小时检查一次，只有数据变化时才提交文件。
 
 ## 3. 启动服务
 
@@ -94,6 +90,4 @@ sudo systemctl restart campus-briefing
 ## 故障判断
 
 - `/api/status` 的 `errors.official`：学校就业网页结构或网络异常。
-- `/api/status` 的 `errors.kdocs`：共享表格权限、标签名或复制方式异常。
-- 如果周标签改名，在 `.env` 的 `KDOCS_SHEETS` 中用英文逗号写全新的标签名。
-- 任一来源失败时，接口继续显示上一次完整同步的数据，不会把列表清空。
+- 官网来源失败时，接口继续显示上一次完整同步的数据，不会把列表清空。

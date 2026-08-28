@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 
-from scrapers import DEFAULT_SHEETS, fetch_official_feed, merge_events, scrape_kdocs, scrape_official
+from scrapers import fetch_official_feed, merge_events, scrape_official
 
 
 load_dotenv()
@@ -25,12 +25,8 @@ OFFICIAL_FEED_URL = os.getenv(
     "OFFICIAL_FEED_URL",
     "https://tan200051116.github.io/campus-briefing/official-events.json",
 ).strip()
-KDOCS_URL = os.getenv("KDOCS_URL", "").strip()
-KDOCS_RANGE = os.getenv("KDOCS_RANGE", "A1:I200")
-MY_NAME = os.getenv("MY_NAME", "谭睿")
 DATA_FILE = Path(os.getenv("DATA_FILE", "./data/snapshot.json"))
 ALLOWED_ORIGIN = os.getenv("ALLOWED_ORIGIN", "https://tan200051116.github.io")
-KDOCS_SHEETS = [x.strip() for x in os.getenv("KDOCS_SHEETS", "").split(",") if x.strip()] or DEFAULT_SHEETS
 
 app = FastAPI(title="宣讲工作台同步服务", version="1.0.0")
 app.add_middleware(
@@ -75,7 +71,6 @@ def sync_once() -> None:
     attempted_at = datetime.now(timezone.utc).isoformat()
     errors = {}
     official = None
-    shared = None
 
     try:
         official = (
@@ -83,22 +78,15 @@ def sync_once() -> None:
             if OFFICIAL_FEED_URL
             else scrape_official(OFFICIAL_MAX_PAGES)
         )
-    except Exception as exc:  # 保存另一来源的成功结果，并在状态接口明确报告错误
+    except Exception as exc:
         errors["official"] = str(exc)
-
-    if not KDOCS_URL:
-        errors["kdocs"] = "未配置 KDOCS_URL"
-    else:
-        try:
-            shared = scrape_kdocs(KDOCS_URL, KDOCS_RANGE, KDOCS_SHEETS)
-        except Exception as exc:
-            errors["kdocs"] = str(exc)
 
     with state_lock:
         previous = state.get("events", [])
 
-    if official is not None and shared is not None:
-        events = merge_events(official, shared, MY_NAME)
+    if official is not None:
+        # 服务端只保留官网事实数据；“我的”和已读状态由浏览器本地维护。
+        events = merge_events(official, [], "")
         success_at = datetime.now(timezone.utc).isoformat()
     else:
         events = previous
