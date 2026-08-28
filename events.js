@@ -1,5 +1,6 @@
 (() => {
   const API_KEY = "campus-briefing-api-url";
+  const DEFAULT_API_URL = "https://38-47-121-34.sslip.io";
   const READ_KEY = "campus-briefing-read-event-ids-v1";
   const MINE_KEY = "campus-briefing-mine-event-ids-v1";
   const MINE_META_KEY = "campus-briefing-mine-meta-v1";
@@ -41,7 +42,7 @@
     .toLowerCase()
     .replace(/\s+/g, "");
 
-  const getApiUrl = () => (localStorage.getItem(API_KEY) || "").replace(/\/+$/, "");
+  const getApiUrl = () => (localStorage.getItem(API_KEY) || DEFAULT_API_URL).replace(/\/+$/, "");
 
   const getStoredIds = (key) => {
     try {

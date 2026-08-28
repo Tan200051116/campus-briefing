@@ -1,5 +1,6 @@
 (() => {
   const API_KEY = "campus-briefing-api-url";
+  const DEFAULT_API_URL = "https://38-47-121-34.sslip.io";
   const selectedBriefingId = new URLSearchParams(location.search).get("briefing");
   let events = [];
   let selectedBriefing = null;
@@ -88,7 +89,7 @@
   }
 
   async function loadEvents() {
-    const api = (localStorage.getItem(API_KEY) || "").replace(/\/+$/, "");
+    const api = (localStorage.getItem(API_KEY) || DEFAULT_API_URL).replace(/\/+$/, "");
     if (!api) return;
     try {
       const response = await fetch(`${api}/api/events?scope=all`, { cache: "no-store" });
