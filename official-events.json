@@ -4,7 +4,7 @@
     "title": "中远海运船员管理有限公司2027届航海类专业毕业生招录",
     "company": "中远海运船员管理有限公司2027届航海类专业毕业生招录",
     "kind": "线下",
-    "location": "启航楼101",
+    "location": "中远海运报告厅",
     "datetime": "2026-09-02 14:00-15:30（周三）",
     "date": "2026-09-02",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150638",
@@ -68,6 +68,18 @@
     "datetime": "2026-09-03 19:00-19:30（周四）",
     "date": "2026-09-03",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150632",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150683",
+    "title": "中铁七局集团有限公司",
+    "company": "中铁七局集团有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-04 10:00-11:30（周五）",
+    "date": "2026-09-04",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150683",
     "source": "official",
     "source_label": "就业网"
   },
@@ -204,6 +216,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150696",
+    "title": "中国科学院沈阳自动化研究所",
+    "company": "中国科学院沈阳自动化研究所",
+    "kind": "线下",
+    "location": "百川楼103",
+    "datetime": "2026-09-07 18:00-20:00（周一）",
+    "date": "2026-09-07",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150696",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150625",
     "title": "东莞新能德科技有限公司",
     "company": "东莞新能德科技有限公司",
@@ -324,6 +348,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150699",
+    "title": "【组团】中远海运重工集团2027届校园招聘",
+    "company": "【组团】中远海运重工集团2027届校园招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-09 09:30-11:30（周三）",
+    "date": "2026-09-09",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150699",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150636",
     "title": "中电科金仓2027校园招聘宣讲会",
     "company": "中电科金仓2027校园招聘宣讲会",
@@ -384,6 +420,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150691",
+    "title": "华勤技术股份有限公司",
+    "company": "华勤技术股份有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-09 18:00-20:00（周三）",
+    "date": "2026-09-09",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150691",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150657",
     "title": "中国航发沈阳黎明航空发动机有限责任公司",
     "company": "中国航发沈阳黎明航空发动机有限责任公司",
@@ -408,6 +456,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150669",
+    "title": "烟台中集来福士海洋科技集团有限公司",
+    "company": "烟台中集来福士海洋科技集团有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-10 13:30-15:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150669",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150609",
     "title": "深圳勇春国际船舶管理有限公司",
     "company": "深圳勇春国际船舶管理有限公司",
@@ -416,6 +476,18 @@
     "datetime": "2026-09-10 15:30-17:00（周四）",
     "date": "2026-09-10",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150609",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150698",
+    "title": "京东集团2027秋季校园招聘宣讲会",
+    "company": "京东集团2027秋季校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-10 18:00-20:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150698",
     "source": "official",
     "source_label": "就业网"
   },
@@ -516,6 +588,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150697",
+    "title": "世界500强上市国企”建发股份2027届春季校园招聘",
+    "company": "世界500强上市国企”建发股份2027届春季校园招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-14 18:00-20:00（周一）",
+    "date": "2026-09-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150697",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150685",
     "title": "【组团】中国船舶集团2027届校园招聘",
     "company": "【组团】中国船舶集团2027届校园招聘",
@@ -524,6 +608,18 @@
     "datetime": "2026-09-15 09:30-11:30（周二）",
     "date": "2026-09-15",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150685",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150652",
+    "title": "交通运输部上海打捞局",
+    "company": "交通运输部上海打捞局",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-15 18:00-20:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150652",
     "source": "official",
     "source_label": "就业网"
   },
