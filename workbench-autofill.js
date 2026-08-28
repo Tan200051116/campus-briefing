@@ -1,6 +1,8 @@
 (() => {
   const API_KEY = "campus-briefing-api-url";
+  const selectedBriefingId = new URLSearchParams(location.search).get("briefing");
   let events = [];
+  let selectedBriefing = null;
   let replayingClick = false;
 
   const normalize = (value) => String(value || "")
@@ -69,6 +71,22 @@
       : "输入企业名称、联系人和电话，匹配成功后会自动补入官网时间地点。";
   }
 
+  function applySelectedBriefing(textarea) {
+    if (!selectedBriefing || textarea.dataset.selectedBriefingApplied === "true") return;
+    if (textarea.value.trim()) return;
+    const briefingText = [
+      `企业名称：${selectedBriefing.company || selectedBriefing.title || ""}`,
+      `宣讲时间：${selectedBriefing.datetime || selectedBriefing.time || ""}`,
+      `宣讲地点：${selectedBriefing.location || ""}`,
+      "联系人：",
+      "联系电话：",
+    ].join("\n");
+    setTextareaValue(textarea, briefingText);
+    textarea.dataset.selectedBriefingApplied = "true";
+    updateHint(textarea);
+    textarea.focus();
+  }
+
   async function loadEvents() {
     const api = (localStorage.getItem(API_KEY) || "").replace(/\/+$/, "");
     if (!api) return;
@@ -77,8 +95,14 @@
       if (!response.ok) return;
       const payload = await response.json();
       events = Array.isArray(payload.events) ? payload.events : [];
+      selectedBriefing = selectedBriefingId
+        ? events.find((event) => String(event.id) === String(selectedBriefingId)) || null
+        : null;
       const textarea = document.querySelector('textarea[placeholder*="中兴通讯"]');
-      if (textarea) updateHint(textarea);
+      if (textarea) {
+        applySelectedBriefing(textarea);
+        updateHint(textarea);
+      }
     } catch {
       // 网络失败时保留原工作台的手动识别能力。
     }
@@ -118,6 +142,7 @@
       }, 80);
     }, true);
     updateHint(textarea);
+    applySelectedBriefing(textarea);
     return true;
   }
 

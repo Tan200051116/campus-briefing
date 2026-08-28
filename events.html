@@ -27,6 +27,13 @@
           <input id="api-url" type="url" placeholder="https://briefing-api.example.com" autocomplete="url" />
           <button id="save-settings" type="button">保存并连接</button>
         </div>
+        <label class="setting-toggle" for="notification-toggle">
+          <span>
+            <strong>新增企业通知</strong>
+            <small>页面打开时发现新宣讲，就发送浏览器通知</small>
+          </span>
+          <input id="notification-toggle" type="checkbox" />
+        </label>
         <p class="hint">只需在每台设备首次使用时设置一次。</p>
       </section>
 
@@ -35,6 +42,34 @@
         <a href="./events.html?view=new"><span id="count-new">—</span><small>未读新增</small></a>
         <a href="./events.html?view=mine"><span id="count-mine">—</span><small>我的</small></a>
       </section>
+
+      <section class="filter-panel" aria-label="筛选宣讲">
+        <label class="search-field" for="keyword-filter">
+          <span>搜索</span>
+          <input id="keyword-filter" type="search" placeholder="企业或地点" autocomplete="off" />
+        </label>
+        <label for="date-filter">
+          <span>日期</span>
+          <input id="date-filter" type="date" />
+        </label>
+        <label for="time-filter">
+          <span>时段</span>
+          <select id="time-filter">
+            <option value="">全部时段</option>
+            <option value="morning">上午</option>
+            <option value="afternoon">下午</option>
+            <option value="evening">晚上</option>
+          </select>
+        </label>
+        <label for="location-filter">
+          <span>地点</span>
+          <select id="location-filter">
+            <option value="">全部地点</option>
+          </select>
+        </label>
+        <button id="reset-filters" class="filter-reset" type="button">清除筛选</button>
+      </section>
+      <p id="filter-summary" class="filter-summary" hidden></p>
 
       <div id="message" class="message" role="status">正在加载…</div>
       <section id="event-list" class="event-list" aria-live="polite"></section>

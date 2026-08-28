@@ -1,4 +1,4 @@
-const CACHE_NAME = "campus-briefing-v4";
+const CACHE_NAME = "campus-briefing-v5";
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
