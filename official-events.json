@@ -1,8 +1,8 @@
 [
   {
     "id": "official-150638",
-    "title": "中远海运船员管理有限公司2027届航海类专业毕业生招录",
-    "company": "中远海运船员管理有限公司2027届航海类专业毕业生招录",
+    "title": "中远海运船员管理有限公司2027届航海类专业毕业生招聘宣讲会",
+    "company": "中远海运船员管理有限公司2027届航海类专业毕业生招聘宣讲会",
     "kind": "线下",
     "location": "中远海运报告厅",
     "datetime": "2026-09-02 14:00-15:30（周三）",
@@ -253,11 +253,11 @@
   },
   {
     "id": "official-150684",
-    "title": "【组团】山东人才组团招聘会",
-    "company": "【组团】山东人才组团招聘会",
+    "title": "【组团】2026年“山东—名校人才直通车”胶东经济圈招才引智名校行大连站活动",
+    "company": "【组团】2026年“山东—名校人才直通车”胶东经济圈招才引智名校行大连站活动",
     "kind": "线下",
     "location": "启航楼一楼",
-    "datetime": "2026-09-08 10:00-11:30（周二）",
+    "datetime": "2026-09-08 09:00-11:30（周二）",
     "date": "2026-09-08",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150684",
     "source": "official",
@@ -380,6 +380,18 @@
     "datetime": "2026-09-09 13:30-15:00（周三）",
     "date": "2026-09-09",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150598",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150709",
+    "title": "东软集团股份有限公司",
+    "company": "东软集团股份有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-09 15:30-17:00（周三）",
+    "date": "2026-09-09",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150709",
     "source": "official",
     "source_label": "就业网"
   },
