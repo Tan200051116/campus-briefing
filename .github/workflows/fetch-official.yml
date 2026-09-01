@@ -10,8 +10,8 @@ on:
       - "server/fetch_official.py"
       - "server/scrapers.py"
   schedule:
-    # 北京时间 08:00–21:45 每15分钟一次；22:00–次日 08:00 不抓取。
-    - cron: "*/15 0-13 * * *"
+    # 北京时间 08:00–21:55 每5分钟一次；22:00–次日 08:00 不抓取。
+    - cron: "*/5 0-13 * * *"
 
 permissions:
   contents: write
