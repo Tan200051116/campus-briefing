@@ -252,18 +252,6 @@
     "source_label": "就业网"
   },
   {
-    "id": "official-150625",
-    "title": "东莞新能德科技有限公司",
-    "company": "东莞新能德科技有限公司",
-    "kind": "线下",
-    "location": "百川楼101",
-    "datetime": "2026-09-07 18:00-20:00（周一）",
-    "date": "2026-09-07",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150625",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150593",
     "title": "青岛韦立国际船舶管理有限公司",
     "company": "青岛韦立国际船舶管理有限公司",
@@ -272,6 +260,18 @@
     "datetime": "2026-09-07 18:00-20:00（周一）",
     "date": "2026-09-07",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150593",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150625",
+    "title": "东莞新能德科技有限公司",
+    "company": "东莞新能德科技有限公司",
+    "kind": "线下",
+    "location": "百川楼101",
+    "datetime": "2026-09-07 18:30-20:00（周一）",
+    "date": "2026-09-07",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150625",
     "source": "official",
     "source_label": "就业网"
   },
