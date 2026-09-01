@@ -36,6 +36,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150733",
+    "title": "指导员的业务培训",
+    "company": "指导员的业务培训",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-03 13:00-16:00（周四）",
+    "date": "2026-09-03",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150733",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150616",
     "title": "恒生电子股份有限公司",
     "company": "恒生电子股份有限公司",
@@ -128,6 +140,18 @@
     "datetime": "2026-09-04 15:30-17:00（周五）",
     "date": "2026-09-04",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150605",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150734",
+    "title": "舟山中远海运重工有限公司",
+    "company": "舟山中远海运重工有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-05 10:00-11:00（周六）",
+    "date": "2026-09-05",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150734",
     "source": "official",
     "source_label": "就业网"
   },
@@ -528,6 +552,30 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150728",
+    "title": "芜船（南通）船舶制造有限公司",
+    "company": "芜船（南通）船舶制造有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-10 10:00-11:30（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150728",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150725",
+    "title": "江苏远洋船员管理有限公司",
+    "company": "江苏远洋船员管理有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-10 13:30-15:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150725",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150695",
     "title": "特来电新能源股份有限公司2027届秋季校园招聘宣讲会",
     "company": "特来电新能源股份有限公司2027届秋季校园招聘宣讲会",
@@ -648,6 +696,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150732",
+    "title": "万华化学集团股份有限公司",
+    "company": "万华化学集团股份有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-11 13:30-15:00（周五）",
+    "date": "2026-09-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150732",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150679",
     "title": "中国一汽2027全球校园招聘",
     "company": "中国一汽2027全球校园招聘",
@@ -668,6 +728,18 @@
     "datetime": "2026-09-11 13:30-15:00（周五）",
     "date": "2026-09-11",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150618",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150723",
+    "title": "Hi YOU京东方2027全球校园招聘正式启动！",
+    "company": "Hi YOU京东方2027全球校园招聘正式启动！",
+    "kind": "线下",
+    "location": "百川楼103",
+    "datetime": "2026-09-11 15:30-17:00（周五）",
+    "date": "2026-09-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150723",
     "source": "official",
     "source_label": "就业网"
   },
@@ -732,6 +804,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150701",
+    "title": "中交第四航务工程局有限公司2027年校园招聘宣讲会",
+    "company": "中交第四航务工程局有限公司2027年校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-14 15:30-17:00（周一）",
+    "date": "2026-09-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150701",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150596",
     "title": "中港疏浚有限公司",
     "company": "中港疏浚有限公司",
@@ -776,6 +860,18 @@
     "datetime": "2026-09-15 09:30-11:30（周二）",
     "date": "2026-09-15",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150685",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150689",
+    "title": "中交路桥建设有限公司",
+    "company": "中交路桥建设有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-15 10:00-11:30（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150689",
     "source": "official",
     "source_label": "就业网"
   },
@@ -832,7 +928,7 @@
     "title": "以青春铸引擎 与东安共苍穹 中国航发哈尔滨东安发动机有限公司2027校园招聘",
     "company": "以青春铸引擎 与东安共苍穹 中国航发哈尔滨东安发动机有限公司2027校园招聘",
     "kind": "线下",
-    "location": "启航楼301",
+    "location": "百川楼103",
     "datetime": "2026-09-23 18:00-20:00（周三）",
     "date": "2026-09-23",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150672",
