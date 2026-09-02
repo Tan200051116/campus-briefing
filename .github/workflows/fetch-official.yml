@@ -25,7 +25,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: fetch-official-briefings
+  group: fetch-official-briefings-${{ inputs.test_bark && github.run_id || 'chain' }}
   cancel-in-progress: false
 
 jobs:
@@ -60,12 +60,12 @@ jobs:
           cache-dependency-path: server/requirements.txt
 
       - name: Install dependencies
-        if: steps.mode.outputs.active == 'true'
+        if: steps.mode.outputs.active == 'true' && steps.mode.outputs.test_bark != 'true'
         run: pip install -r server/requirements.txt
 
       - name: Fetch DLMU briefings
         id: scrape
-        if: steps.mode.outputs.active == 'true'
+        if: steps.mode.outputs.active == 'true' && steps.mode.outputs.test_bark != 'true'
         env:
           NEW_EVENTS_FILE: ${{ runner.temp }}/new-official-events.json
         run: python server/fetch_official.py
@@ -110,7 +110,7 @@ jobs:
           fi
 
       - name: Queue next run in about five minutes
-        if: always() && steps.mode.outputs.active == 'true'
+        if: always() && steps.mode.outputs.active == 'true' && steps.mode.outputs.test_bark != 'true'
         env:
           GH_TOKEN: ${{ github.token }}
           STARTED_AT: ${{ steps.mode.outputs.started_at }}
