@@ -3,6 +3,7 @@ from __future__ import annotations
 import base64
 import os
 import re
+import time
 import unicodedata
 import zlib
 from datetime import date, datetime
@@ -69,9 +70,21 @@ def scrape_official(max_pages: int = 30) -> list[dict]:
     cutoff = _local_today()
 
     for page_number in range(1, max_pages + 1):
-        response = session.get(_page_url(page_number), timeout=25)
-        response.raise_for_status()
-        soup = BeautifulSoup(_decode_official_html(response.text), "html.parser")
+        last_error = None
+        for attempt in range(3):
+            try:
+                response = session.get(_page_url(page_number), timeout=(10, 30))
+                response.raise_for_status()
+                soup = BeautifulSoup(_decode_official_html(response.text), "html.parser")
+                break
+            except (requests.RequestException, RuntimeError) as exc:
+                last_error = exc
+                if attempt < 2:
+                    time.sleep(2 ** attempt)
+        else:
+            raise RuntimeError(
+                f"官网第 {page_number} 页连续抓取失败"
+            ) from last_error
         page_events: list[dict] = []
 
         for row in soup.select("ul.infoList.teachinList"):
