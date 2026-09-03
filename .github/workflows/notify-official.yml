@@ -1,0 +1,77 @@
+name: Notify official briefing updates
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "official-events.json"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: notify-official-briefing-updates
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Find newly added briefings
+        id: diff
+        env:
+          NEW_EVENTS_FILE: ${{ runner.temp }}/new-official-events.json
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import subprocess
+          from pathlib import Path
+
+          def load(value):
+              try:
+                  payload = json.loads(value)
+              except (json.JSONDecodeError, TypeError):
+                  return []
+              return [item for item in payload if isinstance(item, dict)] if isinstance(payload, list) else []
+
+          current = load(Path("official-events.json").read_text(encoding="utf-8"))
+          try:
+              previous_text = subprocess.check_output(
+                  ["git", "show", "HEAD^:official-events.json"],
+                  text=True,
+                  encoding="utf-8",
+              )
+          except subprocess.CalledProcessError:
+              previous_text = "[]"
+          previous_ids = {str(item.get("id")) for item in load(previous_text) if item.get("id")}
+          added = [item for item in current if item.get("id") and str(item["id"]) not in previous_ids]
+          Path(os.environ["NEW_EVENTS_FILE"]).write_text(
+              json.dumps(added, ensure_ascii=False, indent=2),
+              encoding="utf-8",
+          )
+          with Path(os.environ["GITHUB_OUTPUT"]).open("a", encoding="utf-8") as output:
+              output.write(f"count={len(added)}\n")
+          print(f"new briefings: {len(added)}")
+          PY
+
+      - name: Purge jsDelivr cache
+        continue-on-error: true
+        run: |
+          curl --fail-with-body --retry 3 --retry-delay 2 \
+            "https://purge.jsdelivr.net/gh/Tan200051116/campus-briefing@main/official-events.json"
+
+      - name: Send Bark notification
+        if: steps.diff.outputs.count != '0'
+        env:
+          BARK_URL: ${{ secrets.BARK_URL }}
+        run: |
+          python server/push_bark.py \
+            --events-file "${{ runner.temp }}/new-official-events.json"
