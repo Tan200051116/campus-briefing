@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150733",
-    "title": "指导员的业务培训",
-    "company": "指导员的业务培训",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-03 13:00-16:00（周四）",
-    "date": "2026-09-03",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150733",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150616",
     "title": "恒生电子股份有限公司",
     "company": "恒生电子股份有限公司",
@@ -1268,6 +1256,18 @@
     "datetime": "2026-09-03 09:00-11:30（周四）",
     "date": "2026-09-03",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150622",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150733",
+    "title": "指导员的业务培训",
+    "company": "指导员的业务培训",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-03 13:00-16:00（周四）",
+    "date": "2026-09-03",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150733",
     "source": "official",
     "source_label": "就业网"
   }
