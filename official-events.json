@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150616",
-    "title": "恒生电子股份有限公司",
-    "company": "恒生电子股份有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-03 15:30-17:00（周四）",
-    "date": "2026-09-03",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150616",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150592",
     "title": "深圳海顺海事服务有限公司",
     "company": "深圳海顺海事服务有限公司",
@@ -1268,6 +1256,18 @@
     "datetime": "2026-09-03 13:00-16:00（周四）",
     "date": "2026-09-03",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150733",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150616",
+    "title": "恒生电子股份有限公司",
+    "company": "恒生电子股份有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-03 15:30-17:00（周四）",
+    "date": "2026-09-03",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150616",
     "source": "official",
     "source_label": "就业网"
   }
