@@ -12,18 +12,6 @@
     "source_label": "就业网"
   },
   {
-    "id": "official-150632",
-    "title": "创维集团有限公司2027届全球校园招聘空中宣讲会",
-    "company": "创维集团有限公司2027届全球校园招聘空中宣讲会",
-    "kind": "空中",
-    "location": "线上宣讲",
-    "datetime": "2026-09-03 19:00-19:30（周四）",
-    "date": "2026-09-03",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150632",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150683",
     "title": "中铁七局集团有限公司",
     "company": "中铁七局集团有限公司",
@@ -1280,6 +1268,18 @@
     "datetime": "2026-09-03 15:30-17:00（周四）",
     "date": "2026-09-03",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150616",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150632",
+    "title": "创维集团有限公司2027届全球校园招聘空中宣讲会",
+    "company": "创维集团有限公司2027届全球校园招聘空中宣讲会",
+    "kind": "空中",
+    "location": "线上宣讲",
+    "datetime": "2026-09-03 19:00-19:30（周四）",
+    "date": "2026-09-03",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150632",
     "source": "official",
     "source_label": "就业网"
   }
