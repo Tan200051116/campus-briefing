@@ -864,18 +864,6 @@
     "source_label": "就业网"
   },
   {
-    "id": "official-150701",
-    "title": "中交第四航务工程局有限公司2027年校园招聘宣讲会",
-    "company": "中交第四航务工程局有限公司2027年校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-14 15:30-17:00（周一）",
-    "date": "2026-09-14",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150701",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150596",
     "title": "中港疏浚有限公司",
     "company": "中港疏浚有限公司",
@@ -920,6 +908,18 @@
     "datetime": "2026-09-15 09:30-11:30（周二）",
     "date": "2026-09-15",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150685",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150701",
+    "title": "中交第四航务工程局有限公司2027年校园招聘宣讲会",
+    "company": "中交第四航务工程局有限公司2027年校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-15 10:00-11:30（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150701",
     "source": "official",
     "source_label": "就业网"
   },
