@@ -1,0 +1,12 @@
+[Unit]
+Description=Run DLMU briefing Git sync every five minutes in daytime
+
+[Timer]
+OnCalendar=*-*-* 08..21:00/5:00 Asia/Shanghai
+AccuracySec=1s
+RandomizedDelaySec=0
+Persistent=true
+Unit=campus-briefing-git-sync.service
+
+[Install]
+WantedBy=timers.target
