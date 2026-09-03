@@ -840,6 +840,30 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150758",
+    "title": "中国电建集团贵阳勘测设计研究院有限公司2027年校园招聘宣讲会",
+    "company": "中国电建集团贵阳勘测设计研究院有限公司2027年校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-12 10:00-11:30（周六）",
+    "date": "2026-09-12",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150758",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150765",
+    "title": "中建三局工程总承包公司2027届校园招聘宣讲会",
+    "company": "中建三局工程总承包公司2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-13 10:00-11:30（周日）",
+    "date": "2026-09-13",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150765",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150701",
     "title": "中交第四航务工程局有限公司2027年校园招聘宣讲会",
     "company": "中交第四航务工程局有限公司2027年校园招聘宣讲会",
@@ -992,6 +1016,18 @@
     "datetime": "2026-09-16 10:00-11:30（周三）",
     "date": "2026-09-16",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150704",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150773",
+    "title": "厦门船舶重工股份有限公司",
+    "company": "厦门船舶重工股份有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-16 13:30-15:00（周三）",
+    "date": "2026-09-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150773",
     "source": "official",
     "source_label": "就业网"
   },
