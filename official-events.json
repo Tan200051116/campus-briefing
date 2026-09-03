@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150622",
-    "title": "【组团】中国建筑第八工程局有限公司2027届秋季应届生招聘",
-    "company": "【组团】中国建筑第八工程局有限公司2027届秋季应届生招聘",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-03 09:00-11:30（周四）",
-    "date": "2026-09-03",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150622",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150733",
     "title": "指导员的业务培训",
     "company": "指导员的业务培训",
@@ -588,6 +576,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150766",
+    "title": "西姆集团有限公司",
+    "company": "西姆集团有限公司",
+    "kind": "线下",
+    "location": "德济楼101",
+    "datetime": "2026-09-10 13:30-15:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150766",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150725",
     "title": "江苏远洋船员管理有限公司",
     "company": "江苏远洋船员管理有限公司",
@@ -924,6 +924,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150772",
+    "title": "​立邦 2027届“刷新青春”校园招聘正式启动",
+    "company": "​立邦 2027届“刷新青春”校园招聘正式启动",
+    "kind": "线下",
+    "location": "四海楼306",
+    "datetime": "2026-09-15 18:00-20:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150772",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150764",
     "title": "中联航运股份有限公司",
     "company": "中联航运股份有限公司",
@@ -992,6 +1004,18 @@
     "datetime": "2026-09-16 14:00-16:00（周三）",
     "date": "2026-09-16",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150686",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150755",
+    "title": "中建一局华江建设有限公司2027届秋季校园招聘",
+    "company": "中建一局华江建设有限公司2027届秋季校园招聘",
+    "kind": "线下",
+    "location": "百川楼101",
+    "datetime": "2026-09-16 15:30-17:00（周三）",
+    "date": "2026-09-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150755",
     "source": "official",
     "source_label": "就业网"
   },
@@ -1152,26 +1176,14 @@
     "source_label": "就业网"
   },
   {
-    "id": "official-150638",
-    "title": "中远海运船员管理有限公司2027届航海类专业毕业生招聘宣讲会",
-    "company": "中远海运船员管理有限公司2027届航海类专业毕业生招聘宣讲会",
-    "kind": "线下",
-    "location": "中远海运报告厅",
-    "datetime": "2026-09-02 14:00-15:30（周三）",
-    "date": "2026-09-02",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150638",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150676",
-    "title": "沪东中华造船（集团）有限公司2027届校园招聘",
-    "company": "沪东中华造船（集团）有限公司2027届校园招聘",
+    "id": "official-150622",
+    "title": "【组团】中国建筑第八工程局有限公司2027届秋季应届生招聘",
+    "company": "【组团】中国建筑第八工程局有限公司2027届秋季应届生招聘",
     "kind": "线下",
     "location": "启航楼101",
-    "datetime": "2026-09-02 15:30-17:00（周三）",
-    "date": "2026-09-02",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150676",
+    "datetime": "2026-09-03 09:00-11:30（周四）",
+    "date": "2026-09-03",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150622",
     "source": "official",
     "source_label": "就业网"
   }
