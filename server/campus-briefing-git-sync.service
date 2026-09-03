@@ -1,0 +1,15 @@
+[Unit]
+Description=Fetch DLMU briefings and update GitHub data
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=briefing
+Group=briefing
+WorkingDirectory=/opt/campus-briefing
+EnvironmentFile=/opt/campus-briefing/server/.env
+ExecStart=/usr/bin/bash /opt/campus-briefing/server/sync_official_to_git.sh
+
+[Install]
+WantedBy=multi-user.target
