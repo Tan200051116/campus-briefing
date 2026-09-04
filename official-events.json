@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150641",
-    "title": "晓禾科技2027届空中宣讲会",
-    "company": "晓禾科技2027届空中宣讲会",
-    "kind": "空中",
-    "location": "线上宣讲",
-    "datetime": "2026-09-04 15:00-15:45（周五）",
-    "date": "2026-09-04",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150641",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150667",
     "title": "中国东方资产管理股份有限公司辽宁省分公司",
     "company": "中国东方资产管理股份有限公司辽宁省分公司",
@@ -1232,6 +1220,18 @@
     "datetime": "2026-09-04 14:00-15:30（周五）",
     "date": "2026-09-04",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150589",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150641",
+    "title": "晓禾科技2027届空中宣讲会",
+    "company": "晓禾科技2027届空中宣讲会",
+    "kind": "空中",
+    "location": "线上宣讲",
+    "datetime": "2026-09-04 15:00-15:45（周五）",
+    "date": "2026-09-04",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150641",
     "source": "official",
     "source_label": "就业网"
   }
