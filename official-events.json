@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150683",
-    "title": "中铁七局集团有限公司",
-    "company": "中铁七局集团有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-04 10:00-11:30（周五）",
-    "date": "2026-09-04",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150683",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150589",
     "title": "华洋海事中心有限公司",
     "company": "华洋海事中心有限公司",
@@ -1232,6 +1220,18 @@
     "datetime": "2026-09-23 18:00-20:00（周三）",
     "date": "2026-09-23",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150672",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150683",
+    "title": "中铁七局集团有限公司",
+    "company": "中铁七局集团有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-04 10:00-11:30（周五）",
+    "date": "2026-09-04",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150683",
     "source": "official",
     "source_label": "就业网"
   }
