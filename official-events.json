@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-150667",
-    "title": "中国东方资产管理股份有限公司辽宁省分公司",
-    "company": "中国东方资产管理股份有限公司辽宁省分公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-04 15:30-17:00（周五）",
-    "date": "2026-09-04",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150667",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150605",
-    "title": "江苏大津重工有限公司",
-    "company": "江苏大津重工有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-04 15:30-17:00（周五）",
-    "date": "2026-09-04",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150605",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150734",
     "title": "舟山中远海运重工有限公司",
     "company": "舟山中远海运重工有限公司",
@@ -1232,6 +1208,30 @@
     "datetime": "2026-09-04 15:00-15:45（周五）",
     "date": "2026-09-04",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150641",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150667",
+    "title": "中国东方资产管理股份有限公司辽宁省分公司",
+    "company": "中国东方资产管理股份有限公司辽宁省分公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-04 15:30-17:00（周五）",
+    "date": "2026-09-04",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150667",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150605",
+    "title": "江苏大津重工有限公司",
+    "company": "江苏大津重工有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-04 15:30-17:00（周五）",
+    "date": "2026-09-04",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150605",
     "source": "official",
     "source_label": "就业网"
   }
