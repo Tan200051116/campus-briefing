@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150620",
-    "title": "大连中远海运重工有限公司2027届校园招聘宣讲会",
-    "company": "大连中远海运重工有限公司2027届校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-05 10:00-11:30（周六）",
-    "date": "2026-09-05",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150620",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150675",
     "title": "广西北部湾国际港务集团有限公司",
     "company": "广西北部湾国际港务集团有限公司",
@@ -1172,6 +1160,18 @@
     "datetime": "2026-09-05 10:00-11:00（周六）",
     "date": "2026-09-05",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150734",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150620",
+    "title": "大连中远海运重工有限公司2027届校园招聘宣讲会",
+    "company": "大连中远海运重工有限公司2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-05 10:00-11:30（周六）",
+    "date": "2026-09-05",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150620",
     "source": "official",
     "source_label": "就业网"
   }
