@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150665",
-    "title": "恒力重工集团2027届校园招聘",
-    "company": "恒力重工集团2027届校园招聘",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-07 13:30-15:00（周一）",
-    "date": "2026-09-07",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150665",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150673",
     "title": "中国船舶集团大连船舶重工集团有限公司2027届毕业生招聘宣讲会",
     "company": "中国船舶集团大连船舶重工集团有限公司2027届毕业生招聘宣讲会",
@@ -1124,6 +1112,18 @@
     "datetime": "2026-09-07 10:00-11:30（周一）",
     "date": "2026-09-07",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150687",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150665",
+    "title": "恒力重工集团2027届校园招聘",
+    "company": "恒力重工集团2027届校园招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-07 13:30-15:00（周一）",
+    "date": "2026-09-07",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150665",
     "source": "official",
     "source_label": "就业网"
   }
