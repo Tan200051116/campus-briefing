@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-150673",
-    "title": "中国船舶集团大连船舶重工集团有限公司2027届毕业生招聘宣讲会",
-    "company": "中国船舶集团大连船舶重工集团有限公司2027届毕业生招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-07 15:30-17:00（周一）",
-    "date": "2026-09-07",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150673",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150608",
-    "title": "北京鑫裕盛船舶管理有限公司",
-    "company": "北京鑫裕盛船舶管理有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-07 15:30-17:00（周一）",
-    "date": "2026-09-07",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150608",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150696",
     "title": "中国科学院沈阳自动化研究所",
     "company": "中国科学院沈阳自动化研究所",
@@ -1124,6 +1100,30 @@
     "datetime": "2026-09-07 13:30-15:00（周一）",
     "date": "2026-09-07",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150665",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150673",
+    "title": "中国船舶集团大连船舶重工集团有限公司2027届毕业生招聘宣讲会",
+    "company": "中国船舶集团大连船舶重工集团有限公司2027届毕业生招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-07 15:30-17:00（周一）",
+    "date": "2026-09-07",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150673",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150608",
+    "title": "北京鑫裕盛船舶管理有限公司",
+    "company": "北京鑫裕盛船舶管理有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-07 15:30-17:00（周一）",
+    "date": "2026-09-07",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150608",
     "source": "official",
     "source_label": "就业网"
   }
