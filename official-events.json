@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-150603",
-    "title": "安徽中科光电色选机械有限公司2027届校园招聘宣讲会",
-    "company": "安徽中科光电色选机械有限公司2027届校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-08 15:30-17:00（周二）",
-    "date": "2026-09-08",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150603",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150595",
-    "title": "上海森海海事服务有限公司",
-    "company": "上海森海海事服务有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-08 15:30-17:00（周二）",
-    "date": "2026-09-08",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150595",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150763",
     "title": "【在桃李，见未来】桃李未来2027届秋季校园招聘",
     "company": "【在桃李，见未来】桃李未来2027届秋季校园招聘",
@@ -1124,6 +1100,30 @@
     "datetime": "2026-09-08 14:00-15:00（周二）",
     "date": "2026-09-08",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150658",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150603",
+    "title": "安徽中科光电色选机械有限公司2027届校园招聘宣讲会",
+    "company": "安徽中科光电色选机械有限公司2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-08 15:30-17:00（周二）",
+    "date": "2026-09-08",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150603",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150595",
+    "title": "上海森海海事服务有限公司",
+    "company": "上海森海海事服务有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-08 15:30-17:00（周二）",
+    "date": "2026-09-08",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150595",
     "source": "official",
     "source_label": "就业网"
   }
