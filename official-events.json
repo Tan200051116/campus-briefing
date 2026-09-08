@@ -336,6 +336,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150809",
+    "title": "年轻“九”就要不一“阳”，锁定9月9日周三晚19点，九阳股份2027不一“阳”的空中宣讲会等你来看！",
+    "company": "年轻“九”就要不一“阳”，锁定9月9日周三晚19点，九阳股份2027不一“阳”的空中宣讲会等你来看！",
+    "kind": "空中",
+    "location": "线上宣讲",
+    "datetime": "2026-09-09 19:00-20:00（周三）",
+    "date": "2026-09-09",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150809",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150766",
     "title": "西姆集团有限公司",
     "company": "西姆集团有限公司",
@@ -932,6 +944,18 @@
     "datetime": "2026-09-17 15:30-17:00（周四）",
     "date": "2026-09-17",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150744",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150808",
+    "title": "英特仿真2027届校招岗位及空宣预告",
+    "company": "英特仿真2027届校招岗位及空宣预告",
+    "kind": "空中",
+    "location": "线上宣讲",
+    "datetime": "2026-09-17 18:00-19:00（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150808",
     "source": "official",
     "source_label": "就业网"
   },
