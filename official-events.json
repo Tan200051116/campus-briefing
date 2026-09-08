@@ -1,65 +1,5 @@
 [
   {
-    "id": "official-150786",
-    "title": "山东远洋海运集团股份有限公司",
-    "company": "山东远洋海运集团股份有限公司",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-09-08 13:30-15:00（周二）",
-    "date": "2026-09-08",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150786",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150751",
-    "title": "南通象屿海洋装备有限责任公司",
-    "company": "南通象屿海洋装备有限责任公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-08 13:30-15:00（周二）",
-    "date": "2026-09-08",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150751",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150643",
-    "title": "深圳市江波龙电子股份有限公司",
-    "company": "深圳市江波龙电子股份有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-08 13:30-15:00（周二）",
-    "date": "2026-09-08",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150643",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150633",
-    "title": "海天塑机集团有限公司",
-    "company": "海天塑机集团有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-08 13:30-15:00（周二）",
-    "date": "2026-09-08",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150633",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150658",
-    "title": "广东军辉达进出口贸易有限公司空中宣讲会",
-    "company": "广东军辉达进出口贸易有限公司空中宣讲会",
-    "kind": "空中",
-    "location": "线上宣讲",
-    "datetime": "2026-09-08 14:00-15:00（周二）",
-    "date": "2026-09-08",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150658",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150603",
     "title": "安徽中科光电色选机械有限公司2027届校园招聘宣讲会",
     "company": "安徽中科光电色选机械有限公司2027届校园招聘宣讲会",
@@ -1112,6 +1052,66 @@
     "datetime": "2026-09-08 10:00-11:30（周二）",
     "date": "2026-09-08",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150730",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150786",
+    "title": "山东远洋海运集团股份有限公司",
+    "company": "山东远洋海运集团股份有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-08 13:30-15:00（周二）",
+    "date": "2026-09-08",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150786",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150751",
+    "title": "南通象屿海洋装备有限责任公司",
+    "company": "南通象屿海洋装备有限责任公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-08 13:30-15:00（周二）",
+    "date": "2026-09-08",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150751",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150643",
+    "title": "深圳市江波龙电子股份有限公司",
+    "company": "深圳市江波龙电子股份有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-08 13:30-15:00（周二）",
+    "date": "2026-09-08",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150643",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150633",
+    "title": "海天塑机集团有限公司",
+    "company": "海天塑机集团有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-08 13:30-15:00（周二）",
+    "date": "2026-09-08",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150633",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150658",
+    "title": "广东军辉达进出口贸易有限公司空中宣讲会",
+    "company": "广东军辉达进出口贸易有限公司空中宣讲会",
+    "kind": "空中",
+    "location": "线上宣讲",
+    "datetime": "2026-09-08 14:00-15:00（周二）",
+    "date": "2026-09-08",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150658",
     "source": "official",
     "source_label": "就业网"
   }
