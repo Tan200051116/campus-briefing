@@ -492,6 +492,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150813",
+    "title": "广船国际有限公司",
+    "company": "广船国际有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-11 09:00-11:30（周五）",
+    "date": "2026-09-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150813",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150707",
     "title": "【组团】航海类用人单位2027届校园招聘",
     "company": "【组团】航海类用人单位2027届校园招聘",
@@ -548,6 +560,18 @@
     "datetime": "2026-09-11 13:30-15:00（周五）",
     "date": "2026-09-11",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150618",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150817",
+    "title": "上海中建海外发展有限公司2027届校园招聘",
+    "company": "上海中建海外发展有限公司2027届校园招聘",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-11 15:30-17:00（周五）",
+    "date": "2026-09-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150817",
     "source": "official",
     "source_label": "就业网"
   },
@@ -644,6 +668,18 @@
     "datetime": "2026-09-13 10:00-11:30（周日）",
     "date": "2026-09-13",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150765",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150815",
+    "title": "大连美恒电气有限公司",
+    "company": "大连美恒电气有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-13 15:30-17:00（周日）",
+    "date": "2026-09-13",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150815",
     "source": "official",
     "source_label": "就业网"
   },
