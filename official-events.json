@@ -840,6 +840,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150819",
+    "title": "中建三局数字公司（中建三局安装公司）",
+    "company": "中建三局数字公司（中建三局安装公司）",
+    "kind": "线下",
+    "location": "德济楼203",
+    "datetime": "2026-09-15 18:00-20:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150819",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150775",
     "title": "软控股份有限公司",
     "company": "软控股份有限公司",
@@ -876,6 +888,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150760",
+    "title": "浙江水晶光电科技股份有限公司",
+    "company": "浙江水晶光电科技股份有限公司",
+    "kind": "线下",
+    "location": "德济楼103",
+    "datetime": "2026-09-15 18:00-20:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150760",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150666",
     "title": "歌尔集团2027届校园招聘宣讲会",
     "company": "歌尔集团2027届校园招聘宣讲会",
@@ -888,6 +912,30 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150661",
+    "title": "沈鼓集团股份有限公司宣讲会",
+    "company": "沈鼓集团股份有限公司宣讲会",
+    "kind": "线下",
+    "location": "百川楼103",
+    "datetime": "2026-09-15 18:00-20:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150661",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150655",
+    "title": "粤芯半导体技术股份有限公司",
+    "company": "粤芯半导体技术股份有限公司",
+    "kind": "线下",
+    "location": "德济楼201",
+    "datetime": "2026-09-15 18:00-20:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150655",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150652",
     "title": "交通运输部上海打捞局",
     "company": "交通运输部上海打捞局",
@@ -896,6 +944,30 @@
     "datetime": "2026-09-15 18:00-20:00（周二）",
     "date": "2026-09-15",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150652",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150651",
+    "title": "潍柴雷沃智慧农业科技股份有限公司2027全球校园招聘",
+    "company": "潍柴雷沃智慧农业科技股份有限公司2027全球校园招聘",
+    "kind": "线下",
+    "location": "德济楼102",
+    "datetime": "2026-09-15 18:00-20:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150651",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150634",
+    "title": "上海华力集成电路制造有限公司",
+    "company": "上海华力集成电路制造有限公司",
+    "kind": "线下",
+    "location": "百川楼102",
+    "datetime": "2026-09-15 18:00-20:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150634",
     "source": "official",
     "source_label": "就业网"
   },
