@@ -1560,18 +1560,6 @@
     "source_label": "就业网"
   },
   {
-    "id": "official-150843",
-    "title": "格科半导体（上海）有限公司",
-    "company": "格科半导体（上海）有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-21 13:30-15:00（周一）",
-    "date": "2026-09-21",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150843",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150836",
     "title": "得力集团2027届秋季校园招聘",
     "company": "得力集团2027届秋季校园招聘",
@@ -1664,6 +1652,42 @@
     "datetime": "2026-09-22 10:00-11:30（周二）",
     "date": "2026-09-22",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150642",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150824",
+    "title": "广西柳州钢铁集团有限公司",
+    "company": "广西柳州钢铁集团有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-22 13:30-15:00（周二）",
+    "date": "2026-09-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150824",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150804",
+    "title": "中建四局土木工程有限公司",
+    "company": "中建四局土木工程有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-22 15:30-17:00（周二）",
+    "date": "2026-09-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150804",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150794",
+    "title": "中国航发成都发动机有限公司2027届校招宣讲会",
+    "company": "中国航发成都发动机有限公司2027届校招宣讲会",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-22 15:30-17:00（周二）",
+    "date": "2026-09-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150794",
     "source": "official",
     "source_label": "就业网"
   },
