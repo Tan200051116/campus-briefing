@@ -1560,6 +1560,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150843",
+    "title": "格科半导体（上海）有限公司",
+    "company": "格科半导体（上海）有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-21 13:30-15:00（周一）",
+    "date": "2026-09-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150843",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150836",
     "title": "得力集团2027届秋季校园招聘",
     "company": "得力集团2027届秋季校园招聘",
@@ -1568,6 +1580,42 @@
     "datetime": "2026-09-21 13:30-15:00（周一）",
     "date": "2026-09-21",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150836",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150739",
+    "title": "亨通集团有限公司",
+    "company": "亨通集团有限公司",
+    "kind": "线下",
+    "location": "百川楼103",
+    "datetime": "2026-09-21 13:30-15:00（周一）",
+    "date": "2026-09-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150739",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150615",
+    "title": "广州市晓星火教育科技有限公司",
+    "company": "广州市晓星火教育科技有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-21 13:30-15:00（周一）",
+    "date": "2026-09-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150615",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150800",
+    "title": "赛轮集团股份有限公司青岛分公司",
+    "company": "赛轮集团股份有限公司青岛分公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-21 15:30-17:00（周一）",
+    "date": "2026-09-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150800",
     "source": "official",
     "source_label": "就业网"
   },
