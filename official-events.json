@@ -1,65 +1,5 @@
 [
   {
-    "id": "official-150709",
-    "title": "东软集团股份有限公司",
-    "company": "东软集团股份有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-09 15:30-17:00（周三）",
-    "date": "2026-09-09",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150709",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150668",
-    "title": "中铁一局集团有限公司2027届校园招聘",
-    "company": "中铁一局集团有限公司2027届校园招聘",
-    "kind": "线下",
-    "location": "德济楼101",
-    "datetime": "2026-09-09 15:30-17:00（周三）",
-    "date": "2026-09-09",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150668",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150653",
-    "title": "“惠聚未来，向海而生”惠生清能2027届校园招聘宣讲会",
-    "company": "“惠聚未来，向海而生”惠生清能2027届校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-09-09 15:30-17:00（周三）",
-    "date": "2026-09-09",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150653",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150631",
-    "title": "机械工业第九设计研究院股份有限公司",
-    "company": "机械工业第九设计研究院股份有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-09 15:30-17:00（周三）",
-    "date": "2026-09-09",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150631",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150628",
-    "title": "深圳华威近海船舶运输股份有限公司",
-    "company": "深圳华威近海船舶运输股份有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-09 15:30-17:00（周三）",
-    "date": "2026-09-09",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150628",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150691",
     "title": "华勤技术股份有限公司",
     "company": "华勤技术股份有限公司",
@@ -1796,6 +1736,66 @@
     "datetime": "2026-09-09 13:30-15:00（周三）",
     "date": "2026-09-09",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150598",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150709",
+    "title": "东软集团股份有限公司",
+    "company": "东软集团股份有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-09 15:30-17:00（周三）",
+    "date": "2026-09-09",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150709",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150668",
+    "title": "中铁一局集团有限公司2027届校园招聘",
+    "company": "中铁一局集团有限公司2027届校园招聘",
+    "kind": "线下",
+    "location": "德济楼101",
+    "datetime": "2026-09-09 15:30-17:00（周三）",
+    "date": "2026-09-09",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150668",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150653",
+    "title": "“惠聚未来，向海而生”惠生清能2027届校园招聘宣讲会",
+    "company": "“惠聚未来，向海而生”惠生清能2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-09 15:30-17:00（周三）",
+    "date": "2026-09-09",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150653",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150631",
+    "title": "机械工业第九设计研究院股份有限公司",
+    "company": "机械工业第九设计研究院股份有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-09 15:30-17:00（周三）",
+    "date": "2026-09-09",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150631",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150628",
+    "title": "深圳华威近海船舶运输股份有限公司",
+    "company": "深圳华威近海船舶运输股份有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-09 15:30-17:00（周三）",
+    "date": "2026-09-09",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150628",
     "source": "official",
     "source_label": "就业网"
   }
