@@ -1284,6 +1284,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150781",
+    "title": "中建市政工程有限公司",
+    "company": "中建市政工程有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-17 15:30-17:00（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150781",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150744",
     "title": "杭州士兰微电子股份有限公司",
     "company": "杭州士兰微电子股份有限公司",
@@ -1304,6 +1316,18 @@
     "datetime": "2026-09-17 15:30-17:00（周四）",
     "date": "2026-09-17",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150627",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150584",
+    "title": "广东芯粤能半导体有限公司27届宣讲会",
+    "company": "广东芯粤能半导体有限公司27届宣讲会",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-17 15:30-17:30（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150584",
     "source": "official",
     "source_label": "就业网"
   },
@@ -1508,6 +1532,42 @@
     "datetime": "2026-09-20 18:00-20:00（周日）",
     "date": "2026-09-20",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150645",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150793",
+    "title": "国电投莱阳核能有限公司",
+    "company": "国电投莱阳核能有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-21 10:00-11:30（周一）",
+    "date": "2026-09-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150793",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150736",
+    "title": "中铁二十五局集团有限公司",
+    "company": "中铁二十五局集团有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-21 10:00-11:30（周一）",
+    "date": "2026-09-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150736",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150827",
+    "title": "东海实验室2027届校园招聘宣讲会",
+    "company": "东海实验室2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-21 18:00-20:00（周一）",
+    "date": "2026-09-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150827",
     "source": "official",
     "source_label": "就业网"
   },
