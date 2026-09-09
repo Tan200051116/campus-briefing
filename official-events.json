@@ -1560,6 +1560,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150836",
+    "title": "得力集团2027届秋季校园招聘",
+    "company": "得力集团2027届秋季校园招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-21 13:30-15:00（周一）",
+    "date": "2026-09-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150836",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150827",
     "title": "东海实验室2027届校园招聘宣讲会",
     "company": "东海实验室2027届校园招聘宣讲会",
@@ -1568,6 +1580,18 @@
     "datetime": "2026-09-21 18:00-20:00（周一）",
     "date": "2026-09-21",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150827",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150706",
+    "title": "广州市森大贸易有限公司",
+    "company": "广州市森大贸易有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-21 18:00-20:00（周一）",
+    "date": "2026-09-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150706",
     "source": "official",
     "source_label": "就业网"
   },
