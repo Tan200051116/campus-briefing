@@ -1044,11 +1044,23 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150842",
+    "title": "就业指导",
+    "company": "就业指导",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-18 15:30-17:00（周五）",
+    "date": "2026-09-18",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150842",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150735",
     "title": "安徽安凯汽车股份有限公司",
     "company": "安徽安凯汽车股份有限公司",
     "kind": "线下",
-    "location": "启航楼101",
+    "location": "启航楼202",
     "datetime": "2026-09-18 15:30-17:00（周五）",
     "date": "2026-09-18",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150735",
