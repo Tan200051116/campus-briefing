@@ -744,6 +744,54 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150670",
+    "title": "环海海事服务（大连）有限公司",
+    "company": "环海海事服务（大连）有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-15 10:00-11:30（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150670",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150830",
+    "title": "中交广州航道局有限公司",
+    "company": "中交广州航道局有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-15 13:30-15:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150830",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150806",
+    "title": "荣信汇科电气股份有限公司2027届校园招聘",
+    "company": "荣信汇科电气股份有限公司2027届校园招聘",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-15 13:30-15:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150806",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150771",
+    "title": "中船动力（集团）有限公司",
+    "company": "中船动力（集团）有限公司",
+    "kind": "线下",
+    "location": "励志楼103",
+    "datetime": "2026-09-15 13:30-15:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150771",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150728",
     "title": "芜船（南通）船舶制造有限公司",
     "company": "芜船（南通）船舶制造有限公司",
