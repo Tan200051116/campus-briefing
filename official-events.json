@@ -1032,6 +1032,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150778",
+    "title": "福建省海运集团有限责任公司",
+    "company": "福建省海运集团有限责任公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-16 13:30-15:00（周三）",
+    "date": "2026-09-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150778",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150773",
     "title": "厦门船舶重工股份有限公司",
     "company": "厦门船舶重工股份有限公司",
@@ -1040,6 +1052,18 @@
     "datetime": "2026-09-16 13:30-15:00（周三）",
     "date": "2026-09-16",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150773",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150626",
+    "title": "长川科技2027届校园招聘宣讲会",
+    "company": "长川科技2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-16 13:30-15:00（周三）",
+    "date": "2026-09-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150626",
     "source": "official",
     "source_label": "就业网"
   },
@@ -1112,6 +1136,30 @@
     "datetime": "2026-09-16 18:00-19:30（周三）",
     "date": "2026-09-16",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150741",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150831",
+    "title": "中建三局国际工程公司（海外事业部）2027届校园招聘",
+    "company": "中建三局国际工程公司（海外事业部）2027届校园招聘",
+    "kind": "线下",
+    "location": "四海楼305",
+    "datetime": "2026-09-16 18:00-20:00（周三）",
+    "date": "2026-09-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150831",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150810",
+    "title": "奥赛能涡轮增压系统（重庆）有限公司",
+    "company": "奥赛能涡轮增压系统（重庆）有限公司",
+    "kind": "线下",
+    "location": "四海楼306",
+    "datetime": "2026-09-16 18:00-20:00（周三）",
+    "date": "2026-09-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150810",
     "source": "official",
     "source_label": "就业网"
   },
