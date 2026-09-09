@@ -1272,6 +1272,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150814",
+    "title": "北汽福田汽车股份有限公司",
+    "company": "北汽福田汽车股份有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-17 15:30-17:00（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150814",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150744",
     "title": "杭州士兰微电子股份有限公司",
     "company": "杭州士兰微电子股份有限公司",
@@ -1280,6 +1292,18 @@
     "datetime": "2026-09-17 15:30-17:00（周四）",
     "date": "2026-09-17",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150744",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150627",
+    "title": "湖南未来教育科技集团有限公司",
+    "company": "湖南未来教育科技集团有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-17 15:30-17:00（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150627",
     "source": "official",
     "source_label": "就业网"
   },
@@ -1308,6 +1332,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150835",
+    "title": "中国农业银行股份有限公司大连市分行",
+    "company": "中国农业银行股份有限公司大连市分行",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-17 18:00-20:00（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150835",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150757",
     "title": "科技赋能·装备美好 潍柴集团2027届全球校园招聘",
     "company": "科技赋能·装备美好 潍柴集团2027届全球校园招聘",
@@ -1316,6 +1352,30 @@
     "datetime": "2026-09-17 18:00-20:00（周四）",
     "date": "2026-09-17",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150757",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150681",
+    "title": "徐工集团工程机械股份有限公司",
+    "company": "徐工集团工程机械股份有限公司",
+    "kind": "线下",
+    "location": "百川楼102",
+    "datetime": "2026-09-17 18:00-20:00（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150681",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150640",
+    "title": "浙江晶盛机电股份有限公司",
+    "company": "浙江晶盛机电股份有限公司",
+    "kind": "线下",
+    "location": "百川楼101",
+    "datetime": "2026-09-17 18:00-20:00（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150640",
     "source": "official",
     "source_label": "就业网"
   },
