@@ -1,65 +1,5 @@
 [
   {
-    "id": "official-150766",
-    "title": "西姆集团有限公司",
-    "company": "西姆集团有限公司",
-    "kind": "线下",
-    "location": "德济楼101",
-    "datetime": "2026-09-10 13:30-15:00（周四）",
-    "date": "2026-09-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150766",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150725",
-    "title": "江苏远洋船员管理有限公司",
-    "company": "江苏远洋船员管理有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-10 13:30-15:00（周四）",
-    "date": "2026-09-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150725",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150695",
-    "title": "特来电新能源股份有限公司2027届秋季校园招聘宣讲会",
-    "company": "特来电新能源股份有限公司2027届秋季校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-10 13:30-15:00（周四）",
-    "date": "2026-09-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150695",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150669",
-    "title": "烟台中集来福士海洋科技集团有限公司",
-    "company": "烟台中集来福士海洋科技集团有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-10 13:30-15:00（周四）",
-    "date": "2026-09-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150669",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150659",
-    "title": "广东军辉达进出口贸易有限公司空中宣讲会",
-    "company": "广东军辉达进出口贸易有限公司空中宣讲会",
-    "kind": "空中",
-    "location": "线上宣讲",
-    "datetime": "2026-09-10 14:00-15:00（周四）",
-    "date": "2026-09-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150659",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150783",
     "title": "【全球领军·硬核起航】华海通信、华海智汇2027届毕业生秋季校园招聘宣讲会 ",
     "company": "【全球领军·硬核起航】华海通信、华海智汇2027届毕业生秋季校园招聘宣讲会 ",
@@ -1776,6 +1716,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150825",
+    "title": "浙江吉利控股集团有限公司",
+    "company": "浙江吉利控股集团有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-08 18:00-20:00（周四）",
+    "date": "2026-10-08",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150825",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150702",
     "title": "国贸股份2027届秋季全球校园招聘",
     "company": "国贸股份2027届秋季全球校园招聘",
@@ -1796,6 +1748,66 @@
     "datetime": "2026-10-19 15:30-17:00（周一）",
     "date": "2026-10-19",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150690",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150766",
+    "title": "西姆集团有限公司",
+    "company": "西姆集团有限公司",
+    "kind": "线下",
+    "location": "德济楼101",
+    "datetime": "2026-09-10 13:30-15:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150766",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150725",
+    "title": "江苏远洋船员管理有限公司",
+    "company": "江苏远洋船员管理有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-10 13:30-15:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150725",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150695",
+    "title": "特来电新能源股份有限公司2027届秋季校园招聘宣讲会",
+    "company": "特来电新能源股份有限公司2027届秋季校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-10 13:30-15:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150695",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150669",
+    "title": "烟台中集来福士海洋科技集团有限公司",
+    "company": "烟台中集来福士海洋科技集团有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-10 13:30-15:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150669",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150659",
+    "title": "广东军辉达进出口贸易有限公司空中宣讲会",
+    "company": "广东军辉达进出口贸易有限公司空中宣讲会",
+    "kind": "空中",
+    "location": "线上宣讲",
+    "datetime": "2026-09-10 14:00-15:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150659",
     "source": "official",
     "source_label": "就业网"
   }
