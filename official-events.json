@@ -1,53 +1,5 @@
 [
   {
-    "id": "official-150783",
-    "title": "【全球领军·硬核起航】华海通信、华海智汇2027届毕业生秋季校园招聘宣讲会 ",
-    "company": "【全球领军·硬核起航】华海通信、华海智汇2027届毕业生秋季校园招聘宣讲会 ",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-09-10 15:30-17:00（周四）",
-    "date": "2026-09-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150783",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150779",
-    "title": "一汽资本控股有限公司",
-    "company": "一汽资本控股有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-10 15:30-17:00（周四）",
-    "date": "2026-09-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150779",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150610",
-    "title": "烟台九目化学股份有限公司2027届宣讲会",
-    "company": "烟台九目化学股份有限公司2027届宣讲会",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-10 15:30-17:00（周四）",
-    "date": "2026-09-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150610",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150609",
-    "title": "深圳勇春国际船舶管理有限公司",
-    "company": "深圳勇春国际船舶管理有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-10 15:30-17:00（周四）",
-    "date": "2026-09-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150609",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150754",
     "title": "青岛鼎信通讯股份有限公司",
     "company": "青岛鼎信通讯股份有限公司",
@@ -1796,6 +1748,54 @@
     "datetime": "2026-09-10 14:00-15:00（周四）",
     "date": "2026-09-10",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150659",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150783",
+    "title": "【全球领军·硬核起航】华海通信、华海智汇2027届毕业生秋季校园招聘宣讲会 ",
+    "company": "【全球领军·硬核起航】华海通信、华海智汇2027届毕业生秋季校园招聘宣讲会 ",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-10 15:30-17:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150783",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150779",
+    "title": "一汽资本控股有限公司",
+    "company": "一汽资本控股有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-10 15:30-17:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150779",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150610",
+    "title": "烟台九目化学股份有限公司2027届宣讲会",
+    "company": "烟台九目化学股份有限公司2027届宣讲会",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-10 15:30-17:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150610",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150609",
+    "title": "深圳勇春国际船舶管理有限公司",
+    "company": "深圳勇春国际船舶管理有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-10 15:30-17:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150609",
     "source": "official",
     "source_label": "就业网"
   }
