@@ -1096,7 +1096,7 @@
     "title": "天津三环乐喜新材料有限公司",
     "company": "天津三环乐喜新材料有限公司",
     "kind": "线下",
-    "location": "启航楼105",
+    "location": "启航楼101",
     "datetime": "2026-09-17 10:00-11:30（周四）",
     "date": "2026-09-17",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150823",
@@ -1116,6 +1116,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150781",
+    "title": "中建市政工程有限公司",
+    "company": "中建市政工程有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-17 10:00-11:30（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150781",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150814",
     "title": "北汽福田汽车股份有限公司",
     "company": "北汽福田汽车股份有限公司",
@@ -1124,18 +1136,6 @@
     "datetime": "2026-09-17 15:30-17:00（周四）",
     "date": "2026-09-17",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150814",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150781",
-    "title": "中建市政工程有限公司",
-    "company": "中建市政工程有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-17 15:30-17:00（周四）",
-    "date": "2026-09-17",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150781",
     "source": "official",
     "source_label": "就业网"
   },
