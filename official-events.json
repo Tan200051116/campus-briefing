@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150754",
-    "title": "青岛鼎信通讯股份有限公司",
-    "company": "青岛鼎信通讯股份有限公司",
-    "kind": "空中",
-    "location": "线上宣讲",
-    "datetime": "2026-09-10 16:00-18:00（周四）",
-    "date": "2026-09-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150754",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150711",
     "title": "中能先锋（北京）能源科技有限公司",
     "company": "中能先锋（北京）能源科技有限公司",
@@ -1796,6 +1784,18 @@
     "datetime": "2026-09-10 15:30-17:00（周四）",
     "date": "2026-09-10",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150609",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150754",
+    "title": "青岛鼎信通讯股份有限公司",
+    "company": "青岛鼎信通讯股份有限公司",
+    "kind": "空中",
+    "location": "线上宣讲",
+    "datetime": "2026-09-10 16:00-18:00（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150754",
     "source": "official",
     "source_label": "就业网"
   }
