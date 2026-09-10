@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150711",
-    "title": "中能先锋（北京）能源科技有限公司",
-    "company": "中能先锋（北京）能源科技有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-10 18:00-19:30（周四）",
-    "date": "2026-09-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150711",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150740",
     "title": "新东方集团2027全球联合校园招聘大连海事专场",
     "company": "新东方集团2027全球联合校园招聘大连海事专场",
@@ -1796,6 +1784,18 @@
     "datetime": "2026-09-10 16:00-18:00（周四）",
     "date": "2026-09-10",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150754",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150711",
+    "title": "中能先锋（北京）能源科技有限公司",
+    "company": "中能先锋（北京）能源科技有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-10 18:00-19:30（周四）",
+    "date": "2026-09-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150711",
     "source": "official",
     "source_label": "就业网"
   }
