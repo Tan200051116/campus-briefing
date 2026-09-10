@@ -1032,18 +1032,6 @@
     "source_label": "就业网"
   },
   {
-    "id": "official-150803",
-    "title": "深信服科技股份有限公司",
-    "company": "深信服科技股份有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-16 18:00-20:00（周三）",
-    "date": "2026-09-16",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150803",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150727",
     "title": "大国重器·上市公司 | 杰瑞集团2027届校园招聘",
     "company": "大国重器·上市公司 | 杰瑞集团2027届校园招聘",
@@ -1076,6 +1064,18 @@
     "datetime": "2026-09-16 18:00-20:00（周三）",
     "date": "2026-09-16",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150619",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150803",
+    "title": "深信服科技股份有限公司",
+    "company": "深信服科技股份有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-16 18:30-20:00（周三）",
+    "date": "2026-09-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150803",
     "source": "official",
     "source_label": "就业网"
   },
