@@ -1,41 +1,5 @@
 [
   {
-    "id": "official-150813",
-    "title": "广船国际有限公司",
-    "company": "广船国际有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-11 09:00-11:30（周五）",
-    "date": "2026-09-11",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150813",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150707",
-    "title": "【组团】航海类用人单位2027届校园招聘",
-    "company": "【组团】航海类用人单位2027届校园招聘",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-11 09:00-11:30（周五）",
-    "date": "2026-09-11",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150707",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150624",
-    "title": "东风汽车集团股份有限公司奕派汽车科技分公司2027届秋季校园招聘",
-    "company": "东风汽车集团股份有限公司奕派汽车科技分公司2027届秋季校园招聘",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-11 10:00-11:30（周五）",
-    "date": "2026-09-11",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150624",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150732",
     "title": "万华化学集团股份有限公司",
     "company": "万华化学集团股份有限公司",
@@ -1664,6 +1628,42 @@
     "datetime": "2026-10-19 15:30-17:00（周一）",
     "date": "2026-10-19",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150690",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150813",
+    "title": "广船国际有限公司",
+    "company": "广船国际有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-11 09:00-11:30（周五）",
+    "date": "2026-09-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150813",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150707",
+    "title": "【组团】航海类用人单位2027届校园招聘",
+    "company": "【组团】航海类用人单位2027届校园招聘",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-11 09:00-11:30（周五）",
+    "date": "2026-09-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150707",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150624",
+    "title": "东风汽车集团股份有限公司奕派汽车科技分公司2027届秋季校园招聘",
+    "company": "东风汽车集团股份有限公司奕派汽车科技分公司2027届秋季校园招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-11 10:00-11:30（周五）",
+    "date": "2026-09-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150624",
     "source": "official",
     "source_label": "就业网"
   }
