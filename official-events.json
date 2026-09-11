@@ -852,6 +852,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150861",
+    "title": "中国银行大连分行2027年校园招聘宣讲会",
+    "company": "中国银行大连分行2027年校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-17 15:30-17:00（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150861",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150814",
     "title": "北汽福田汽车股份有限公司",
     "company": "北汽福田汽车股份有限公司",
@@ -1268,6 +1280,30 @@
     "datetime": "2026-09-22 10:00-11:30（周二）",
     "date": "2026-09-22",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150642",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150862",
+    "title": "地中海航运船舶管理（宁波）有限公司",
+    "company": "地中海航运船舶管理（宁波）有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-22 13:30-15:00（周二）",
+    "date": "2026-09-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150862",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150859",
+    "title": "申万宏源证券有限公司2027届应届毕业生秋季招聘",
+    "company": "申万宏源证券有限公司2027届应届毕业生秋季招聘",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-22 13:30-15:00（周二）",
+    "date": "2026-09-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150859",
     "source": "official",
     "source_label": "就业网"
   },
