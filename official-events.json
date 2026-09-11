@@ -1,41 +1,5 @@
 [
   {
-    "id": "official-150723",
-    "title": "Hi YOU京东方2027全球校园招聘正式启动！",
-    "company": "Hi YOU京东方2027全球校园招聘正式启动！",
-    "kind": "线下",
-    "location": "百川楼103",
-    "datetime": "2026-09-11 15:30-17:00（周五）",
-    "date": "2026-09-11",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150723",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150623",
-    "title": "烽火通信2027届秋季校园招聘大连海事专场",
-    "company": "烽火通信2027届秋季校园招聘大连海事专场",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-11 15:30-17:00（周五）",
-    "date": "2026-09-11",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150623",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150604",
-    "title": "厦门泛海国际船舶管理有限公司",
-    "company": "厦门泛海国际船舶管理有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-11 15:30-17:00（周五）",
-    "date": "2026-09-11",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150604",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150678",
     "title": "深圳TCL新技术有限公司",
     "company": "深圳TCL新技术有限公司",
@@ -1676,6 +1640,42 @@
     "datetime": "2026-09-11 14:00-16:00（周五）",
     "date": "2026-09-11",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150855",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150723",
+    "title": "Hi YOU京东方2027全球校园招聘正式启动！",
+    "company": "Hi YOU京东方2027全球校园招聘正式启动！",
+    "kind": "线下",
+    "location": "百川楼103",
+    "datetime": "2026-09-11 15:30-17:00（周五）",
+    "date": "2026-09-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150723",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150623",
+    "title": "烽火通信2027届秋季校园招聘大连海事专场",
+    "company": "烽火通信2027届秋季校园招聘大连海事专场",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-11 15:30-17:00（周五）",
+    "date": "2026-09-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150623",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150604",
+    "title": "厦门泛海国际船舶管理有限公司",
+    "company": "厦门泛海国际船舶管理有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-11 15:30-17:00（周五）",
+    "date": "2026-09-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150604",
     "source": "official",
     "source_label": "就业网"
   }
