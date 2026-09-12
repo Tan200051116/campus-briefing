@@ -792,6 +792,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150866",
+    "title": "中铁大桥局集团有限公司",
+    "company": "中铁大桥局集团有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-17 13:30-15:00（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150866",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150856",
     "title": "【组团】大连高新区2026年秋季组团招聘会",
     "company": "【组团】大连高新区2026年秋季组团招聘会",
@@ -1080,6 +1092,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150863",
+    "title": "思源电气股份有限公司",
+    "company": "思源电气股份有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-20 15:30-17:00（周日）",
+    "date": "2026-09-20",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150863",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150846",
     "title": "阿法拉伐（上海）技术有限公司",
     "company": "阿法拉伐（上海）技术有限公司",
@@ -1268,6 +1292,18 @@
     "datetime": "2026-09-22 13:30-15:00（周二）",
     "date": "2026-09-22",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150824",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150864",
+    "title": "中国铁建大桥工程局集团有限公司",
+    "company": "中国铁建大桥工程局集团有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-22 15:30-17:00（周二）",
+    "date": "2026-09-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150864",
     "source": "official",
     "source_label": "就业网"
   },
