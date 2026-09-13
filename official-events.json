@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150815",
-    "title": "大连美恒电气有限公司",
-    "company": "大连美恒电气有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-13 15:30-17:00（周日）",
-    "date": "2026-09-13",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150815",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150714",
     "title": "中国电信辽宁分公司2027校园招聘",
     "company": "中国电信辽宁分公司2027校园招聘",
@@ -1592,6 +1580,18 @@
     "datetime": "2026-09-13 10:00-11:30（周日）",
     "date": "2026-09-13",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150765",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150815",
+    "title": "大连美恒电气有限公司",
+    "company": "大连美恒电气有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-13 15:30-17:00（周日）",
+    "date": "2026-09-13",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150815",
     "source": "official",
     "source_label": "就业网"
   }
