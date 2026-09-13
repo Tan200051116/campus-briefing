@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150765",
-    "title": "中建三局工程总承包公司2027届校园招聘宣讲会",
-    "company": "中建三局工程总承包公司2027届校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-13 10:00-11:30（周日）",
-    "date": "2026-09-13",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150765",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150815",
     "title": "大连美恒电气有限公司",
     "company": "大连美恒电气有限公司",
@@ -1592,6 +1580,18 @@
     "datetime": "2026-10-19 15:30-17:00（周一）",
     "date": "2026-10-19",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150690",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150765",
+    "title": "中建三局工程总承包公司2027届校园招聘宣讲会",
+    "company": "中建三局工程总承包公司2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-13 10:00-11:30（周日）",
+    "date": "2026-09-13",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150765",
     "source": "official",
     "source_label": "就业网"
   }
