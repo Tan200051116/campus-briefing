@@ -1068,6 +1068,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150793",
+    "title": "国电投莱阳核能有限公司",
+    "company": "国电投莱阳核能有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-20 10:00-11:30（周日）",
+    "date": "2026-09-20",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150793",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150708",
     "title": " 中国长城|长城电源技术有限公司2027届校园招聘宣讲会",
     "company": " 中国长城|长城电源技术有限公司2027届校园招聘宣讲会",
@@ -1112,18 +1124,6 @@
     "datetime": "2026-09-20 18:00-20:00（周日）",
     "date": "2026-09-20",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150645",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150793",
-    "title": "国电投莱阳核能有限公司",
-    "company": "国电投莱阳核能有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-21 10:00-11:30（周一）",
-    "date": "2026-09-21",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150793",
     "source": "official",
     "source_label": "就业网"
   },
