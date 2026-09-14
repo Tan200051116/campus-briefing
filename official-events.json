@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150713",
-    "title": "中交（天津）疏浚工程有限公司",
-    "company": "中交（天津）疏浚工程有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-14 18:00-19:30（周一）",
-    "date": "2026-09-14",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150713",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150838",
     "title": "智汇临工、赋能未来I临工集团2027全球校园招聘",
     "company": "智汇临工、赋能未来I临工集团2027全球校园招聘",
@@ -1592,6 +1580,18 @@
     "datetime": "2026-09-14 15:30-17:00（周一）",
     "date": "2026-09-14",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150596",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150713",
+    "title": "中交（天津）疏浚工程有限公司",
+    "company": "中交（天津）疏浚工程有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-14 18:00-19:30（周一）",
+    "date": "2026-09-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150713",
     "source": "official",
     "source_label": "就业网"
   }
