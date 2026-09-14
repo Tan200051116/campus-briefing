@@ -720,6 +720,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150868",
+    "title": "莆田港务集团有限公司2027届校园招聘",
+    "company": "莆田港务集团有限公司2027届校园招聘",
+    "kind": "线下",
+    "location": "四海楼305",
+    "datetime": "2026-09-17 10:00-11:30（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150868",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150828",
     "title": "中国能源建设集团安徽电力建设第二工程有限公司 2027年度校园招聘专场宣讲会",
     "company": "中国能源建设集团安徽电力建设第二工程有限公司 2027年度校园招聘专场宣讲会",
@@ -1472,6 +1484,18 @@
     "datetime": "2026-09-23 18:00-20:00（周三）",
     "date": "2026-09-23",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150672",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150867",
+    "title": "中久数创/中物院软件中心/中国久远CAE软件事业部 2027届校园招聘",
+    "company": "中久数创/中物院软件中心/中国久远CAE软件事业部 2027届校园招聘",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-24 10:00-11:30（周四）",
+    "date": "2026-09-24",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150867",
     "source": "official",
     "source_label": "就业网"
   },
