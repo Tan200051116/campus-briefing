@@ -1344,6 +1344,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150878",
+    "title": "瀚辰精英（大连）海洋工程有限公司",
+    "company": "瀚辰精英（大连）海洋工程有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-24 15:30-17:00（周四）",
+    "date": "2026-09-24",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150878",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150780",
     "title": "北京四方继保自动化股份有限公司",
     "company": "北京四方继保自动化股份有限公司",
@@ -1352,6 +1364,18 @@
     "datetime": "2026-09-28 18:00-20:00（周一）",
     "date": "2026-09-28",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150780",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150877",
+    "title": "宁波华泰盛富聚合材料有限公司",
+    "company": "宁波华泰盛富聚合材料有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-29 13:30-15:00（周二）",
+    "date": "2026-09-29",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150877",
     "source": "official",
     "source_label": "就业网"
   },
