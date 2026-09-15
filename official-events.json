@@ -1,65 +1,5 @@
 [
   {
-    "id": "official-150830",
-    "title": "中交广州航道局有限公司",
-    "company": "中交广州航道局有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-15 15:30-17:00（周二）",
-    "date": "2026-09-15",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150830",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150752",
-    "title": "汇川技术2027届校招宣讲",
-    "company": "汇川技术2027届校招宣讲",
-    "kind": "线下",
-    "location": "百川楼203",
-    "datetime": "2026-09-15 15:30-17:00（周二）",
-    "date": "2026-09-15",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150752",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150728",
-    "title": "芜船（南通）船舶制造有限公司",
-    "company": "芜船（南通）船舶制造有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-15 15:30-17:00（周二）",
-    "date": "2026-09-15",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150728",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150703",
-    "title": "金融软件龙头企业|文华财经2027届校招",
-    "company": "金融软件龙头企业|文华财经2027届校招",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-15 15:30-17:00（周二）",
-    "date": "2026-09-15",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150703",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150682",
-    "title": "TCL茂佳科技2027校园招聘宣讲会",
-    "company": "TCL茂佳科技2027校园招聘宣讲会",
-    "kind": "线下",
-    "location": "百川楼202",
-    "datetime": "2026-09-15 15:30-17:00（周二）",
-    "date": "2026-09-15",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150682",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150847",
     "title": "【央企】中建三局一公司2027届“争先之星”秋季校园招聘专场宣讲会",
     "company": "【央企】中建三局一公司2027届“争先之星”秋季校园招聘专场宣讲会",
@@ -1544,6 +1484,66 @@
     "datetime": "2026-09-15 13:30-15:00（周二）",
     "date": "2026-09-15",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150771",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150830",
+    "title": "中交广州航道局有限公司",
+    "company": "中交广州航道局有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-15 15:30-17:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150830",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150752",
+    "title": "汇川技术2027届校招宣讲",
+    "company": "汇川技术2027届校招宣讲",
+    "kind": "线下",
+    "location": "百川楼203",
+    "datetime": "2026-09-15 15:30-17:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150752",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150728",
+    "title": "芜船（南通）船舶制造有限公司",
+    "company": "芜船（南通）船舶制造有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-15 15:30-17:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150728",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150703",
+    "title": "金融软件龙头企业|文华财经2027届校招",
+    "company": "金融软件龙头企业|文华财经2027届校招",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-15 15:30-17:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150703",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150682",
+    "title": "TCL茂佳科技2027校园招聘宣讲会",
+    "company": "TCL茂佳科技2027校园招聘宣讲会",
+    "kind": "线下",
+    "location": "百川楼202",
+    "datetime": "2026-09-15 15:30-17:00（周二）",
+    "date": "2026-09-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150682",
     "source": "official",
     "source_label": "就业网"
   }
