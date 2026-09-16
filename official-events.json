@@ -1,53 +1,5 @@
 [
   {
-    "id": "official-150795",
-    "title": "中核四0四有限公司",
-    "company": "中核四0四有限公司",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-09-16 10:00-11:30（周三）",
-    "date": "2026-09-16",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150795",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150747",
-    "title": "中国船舶集团渤海造船有限公司2026年秋季招聘宣讲会",
-    "company": "中国船舶集团渤海造船有限公司2026年秋季招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-16 10:00-11:30（周三）",
-    "date": "2026-09-16",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150747",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150731",
-    "title": "大连重工装备集团2027秋季宣讲会",
-    "company": "大连重工装备集团2027秋季宣讲会",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-16 10:00-11:30（周三）",
-    "date": "2026-09-16",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150731",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150704",
-    "title": "广东瑞高海运物流有限公司",
-    "company": "广东瑞高海运物流有限公司",
-    "kind": "线下",
-    "location": "百川楼101",
-    "datetime": "2026-09-16 10:00-11:30（周三）",
-    "date": "2026-09-16",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150704",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150845",
     "title": "浙江浙能电力工程技术有限公司",
     "company": "浙江浙能电力工程技术有限公司",
@@ -1256,6 +1208,54 @@
     "datetime": "2026-09-16 08:30-09:30（周三）",
     "date": "2026-09-16",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150677",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150795",
+    "title": "中核四0四有限公司",
+    "company": "中核四0四有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-16 10:00-11:30（周三）",
+    "date": "2026-09-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150795",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150747",
+    "title": "中国船舶集团渤海造船有限公司2026年秋季招聘宣讲会",
+    "company": "中国船舶集团渤海造船有限公司2026年秋季招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-16 10:00-11:30（周三）",
+    "date": "2026-09-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150747",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150731",
+    "title": "大连重工装备集团2027秋季宣讲会",
+    "company": "大连重工装备集团2027秋季宣讲会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-16 10:00-11:30（周三）",
+    "date": "2026-09-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150731",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150704",
+    "title": "广东瑞高海运物流有限公司",
+    "company": "广东瑞高海运物流有限公司",
+    "kind": "线下",
+    "location": "百川楼101",
+    "datetime": "2026-09-16 10:00-11:30（周三）",
+    "date": "2026-09-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150704",
     "source": "official",
     "source_label": "就业网"
   }
