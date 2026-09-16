@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150850",
-    "title": "【组团】直属海事系统2027年度公务员招录宣讲会",
-    "company": "【组团】直属海事系统2027年度公务员招录宣讲会",
-    "kind": "线下",
-    "location": "中远海运报告厅",
-    "datetime": "2026-09-16 18:00-19:30（周三）",
-    "date": "2026-09-16",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150850",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150831",
     "title": "中建三局国际工程公司（海外事业部）2027届校园招聘",
     "company": "中建三局国际工程公司（海外事业部）2027届校园招聘",
@@ -1304,6 +1292,18 @@
     "datetime": "2026-09-16 16:00-18:00（周三）",
     "date": "2026-09-16",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150853",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150850",
+    "title": "【组团】直属海事系统2027年度公务员招录宣讲会",
+    "company": "【组团】直属海事系统2027年度公务员招录宣讲会",
+    "kind": "线下",
+    "location": "中远海运报告厅",
+    "datetime": "2026-09-16 18:00-19:30（周三）",
+    "date": "2026-09-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150850",
     "source": "official",
     "source_label": "就业网"
   }
