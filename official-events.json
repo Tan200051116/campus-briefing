@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150686",
-    "title": "【组团】千校万企联合促就业活动2027届秋季校园招聘会",
-    "company": "【组团】千校万企联合促就业活动2027届秋季校园招聘会",
-    "kind": "线下",
-    "location": "启航楼一楼",
-    "datetime": "2026-09-16 14:00-16:00（周三）",
-    "date": "2026-09-16",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150686",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150869",
     "title": "东方海外货柜航运（中国）有限公司——船体监造工程师",
     "company": "东方海外货柜航运（中国）有限公司——船体监造工程师",
@@ -1292,6 +1280,18 @@
     "datetime": "2026-09-16 13:30-15:00（周三）",
     "date": "2026-09-16",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150626",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150686",
+    "title": "【组团】千校万企联合促就业活动2027届秋季校园招聘会",
+    "company": "【组团】千校万企联合促就业活动2027届秋季校园招聘会",
+    "kind": "线下",
+    "location": "启航楼一楼",
+    "datetime": "2026-09-16 14:00-16:00（周三）",
+    "date": "2026-09-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150686",
     "source": "official",
     "source_label": "就业网"
   }
