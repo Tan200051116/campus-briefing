@@ -684,6 +684,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150888",
+    "title": "交通运输部烟台打捞局",
+    "company": "交通运输部烟台打捞局",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-21 10:00-11:30（周一）",
+    "date": "2026-09-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150888",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150736",
     "title": "中铁二十五局集团有限公司",
     "company": "中铁二十五局集团有限公司",
@@ -836,6 +848,18 @@
     "datetime": "2026-09-22 13:30-15:00（周二）",
     "date": "2026-09-22",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150824",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150885",
+    "title": "广联达2027届校园招聘交流会",
+    "company": "广联达2027届校园招聘交流会",
+    "kind": "线下",
+    "location": "百川楼202",
+    "datetime": "2026-09-22 15:30-17:00（周二）",
+    "date": "2026-09-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150885",
     "source": "official",
     "source_label": "就业网"
   },
