@@ -1,53 +1,5 @@
 [
   {
-    "id": "official-150861",
-    "title": "中国银行大连分行2027年校园招聘宣讲会",
-    "company": "中国银行大连分行2027年校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-17 15:30-17:00（周四）",
-    "date": "2026-09-17",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150861",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150814",
-    "title": "北汽福田汽车股份有限公司",
-    "company": "北汽福田汽车股份有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-17 15:30-17:00（周四）",
-    "date": "2026-09-17",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150814",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150744",
-    "title": "杭州士兰微电子股份有限公司",
-    "company": "杭州士兰微电子股份有限公司",
-    "kind": "线下",
-    "location": "百川楼101",
-    "datetime": "2026-09-17 15:30-17:00（周四）",
-    "date": "2026-09-17",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150744",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150627",
-    "title": "湖南未来教育科技集团有限公司",
-    "company": "湖南未来教育科技集团有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-17 15:30-17:00（周四）",
-    "date": "2026-09-17",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150627",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150584",
     "title": "广东芯粤能半导体有限公司27届宣讲会",
     "company": "广东芯粤能半导体有限公司27届宣讲会",
@@ -1016,6 +968,54 @@
     "datetime": "2026-09-17 14:00-16:00（周四）",
     "date": "2026-09-17",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150856",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150861",
+    "title": "中国银行大连分行2027年校园招聘宣讲会",
+    "company": "中国银行大连分行2027年校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-17 15:30-17:00（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150861",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150814",
+    "title": "北汽福田汽车股份有限公司",
+    "company": "北汽福田汽车股份有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-17 15:30-17:00（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150814",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150744",
+    "title": "杭州士兰微电子股份有限公司",
+    "company": "杭州士兰微电子股份有限公司",
+    "kind": "线下",
+    "location": "百川楼101",
+    "datetime": "2026-09-17 15:30-17:00（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150744",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150627",
+    "title": "湖南未来教育科技集团有限公司",
+    "company": "湖南未来教育科技集团有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-17 15:30-17:00（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150627",
     "source": "official",
     "source_label": "就业网"
   }
