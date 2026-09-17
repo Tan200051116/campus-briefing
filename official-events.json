@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150716",
-    "title": "中国外运股份有限公司",
-    "company": "中国外运股份有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-17 18:00-19:30（周四）",
-    "date": "2026-09-17",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150716",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150858",
     "title": "上海长宁区乐读线上教育培训学校",
     "company": "上海长宁区乐读线上教育培训学校",
@@ -1016,6 +1004,18 @@
     "datetime": "2026-09-17 18:00-19:00（周四）",
     "date": "2026-09-17",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150808",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150716",
+    "title": "中国外运股份有限公司",
+    "company": "中国外运股份有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-17 18:00-19:30（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150716",
     "source": "official",
     "source_label": "就业网"
   }
