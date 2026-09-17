@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150584",
-    "title": "广东芯粤能半导体有限公司27届宣讲会",
-    "company": "广东芯粤能半导体有限公司27届宣讲会",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-09-17 15:30-17:30（周四）",
-    "date": "2026-09-17",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150584",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150808",
     "title": "英特仿真2027届校招岗位及空宣预告",
     "company": "英特仿真2027届校招岗位及空宣预告",
@@ -1016,6 +1004,18 @@
     "datetime": "2026-09-17 15:30-17:00（周四）",
     "date": "2026-09-17",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150627",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150584",
+    "title": "广东芯粤能半导体有限公司27届宣讲会",
+    "company": "广东芯粤能半导体有限公司27届宣讲会",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-17 15:30-17:30（周四）",
+    "date": "2026-09-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150584",
     "source": "official",
     "source_label": "就业网"
   }
