@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-150816",
-    "title": "芜湖造船厂有限公司",
-    "company": "芜湖造船厂有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-18 13:30-15:00（周五）",
-    "date": "2026-09-18",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150816",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150784",
-    "title": "中建一局集团（辽宁）建设有限公司",
-    "company": "中建一局集团（辽宁）建设有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-18 13:30-15:00（周五）",
-    "date": "2026-09-18",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150784",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150848",
     "title": "招商银行股份有限公司大连分行",
     "company": "招商银行股份有限公司大连分行",
@@ -764,6 +740,30 @@
     "datetime": "2026-10-19 15:30-17:00（周一）",
     "date": "2026-10-19",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150690",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150816",
+    "title": "芜湖造船厂有限公司",
+    "company": "芜湖造船厂有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-18 13:30-15:00（周五）",
+    "date": "2026-09-18",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150816",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150784",
+    "title": "中建一局集团（辽宁）建设有限公司",
+    "company": "中建一局集团（辽宁）建设有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-18 13:30-15:00（周五）",
+    "date": "2026-09-18",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150784",
     "source": "official",
     "source_label": "就业网"
   }
