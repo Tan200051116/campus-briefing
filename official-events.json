@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-150742",
-    "title": "一汽解放汽车有限公司",
-    "company": "一汽解放汽车有限公司",
-    "kind": "线下",
-    "location": "德济楼103",
-    "datetime": "2026-09-18 18:00-20:00（周五）",
-    "date": "2026-09-18",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150742",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150717",
-    "title": "与梦想 菱距离——上汽通用五菱期待您的加入",
-    "company": "与梦想 菱距离——上汽通用五菱期待您的加入",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-18 18:00-20:00（周五）",
-    "date": "2026-09-18",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150717",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150834",
     "title": "哈尔滨锅炉厂有限责任公司",
     "company": "哈尔滨锅炉厂有限责任公司",
@@ -872,6 +848,30 @@
     "datetime": "2026-09-18 15:30-17:00（周五）",
     "date": "2026-09-18",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150735",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150742",
+    "title": "一汽解放汽车有限公司",
+    "company": "一汽解放汽车有限公司",
+    "kind": "线下",
+    "location": "德济楼103",
+    "datetime": "2026-09-18 18:00-20:00（周五）",
+    "date": "2026-09-18",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150742",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150717",
+    "title": "与梦想 菱距离——上汽通用五菱期待您的加入",
+    "company": "与梦想 菱距离——上汽通用五菱期待您的加入",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-18 18:00-20:00（周五）",
+    "date": "2026-09-18",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150717",
     "source": "official",
     "source_label": "就业网"
   }
