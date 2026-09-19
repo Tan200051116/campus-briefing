@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150834",
-    "title": "哈尔滨锅炉厂有限责任公司",
-    "company": "哈尔滨锅炉厂有限责任公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-19 18:00-20:00（周六）",
-    "date": "2026-09-19",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150834",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150851",
     "title": "【组团】交通运输部救捞系统2027年度第一批统一公开招聘",
     "company": "【组团】交通运输部救捞系统2027年度第一批统一公开招聘",
@@ -800,6 +788,18 @@
     "datetime": "2026-10-19 15:30-17:00（周一）",
     "date": "2026-10-19",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150690",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150834",
+    "title": "哈尔滨锅炉厂有限责任公司",
+    "company": "哈尔滨锅炉厂有限责任公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-19 18:00-20:00（周六）",
+    "date": "2026-09-19",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150834",
     "source": "official",
     "source_label": "就业网"
   }
