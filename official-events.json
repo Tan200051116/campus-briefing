@@ -228,6 +228,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150909",
+    "title": "牧原食品股份有限公司",
+    "company": "牧原食品股份有限公司",
+    "kind": "线下",
+    "location": "百川楼203",
+    "datetime": "2026-09-22 15:30-17:00（周二）",
+    "date": "2026-09-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150909",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150885",
     "title": "广联达2027届校园招聘交流会",
     "company": "广联达2027届校园招聘交流会",
@@ -600,6 +612,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150912",
+    "title": "中国建筑第八工程局有限公司东北分公司",
+    "company": "中国建筑第八工程局有限公司东北分公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-29 13:30-15:00（周二）",
+    "date": "2026-09-29",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150912",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150877",
     "title": "宁波华泰盛富聚合材料有限公司",
     "company": "宁波华泰盛富聚合材料有限公司",
@@ -764,6 +788,18 @@
     "datetime": "2026-10-14 15:30-17:00（周三）",
     "date": "2026-10-14",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150776",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150654",
+    "title": "东方海外“未来领航者”培训生招募",
+    "company": "东方海外“未来领航者”培训生招募",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-15 10:00-11:30（周四）",
+    "date": "2026-10-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150654",
     "source": "official",
     "source_label": "就业网"
   },
