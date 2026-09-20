@@ -780,6 +780,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150911",
+    "title": "德邦物流股份有限公司",
+    "company": "德邦物流股份有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-14 15:30-17:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150911",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150776",
     "title": "浙江交投物流集团有限公司",
     "company": "浙江交投物流集团有限公司",
@@ -812,6 +824,30 @@
     "datetime": "2026-10-15 15:30-17:00（周四）",
     "date": "2026-10-15",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150790",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150913",
+    "title": "就业指导",
+    "company": "就业指导",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-15 18:00-20:00（周四）",
+    "date": "2026-10-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150913",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150854",
+    "title": "零跑汽车2027届校园招聘",
+    "company": "零跑汽车2027届校园招聘",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-10-15 18:00-20:00（周四）",
+    "date": "2026-10-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150854",
     "source": "official",
     "source_label": "就业网"
   },
