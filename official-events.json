@@ -672,6 +672,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150724",
+    "title": "南通深南电路有限公司",
+    "company": "南通深南电路有限公司",
+    "kind": "线下",
+    "location": "百川楼101",
+    "datetime": "2026-10-14 15:30-17:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150724",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150895",
     "title": "中国核工业华兴建设有限公司",
     "company": "中国核工业华兴建设有限公司",
@@ -800,18 +812,6 @@
     "datetime": "2026-10-16 15:30-17:00（周五）",
     "date": "2026-10-16",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150893",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150724",
-    "title": "南通深南电路有限公司",
-    "company": "南通深南电路有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-16 18:00-20:00（周五）",
-    "date": "2026-10-16",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150724",
     "source": "official",
     "source_label": "就业网"
   },
