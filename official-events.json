@@ -1,41 +1,5 @@
 [
   {
-    "id": "official-150827",
-    "title": "东海实验室2027届校园招聘宣讲会",
-    "company": "东海实验室2027届校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-21 18:00-20:00（周一）",
-    "date": "2026-09-21",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150827",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150706",
-    "title": "广州市森大贸易有限公司",
-    "company": "广州市森大贸易有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-21 18:00-20:00（周一）",
-    "date": "2026-09-21",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150706",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150694",
-    "title": "厦门象屿股份有限公司",
-    "company": "厦门象屿股份有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-21 18:00-20:00（周一）",
-    "date": "2026-09-21",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150694",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150642",
     "title": "斯达半导体股份有限公司",
     "company": "斯达半导体股份有限公司",
@@ -920,6 +884,42 @@
     "datetime": "2026-09-21 18:00-19:30（周一）",
     "date": "2026-09-21",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150880",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150827",
+    "title": "东海实验室2027届校园招聘宣讲会",
+    "company": "东海实验室2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-21 18:00-20:00（周一）",
+    "date": "2026-09-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150827",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150706",
+    "title": "广州市森大贸易有限公司",
+    "company": "广州市森大贸易有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-21 18:00-20:00（周一）",
+    "date": "2026-09-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150706",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150694",
+    "title": "厦门象屿股份有限公司",
+    "company": "厦门象屿股份有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-21 18:00-20:00（周一）",
+    "date": "2026-09-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150694",
     "source": "official",
     "source_label": "就业网"
   }
