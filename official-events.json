@@ -804,18 +804,6 @@
     "source_label": "就业网"
   },
   {
-    "id": "official-150913",
-    "title": "就业指导",
-    "company": "就业指导",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-15 18:00-20:00（周四）",
-    "date": "2026-10-15",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150913",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150854",
     "title": "零跑汽车2027届校园招聘",
     "company": "零跑汽车2027届校园招聘",
@@ -824,6 +812,18 @@
     "datetime": "2026-10-15 18:00-20:00（周四）",
     "date": "2026-10-15",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150854",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150791",
+    "title": "三一集团有限公司",
+    "company": "三一集团有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-15 18:00-20:00（周四）",
+    "date": "2026-10-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150791",
     "source": "official",
     "source_label": "就业网"
   },
