@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150587",
-    "title": "中国核能电力股份有限公司",
-    "company": "中国核能电力股份有限公司",
-    "kind": "线下",
-    "location": "德济楼103",
-    "datetime": "2026-09-22 18:00-19:30（周二）",
-    "date": "2026-09-22",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150587",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150807",
     "title": "海尔智家2027未来合伙人-智能制造模块专场宣讲会",
     "company": "海尔智家2027未来合伙人-智能制造模块专场宣讲会",
@@ -836,6 +824,18 @@
     "datetime": "2026-09-22 15:30-17:00（周二）",
     "date": "2026-09-22",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150794",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150587",
+    "title": "中国核能电力股份有限公司",
+    "company": "中国核能电力股份有限公司",
+    "kind": "线下",
+    "location": "德济楼103",
+    "datetime": "2026-09-22 18:00-19:30（周二）",
+    "date": "2026-09-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150587",
     "source": "official",
     "source_label": "就业网"
   }
