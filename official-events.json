@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-150859",
-    "title": "申万宏源证券有限公司2027届应届毕业生秋季招聘",
-    "company": "申万宏源证券有限公司2027届应届毕业生秋季招聘",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-09-22 13:30-15:00（周二）",
-    "date": "2026-09-22",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150859",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150824",
-    "title": "广西柳州钢铁集团有限公司",
-    "company": "广西柳州钢铁集团有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-22 13:30-15:00（周二）",
-    "date": "2026-09-22",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150824",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150909",
     "title": "牧原食品股份有限公司",
     "company": "牧原食品股份有限公司",
@@ -824,6 +800,30 @@
     "datetime": "2026-09-22 10:00-11:30（周二）",
     "date": "2026-09-22",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150642",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150859",
+    "title": "申万宏源证券有限公司2027届应届毕业生秋季招聘",
+    "company": "申万宏源证券有限公司2027届应届毕业生秋季招聘",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-22 13:30-15:00（周二）",
+    "date": "2026-09-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150859",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150824",
+    "title": "广西柳州钢铁集团有限公司",
+    "company": "广西柳州钢铁集团有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-22 13:30-15:00（周二）",
+    "date": "2026-09-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150824",
     "source": "official",
     "source_label": "就业网"
   }
