@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150642",
-    "title": "斯达半导体股份有限公司",
-    "company": "斯达半导体股份有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-22 10:00-11:30（周二）",
-    "date": "2026-09-22",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150642",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150859",
     "title": "申万宏源证券有限公司2027届应届毕业生秋季招聘",
     "company": "申万宏源证券有限公司2027届应届毕业生秋季招聘",
@@ -824,6 +812,18 @@
     "datetime": "2026-10-21 13:30-15:00（周三）",
     "date": "2026-10-21",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150924",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150642",
+    "title": "斯达半导体股份有限公司",
+    "company": "斯达半导体股份有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-22 10:00-11:30（周二）",
+    "date": "2026-09-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150642",
     "source": "official",
     "source_label": "就业网"
   }
