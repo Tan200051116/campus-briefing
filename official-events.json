@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150883",
-    "title": "【在桃李，见未来】桃李未来2027届秋季校园招聘--9.23",
-    "company": "【在桃李，见未来】桃李未来2027届秋季校园招聘--9.23",
-    "kind": "空中",
-    "location": "线上宣讲",
-    "datetime": "2026-09-23 16:00-18:00（周三）",
-    "date": "2026-09-23",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150883",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150770",
     "title": "奇瑞控股集团有限公司",
     "company": "奇瑞控股集团有限公司",
@@ -656,6 +644,18 @@
     "datetime": "2026-09-23 15:30-17:00（周三）",
     "date": "2026-09-23",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150621",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150883",
+    "title": "【在桃李，见未来】桃李未来2027届秋季校园招聘--9.23",
+    "company": "【在桃李，见未来】桃李未来2027届秋季校园招聘--9.23",
+    "kind": "空中",
+    "location": "线上宣讲",
+    "datetime": "2026-09-23 16:00-18:00（周三）",
+    "date": "2026-09-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150883",
     "source": "official",
     "source_label": "就业网"
   }
