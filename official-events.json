@@ -1,53 +1,5 @@
 [
   {
-    "id": "official-150864",
-    "title": "中国铁建大桥工程局集团有限公司",
-    "company": "中国铁建大桥工程局集团有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-23 15:30-17:00（周三）",
-    "date": "2026-09-23",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150864",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150860",
-    "title": "中国邮政储蓄银行大连分行2027年 校园招聘宣讲会",
-    "company": "中国邮政储蓄银行大连分行2027年 校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-09-23 15:30-17:00（周三）",
-    "date": "2026-09-23",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150860",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150799",
-    "title": "中国航发贵州黎阳航空动力有限公司2027届校招宣讲会",
-    "company": "中国航发贵州黎阳航空动力有限公司2027届校招宣讲会",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-23 15:30-17:00（周三）",
-    "date": "2026-09-23",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150799",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150621",
-    "title": "基恩士（中国）有限公司",
-    "company": "基恩士（中国）有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-23 15:30-17:00（周三）",
-    "date": "2026-09-23",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150621",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150883",
     "title": "【在桃李，见未来】桃李未来2027届秋季校园招聘--9.23",
     "company": "【在桃李，见未来】桃李未来2027届秋季校园招聘--9.23",
@@ -656,6 +608,54 @@
     "datetime": "2026-09-23 13:30-15:00（周三）",
     "date": "2026-09-23",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150881",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150864",
+    "title": "中国铁建大桥工程局集团有限公司",
+    "company": "中国铁建大桥工程局集团有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-23 15:30-17:00（周三）",
+    "date": "2026-09-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150864",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150860",
+    "title": "中国邮政储蓄银行大连分行2027年 校园招聘宣讲会",
+    "company": "中国邮政储蓄银行大连分行2027年 校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-23 15:30-17:00（周三）",
+    "date": "2026-09-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150860",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150799",
+    "title": "中国航发贵州黎阳航空动力有限公司2027届校招宣讲会",
+    "company": "中国航发贵州黎阳航空动力有限公司2027届校招宣讲会",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-23 15:30-17:00（周三）",
+    "date": "2026-09-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150799",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150621",
+    "title": "基恩士（中国）有限公司",
+    "company": "基恩士（中国）有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-23 15:30-17:00（周三）",
+    "date": "2026-09-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150621",
     "source": "official",
     "source_label": "就业网"
   }
