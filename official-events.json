@@ -1,41 +1,5 @@
 [
   {
-    "id": "official-150905",
-    "title": "冰山松洋压缩机（大连）有限公司",
-    "company": "冰山松洋压缩机（大连）有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-23 13:30-15:00（周三）",
-    "date": "2026-09-23",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150905",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150901",
-    "title": "安永商务咨询（大连）有限公司",
-    "company": "安永商务咨询（大连）有限公司",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-09-23 13:30-15:00（周三）",
-    "date": "2026-09-23",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150901",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150881",
-    "title": "中建一局集团安装工程有限公司",
-    "company": "中建一局集团安装工程有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-23 13:30-15:00（周三）",
-    "date": "2026-09-23",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150881",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150864",
     "title": "中国铁建大桥工程局集团有限公司",
     "company": "中国铁建大桥工程局集团有限公司",
@@ -656,6 +620,42 @@
     "datetime": "2026-09-23 10:00-11:35（周三）",
     "date": "2026-09-23",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150910",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150905",
+    "title": "冰山松洋压缩机（大连）有限公司",
+    "company": "冰山松洋压缩机（大连）有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-23 13:30-15:00（周三）",
+    "date": "2026-09-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150905",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150901",
+    "title": "安永商务咨询（大连）有限公司",
+    "company": "安永商务咨询（大连）有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-23 13:30-15:00（周三）",
+    "date": "2026-09-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150901",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150881",
+    "title": "中建一局集团安装工程有限公司",
+    "company": "中建一局集团安装工程有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-23 13:30-15:00（周三）",
+    "date": "2026-09-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150881",
     "source": "official",
     "source_label": "就业网"
   }
