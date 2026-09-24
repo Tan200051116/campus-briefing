@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150878",
-    "title": "瀚辰精英（大连）海洋工程有限公司",
-    "company": "瀚辰精英（大连）海洋工程有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-24 15:30-17:00（周四）",
-    "date": "2026-09-24",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150878",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150907",
     "title": "中交第二航务工程局有限公司2027届校园招聘",
     "company": "中交第二航务工程局有限公司2027届校园招聘",
@@ -500,6 +488,18 @@
     "datetime": "2026-09-24 10:00-11:30（周四）",
     "date": "2026-09-24",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150750",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150878",
+    "title": "瀚辰精英（大连）海洋工程有限公司",
+    "company": "瀚辰精英（大连）海洋工程有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-24 15:30-17:00（周四）",
+    "date": "2026-09-24",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150878",
     "source": "official",
     "source_label": "就业网"
   }
