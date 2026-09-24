@@ -1,53 +1,5 @@
 [
   {
-    "id": "official-150918",
-    "title": "中华人民共和国天津出入境边防检查总站",
-    "company": "中华人民共和国天津出入境边防检查总站",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-09-24 10:00-11:30（周四）",
-    "date": "2026-09-24",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150918",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150867",
-    "title": "中久数创/中物院软件中心/中国久远CAE软件事业部 2027届校园招聘",
-    "company": "中久数创/中物院软件中心/中国久远CAE软件事业部 2027届校园招聘",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-09-24 10:00-11:30（周四）",
-    "date": "2026-09-24",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150867",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150802",
-    "title": "天津顺丰速递有限公司",
-    "company": "天津顺丰速递有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-24 10:00-11:30（周四）",
-    "date": "2026-09-24",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150802",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150750",
-    "title": "中建四局2027届“善建者”校园招聘",
-    "company": "中建四局2027届“善建者”校园招聘",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-24 10:00-11:30（周四）",
-    "date": "2026-09-24",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150750",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150878",
     "title": "瀚辰精英（大连）海洋工程有限公司",
     "company": "瀚辰精英（大连）海洋工程有限公司",
@@ -488,6 +440,54 @@
     "datetime": "2026-10-21 13:30-15:00（周三）",
     "date": "2026-10-21",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150924",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150918",
+    "title": "中华人民共和国天津出入境边防检查总站",
+    "company": "中华人民共和国天津出入境边防检查总站",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-09-24 10:00-11:30（周四）",
+    "date": "2026-09-24",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150918",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150867",
+    "title": "中久数创/中物院软件中心/中国久远CAE软件事业部 2027届校园招聘",
+    "company": "中久数创/中物院软件中心/中国久远CAE软件事业部 2027届校园招聘",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-09-24 10:00-11:30（周四）",
+    "date": "2026-09-24",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150867",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150802",
+    "title": "天津顺丰速递有限公司",
+    "company": "天津顺丰速递有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-24 10:00-11:30（周四）",
+    "date": "2026-09-24",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150802",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150750",
+    "title": "中建四局2027届“善建者”校园招聘",
+    "company": "中建四局2027届“善建者”校园招聘",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-24 10:00-11:30（周四）",
+    "date": "2026-09-24",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150750",
     "source": "official",
     "source_label": "就业网"
   }
