@@ -252,6 +252,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150921",
+    "title": "宁波高松技术有限公司",
+    "company": "宁波高松技术有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-14 13:30-15:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150921",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150826",
     "title": "青岛特锐德电气股份有限公司",
     "company": "青岛特锐德电气股份有限公司",
@@ -308,6 +320,18 @@
     "datetime": "2026-10-14 15:30-17:00（周三）",
     "date": "2026-10-14",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150724",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150938",
+    "title": "浙江交投物流集团有限公司",
+    "company": "浙江交投物流集团有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-10-15 10:00-11:30（周四）",
+    "date": "2026-10-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150938",
     "source": "official",
     "source_label": "就业网"
   },
