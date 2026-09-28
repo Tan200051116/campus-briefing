@@ -87,13 +87,25 @@ def scrape_official(max_pages: int = 30) -> list[dict]:
             ) from last_error
         page_events: list[dict] = []
 
-        for row in soup.select("ul.infoList.teachinList"):
-            link = row.select_one("li.span9 a")
+        rows = soup.select("ul.infoList.teachinList")
+        if page_number == 1 and not rows:
+            raise RuntimeError("官网第一页未找到宣讲活动，疑似页面结构变化")
+
+        for row in rows:
+            link = row.select_one('a[href*="/teachin/view/id/"]')
             place = row.select_one("li.span5")
-            time_cell = row.select_one("li.span3")
+            time_cell = next(
+                (
+                    cell for cell in row.select("li")
+                    if re.search(r"\d{4}-\d{2}-\d{2}", cell.get_text(" ", strip=True))
+                ),
+                None,
+            )
             kind = row.select_one(".status-text")
-            if not (link and time_cell):
-                continue
+            if link is None or time_cell is None:
+                raise RuntimeError(
+                    f"官网第 {page_number} 页宣讲活动缺少标题链接或日期，疑似页面结构变化"
+                )
             href = link.get("href", "")
             match = re.search(r"/id/(\d+)", href)
             event_id = match.group(1) if match else href
