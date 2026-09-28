@@ -156,6 +156,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150935",
+    "title": "天海融合防务装备技术股份有限公司",
+    "company": "天海融合防务装备技术股份有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-12 13:30-15:00（周一）",
+    "date": "2026-10-12",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150935",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150887",
     "title": "日月重工股份有限公司",
     "company": "日月重工股份有限公司",
@@ -176,6 +188,30 @@
     "datetime": "2026-10-12 15:30-17:00（周一）",
     "date": "2026-10-12",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150919",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150927",
+    "title": "上海云轴科技股份有限公司",
+    "company": "上海云轴科技股份有限公司",
+    "kind": "空中",
+    "location": "线上宣讲",
+    "datetime": "2026-10-13 14:00-15:30（周二）",
+    "date": "2026-10-13",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150927",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150931",
+    "title": "中国广核集团2027届秋季校园招聘",
+    "company": "中国广核集团2027届秋季校园招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-13 18:00-20:00（周二）",
+    "date": "2026-10-13",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150931",
     "source": "official",
     "source_label": "就业网"
   },
