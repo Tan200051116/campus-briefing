@@ -24,18 +24,6 @@
     "source_label": "就业网"
   },
   {
-    "id": "official-150818",
-    "title": "姚品国际2027届校园招聘空中宣讲会",
-    "company": "姚品国际2027届校园招聘空中宣讲会",
-    "kind": "线上",
-    "location": "线上宣讲",
-    "datetime": "2026-09-29 14:00-14:40（周二）",
-    "date": "2026-09-29",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150818",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150825",
     "title": "浙江吉利控股集团有限公司",
     "company": "浙江吉利控股集团有限公司",
@@ -512,6 +500,18 @@
     "datetime": "2026-10-21 13:30-15:00（周三）",
     "date": "2026-10-21",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150924",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150818",
+    "title": "姚品国际2027届校园招聘空中宣讲会",
+    "company": "姚品国际2027届校园招聘空中宣讲会",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-09-29 14:00-14:40（周二）",
+    "date": "2026-09-29",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150818",
     "source": "official",
     "source_label": "就业网"
   }
