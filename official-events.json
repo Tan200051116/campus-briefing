@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-150912",
-    "title": "中国建筑第八工程局有限公司东北分公司",
-    "company": "中国建筑第八工程局有限公司东北分公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-09-29 13:30-15:00（周二）",
-    "date": "2026-09-29",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150912",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150877",
-    "title": "宁波华泰盛富聚合材料有限公司",
-    "company": "宁波华泰盛富聚合材料有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-09-29 13:30-15:00（周二）",
-    "date": "2026-09-29",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150877",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150825",
     "title": "浙江吉利控股集团有限公司",
     "company": "浙江吉利控股集团有限公司",
@@ -500,6 +476,30 @@
     "datetime": "2026-10-21 13:30-15:00（周三）",
     "date": "2026-10-21",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150924",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150912",
+    "title": "中国建筑第八工程局有限公司东北分公司",
+    "company": "中国建筑第八工程局有限公司东北分公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-09-29 13:30-15:00（周二）",
+    "date": "2026-09-29",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150912",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150877",
+    "title": "宁波华泰盛富聚合材料有限公司",
+    "company": "宁波华泰盛富聚合材料有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-09-29 13:30-15:00（周二）",
+    "date": "2026-09-29",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150877",
     "source": "official",
     "source_label": "就业网"
   },
