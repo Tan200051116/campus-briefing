@@ -84,6 +84,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150952",
+    "title": "晓禾科技（武汉）有限公司",
+    "company": "晓禾科技（武汉）有限公司",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-10-10 15:00-15:45（周六）",
+    "date": "2026-10-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150952",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150892",
     "title": "传音控股2027届全球校园招聘",
     "company": "传音控股2027届全球校园招聘",
@@ -260,6 +272,18 @@
     "datetime": "2026-10-13 18:00-20:00（周二）",
     "date": "2026-10-13",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150715",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150954",
+    "title": "金融软件龙头企业|文华财经2027届校招",
+    "company": "金融软件龙头企业|文华财经2027届校招",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-10-13 20:00-21:00（周二）",
+    "date": "2026-10-13",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150954",
     "source": "official",
     "source_label": "就业网"
   },
@@ -488,6 +512,18 @@
     "datetime": "2026-10-16 10:00-11:30（周五）",
     "date": "2026-10-16",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150639",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150914",
+    "title": "天洑软件2026秋季校园招聘空中宣讲会",
+    "company": "天洑软件2026秋季校园招聘空中宣讲会",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-10-16 15:00-17:00（周五）",
+    "date": "2026-10-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150914",
     "source": "official",
     "source_label": "就业网"
   },
