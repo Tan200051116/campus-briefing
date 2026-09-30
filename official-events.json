@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150945",
-    "title": "招商银行股份有限公司烟台分行",
-    "company": "招商银行股份有限公司烟台分行",
-    "kind": "线上",
-    "location": "线上宣讲",
-    "datetime": "2026-09-30 15:00-17:30（周三）",
-    "date": "2026-09-30",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150945",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150936",
     "title": "【在桃李，见未来】桃李未来2027届秋季校园招聘",
     "company": "【在桃李，见未来】桃李未来2027届秋季校园招聘",
@@ -680,6 +668,18 @@
     "datetime": "2026-10-23 09:30-11:00（周五）",
     "date": "2026-10-23",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150956",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150945",
+    "title": "招商银行股份有限公司烟台分行",
+    "company": "招商银行股份有限公司烟台分行",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-09-30 15:00-17:30（周三）",
+    "date": "2026-09-30",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150945",
     "source": "official",
     "source_label": "就业网"
   }
