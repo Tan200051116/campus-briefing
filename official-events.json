@@ -24,6 +24,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150959",
+    "title": "深圳新东方培训学校",
+    "company": "深圳新东方培训学校",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-10-08 18:30-20:30（周四）",
+    "date": "2026-10-08",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150959",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150946",
     "title": "中国建筑第八工程局有限公司东北分公司",
     "company": "中国建筑第八工程局有限公司东北分公司",
@@ -32,6 +44,18 @@
     "datetime": "2026-10-09 15:30-17:00（周五）",
     "date": "2026-10-09",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150946",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150892",
+    "title": "传音控股2027届全球校园招聘",
+    "company": "传音控股2027届全球校园招聘",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-10-09 18:00-19:00（周五）",
+    "date": "2026-10-09",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150892",
     "source": "official",
     "source_label": "就业网"
   },
@@ -84,18 +108,6 @@
     "source_label": "就业网"
   },
   {
-    "id": "official-150892",
-    "title": "传音控股2027届全球校园招聘",
-    "company": "传音控股2027届全球校园招聘",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-10 18:00-19:00（周六）",
-    "date": "2026-10-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150892",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150915",
     "title": "中车株洲电力机车研究所有限公司",
     "company": "中车株洲电力机车研究所有限公司",
@@ -132,6 +144,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150958",
+    "title": "中国石油集团海洋工程有限公司 2026秋季高校毕业生招聘",
+    "company": "中国石油集团海洋工程有限公司 2026秋季高校毕业生招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-11 15:30-17:00（周日）",
+    "date": "2026-10-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150958",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150903",
     "title": "招商局船舶工业集团有限公司2027届校园招聘（匠心智造 筑梦深蓝）",
     "company": "招商局船舶工业集团有限公司2027届校园招聘（匠心智造 筑梦深蓝）",
@@ -140,6 +164,18 @@
     "datetime": "2026-10-12 09:00-10:30（周一）",
     "date": "2026-10-12",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150903",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150962",
+    "title": "东莞海昌领航者计划：2027届秋季校园招聘",
+    "company": "东莞海昌领航者计划：2027届秋季校园招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-12 10:00-11:30（周一）",
+    "date": "2026-10-12",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150962",
     "source": "official",
     "source_label": "就业网"
   },
