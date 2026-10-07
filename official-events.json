@@ -456,6 +456,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150961",
+    "title": "华友钴业2027届校园招聘会",
+    "company": "华友钴业2027届校园招聘会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-14 18:00-20:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150961",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150938",
     "title": "浙江交投物流集团有限公司",
     "company": "浙江交投物流集团有限公司",
@@ -644,6 +656,30 @@
     "datetime": "2026-10-16 15:30-17:00（周五）",
     "date": "2026-10-16",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150893",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150922",
+    "title": "中国重汽集团2027届校园招聘宣讲会",
+    "company": "中国重汽集团2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-19 13:30-15:00（周一）",
+    "date": "2026-10-19",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150922",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150648",
+    "title": "中国航发南方工业有限公司",
+    "company": "中国航发南方工业有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-19 13:30-15:00（周一）",
+    "date": "2026-10-19",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150648",
     "source": "official",
     "source_label": "就业网"
   },
