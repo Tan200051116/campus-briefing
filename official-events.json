@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150825",
-    "title": "浙江吉利控股集团有限公司",
-    "company": "浙江吉利控股集团有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-08 18:00-20:00（周四）",
-    "date": "2026-10-08",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150825",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150959",
     "title": "深圳新东方培训学校",
     "company": "深圳新东方培训学校",
@@ -812,6 +800,18 @@
     "datetime": "2026-10-08 16:00-17:00（周四）",
     "date": "2026-10-08",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150936",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150825",
+    "title": "浙江吉利控股集团有限公司",
+    "company": "浙江吉利控股集团有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-08 18:00-20:00（周四）",
+    "date": "2026-10-08",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150825",
     "source": "official",
     "source_label": "就业网"
   }
