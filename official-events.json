@@ -276,18 +276,6 @@
     "source_label": "就业网"
   },
   {
-    "id": "official-150940",
-    "title": "惠州市德赛电池有限公司2027届校园招聘宣讲会",
-    "company": "惠州市德赛电池有限公司2027届校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-13 15:30-17:00（周二）",
-    "date": "2026-10-13",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150940",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150955",
     "title": "亚信科技（中国）有限公司",
     "company": "亚信科技（中国）有限公司",
@@ -428,6 +416,18 @@
     "datetime": "2026-10-14 15:30-17:00（周三）",
     "date": "2026-10-14",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150943",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150940",
+    "title": "惠州市德赛电池有限公司2027届校园招聘宣讲会",
+    "company": "惠州市德赛电池有限公司2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "德济楼101",
+    "datetime": "2026-10-14 15:30-17:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150940",
     "source": "official",
     "source_label": "就业网"
   },
