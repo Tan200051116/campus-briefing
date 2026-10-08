@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150959",
-    "title": "深圳新东方培训学校",
-    "company": "深圳新东方培训学校",
-    "kind": "线上",
-    "location": "线上宣讲",
-    "datetime": "2026-10-08 18:30-20:30（周四）",
-    "date": "2026-10-08",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150959",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150946",
     "title": "中国建筑第八工程局有限公司东北分公司",
     "company": "中国建筑第八工程局有限公司东北分公司",
@@ -812,6 +800,18 @@
     "datetime": "2026-10-08 18:00-20:00（周四）",
     "date": "2026-10-08",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150825",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150959",
+    "title": "深圳新东方培训学校",
+    "company": "深圳新东方培训学校",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-10-08 18:30-20:30（周四）",
+    "date": "2026-10-08",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150959",
     "source": "official",
     "source_label": "就业网"
   }
