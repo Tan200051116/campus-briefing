@@ -814,5 +814,17 @@
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150966",
     "source": "official",
     "source_label": "就业网"
+  },
+  {
+    "id": "official-150970",
+    "title": "学院就业指导",
+    "company": "学院就业指导",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-31 09:00-11:00（周六）",
+    "date": "2026-10-31",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150970",
+    "source": "official",
+    "source_label": "就业网"
   }
 ]
