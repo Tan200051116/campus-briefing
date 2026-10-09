@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150892",
-    "title": "传音控股2027届全球校园招聘",
-    "company": "传音控股2027届全球校园招聘",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-10-09 18:00-19:00（周五）",
-    "date": "2026-10-09",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150892",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150948",
     "title": "大连优欣光科技股份有限公司",
     "company": "大连优欣光科技股份有限公司",
@@ -824,6 +812,18 @@
     "datetime": "2026-10-09 15:30-17:00（周五）",
     "date": "2026-10-09",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150941",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150892",
+    "title": "传音控股2027届全球校园招聘",
+    "company": "传音控股2027届全球校园招聘",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-10-09 18:00-19:00（周五）",
+    "date": "2026-10-09",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150892",
     "source": "official",
     "source_label": "就业网"
   }
