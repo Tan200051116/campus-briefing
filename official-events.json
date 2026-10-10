@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-150948",
-    "title": "大连优欣光科技股份有限公司",
-    "company": "大连优欣光科技股份有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-10 10:00-11:30（周六）",
-    "date": "2026-10-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150948",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150898",
-    "title": "广州港集团有限公司2027届校园招聘宣讲会",
-    "company": "广州港集团有限公司2027届校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-10 10:00-11:30（周六）",
-    "date": "2026-10-10",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150898",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150952",
     "title": "晓禾科技（武汉）有限公司",
     "company": "晓禾科技（武汉）有限公司",
@@ -956,6 +932,30 @@
     "datetime": "2026-10-31 09:00-11:00（周六）",
     "date": "2026-10-31",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150970",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150948",
+    "title": "大连优欣光科技股份有限公司",
+    "company": "大连优欣光科技股份有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-10 10:00-11:30（周六）",
+    "date": "2026-10-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150948",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150898",
+    "title": "广州港集团有限公司2027届校园招聘宣讲会",
+    "company": "广州港集团有限公司2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-10 10:00-11:30（周六）",
+    "date": "2026-10-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150898",
     "source": "official",
     "source_label": "就业网"
   }
