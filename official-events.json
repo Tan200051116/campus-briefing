@@ -444,6 +444,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150984",
+    "title": "美丽中国支教项目27级招募宣讲会",
+    "company": "美丽中国支教项目27级招募宣讲会",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-10-14 19:00-20:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150984",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150938",
     "title": "浙江交投物流集团有限公司",
     "company": "浙江交投物流集团有限公司",
@@ -564,6 +576,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150980",
+    "title": "上海环世物流（集团）有限公司",
+    "company": "上海环世物流（集团）有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-15 18:00-20:00（周四）",
+    "date": "2026-10-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150980",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150854",
     "title": "零跑汽车2027届校园招聘",
     "company": "零跑汽车2027届校园招聘",
@@ -660,6 +684,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150978",
+    "title": "中国船舶集团青岛北海造船2027届毕业生招聘宣讲会",
+    "company": "中国船舶集团青岛北海造船2027届毕业生招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-19 10:00-11:30（周一）",
+    "date": "2026-10-19",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150978",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150922",
     "title": "中国重汽集团2027届校园招聘宣讲会",
     "company": "中国重汽集团2027届校园招聘宣讲会",
@@ -692,18 +728,6 @@
     "datetime": "2026-10-19 15:30-17:00（周一）",
     "date": "2026-10-19",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150690",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150951",
-    "title": "珠海万达商管2027届校园招聘",
-    "company": "珠海万达商管2027届校园招聘",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-20 13:30-15:00（周二）",
-    "date": "2026-10-20",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150951",
     "source": "official",
     "source_label": "就业网"
   },
@@ -756,6 +780,30 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150963",
+    "title": "山东融汇物产集团有限公司",
+    "company": "山东融汇物产集团有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-22 10:00-11:30（周四）",
+    "date": "2026-10-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150963",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150951",
+    "title": "珠海万达商管2027届校园招聘",
+    "company": "珠海万达商管2027届校园招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-22 13:30-15:00（周四）",
+    "date": "2026-10-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150951",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150956",
     "title": "【组团】青岛人才组团招聘会",
     "company": "【组团】青岛人才组团招聘会",
@@ -788,42 +836,6 @@
     "datetime": "2026-10-31 09:00-11:00（周六）",
     "date": "2026-10-31",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150970",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150946",
-    "title": "中国建筑第八工程局有限公司东北分公司",
-    "company": "中国建筑第八工程局有限公司东北分公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-09 15:30-17:00（周五）",
-    "date": "2026-10-09",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150946",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150941",
-    "title": "中国能建天津电建2027届秋季校园招聘",
-    "company": "中国能建天津电建2027届秋季校园招聘",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-09 15:30-17:00（周五）",
-    "date": "2026-10-09",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150941",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150892",
-    "title": "传音控股2027届全球校园招聘",
-    "company": "传音控股2027届全球校园招聘",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-10-09 18:00-19:00（周五）",
-    "date": "2026-10-09",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150892",
     "source": "official",
     "source_label": "就业网"
   }
