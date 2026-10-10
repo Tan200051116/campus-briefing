@@ -852,6 +852,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150967",
+    "title": "深圳市英维克科技股份有限公司",
+    "company": "深圳市英维克科技股份有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-23 13:30-15:00（周五）",
+    "date": "2026-10-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150967",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150949",
     "title": "洛阳轴承集团股份有限公司",
     "company": "洛阳轴承集团股份有限公司",
@@ -872,6 +884,42 @@
     "datetime": "2026-10-23 15:30-17:00（周五）",
     "date": "2026-10-23",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150944",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150983",
+    "title": "河北港口集团2027届校园招聘",
+    "company": "河北港口集团2027届校园招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-25 10:00-11:30（周日）",
+    "date": "2026-10-25",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150983",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150982",
+    "title": "江苏海新船务重工有限公司",
+    "company": "江苏海新船务重工有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-25 13:30-15:00（周日）",
+    "date": "2026-10-25",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150982",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150972",
+    "title": "中国平安2027校园招聘平安人寿—大连海事大学专场宣讲会",
+    "company": "中国平安2027校园招聘平安人寿—大连海事大学专场宣讲会",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-27 13:30-15:00（周二）",
+    "date": "2026-10-27",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150972",
     "source": "official",
     "source_label": "就业网"
   },
