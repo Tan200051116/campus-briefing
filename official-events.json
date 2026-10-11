@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150958",
-    "title": "中国石油集团海洋工程有限公司 2026秋季高校毕业生招聘",
-    "company": "中国石油集团海洋工程有限公司 2026秋季高校毕业生招聘",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-11 15:30-17:00（周日）",
-    "date": "2026-10-11",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150958",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150903",
     "title": "招商局船舶工业集团有限公司2027届校园招聘（匠心智造 筑梦深蓝）",
     "company": "招商局船舶工业集团有限公司2027届校园招聘（匠心智造 筑梦深蓝）",
@@ -992,6 +980,18 @@
     "datetime": "2026-10-11 13:30-15:00（周日）",
     "date": "2026-10-11",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150876",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150958",
+    "title": "中国石油集团海洋工程有限公司 2026秋季高校毕业生招聘",
+    "company": "中国石油集团海洋工程有限公司 2026秋季高校毕业生招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-11 15:30-17:00（周日）",
+    "date": "2026-10-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150958",
     "source": "official",
     "source_label": "就业网"
   }
