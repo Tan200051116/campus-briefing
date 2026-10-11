@@ -936,6 +936,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150979",
+    "title": "北京盛伦国际物流有限公司",
+    "company": "北京盛伦国际物流有限公司",
+    "kind": "线下",
+    "location": "德济楼102",
+    "datetime": "2026-10-26 13:30-15:00（周一）",
+    "date": "2026-10-26",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150979",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150972",
     "title": "中国平安2027校园招聘平安人寿—大连海事大学专场宣讲会",
     "company": "中国平安2027校园招聘平安人寿—大连海事大学专场宣讲会",
@@ -956,6 +968,18 @@
     "datetime": "2026-10-29 14:00-16:00（周四）",
     "date": "2026-10-29",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150966",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150782",
+    "title": "悍高集团股份有限公司",
+    "company": "悍高集团股份有限公司",
+    "kind": "线下",
+    "location": "德济楼101",
+    "datetime": "2026-10-29 15:30-17:00（周四）",
+    "date": "2026-10-29",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150782",
     "source": "official",
     "source_label": "就业网"
   },
