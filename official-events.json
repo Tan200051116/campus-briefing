@@ -744,6 +744,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150929",
+    "title": "北京数码大方科技股份有限公司",
+    "company": "北京数码大方科技股份有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-10-21 18:00-20:00（周三）",
+    "date": "2026-10-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150929",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150917",
     "title": "福建海通发展股份有限公司",
     "company": "福建海通发展股份有限公司",
@@ -908,6 +920,18 @@
     "datetime": "2026-10-25 13:30-15:00（周日）",
     "date": "2026-10-25",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150982",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150987",
+    "title": "福建船政重工股份有限公司校园招聘公告",
+    "company": "福建船政重工股份有限公司校园招聘公告",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-26 13:30-15:00（周一）",
+    "date": "2026-10-26",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150987",
     "source": "official",
     "source_label": "就业网"
   },
