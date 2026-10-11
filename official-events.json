@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150876",
-    "title": "深圳市景旺电子股份有限公司",
-    "company": "深圳市景旺电子股份有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-11 13:30-15:00（周日）",
-    "date": "2026-10-11",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150876",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150958",
     "title": "中国石油集团海洋工程有限公司 2026秋季高校毕业生招聘",
     "company": "中国石油集团海洋工程有限公司 2026秋季高校毕业生招聘",
@@ -992,6 +980,18 @@
     "datetime": "2026-10-31 09:00-11:00（周六）",
     "date": "2026-10-31",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150970",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150876",
+    "title": "深圳市景旺电子股份有限公司",
+    "company": "深圳市景旺电子股份有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-11 13:30-15:00（周日）",
+    "date": "2026-10-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150876",
     "source": "official",
     "source_label": "就业网"
   }
