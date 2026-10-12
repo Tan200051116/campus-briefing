@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-150962",
-    "title": "东莞海昌领航者计划：2027届秋季校园招聘",
-    "company": "东莞海昌领航者计划：2027届秋季校园招聘",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-10-12 10:00-11:30（周一）",
-    "date": "2026-10-12",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150962",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150932",
-    "title": "中央某政法垂直管理单位2027年招录宣讲会",
-    "company": "中央某政法垂直管理单位2027年招录宣讲会",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-12 10:00-11:30（周一）",
-    "date": "2026-10-12",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150932",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150950",
     "title": "中建一局东北公司2027届校园招聘",
     "company": "中建一局东北公司2027届校园招聘",
@@ -980,6 +956,30 @@
     "datetime": "2026-10-12 09:00-10:30（周一）",
     "date": "2026-10-12",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150903",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150962",
+    "title": "东莞海昌领航者计划：2027届秋季校园招聘",
+    "company": "东莞海昌领航者计划：2027届秋季校园招聘",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-10-12 10:00-11:30（周一）",
+    "date": "2026-10-12",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150962",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150932",
+    "title": "中央某政法垂直管理单位2027年招录宣讲会",
+    "company": "中央某政法垂直管理单位2027年招录宣讲会",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-12 10:00-11:30（周一）",
+    "date": "2026-10-12",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150932",
     "source": "official",
     "source_label": "就业网"
   }
