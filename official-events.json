@@ -1,65 +1,5 @@
 [
   {
-    "id": "official-150947",
-    "title": "青春当燃，志在四方|四方股份2027届全球校园招聘",
-    "company": "青春当燃，志在四方|四方股份2027届全球校园招聘",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-14 15:30-17:00（周三）",
-    "date": "2026-10-14",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150947",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150943",
-    "title": "浙江银轮机械股份有限公司",
-    "company": "浙江银轮机械股份有限公司",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-10-14 15:30-17:00（周三）",
-    "date": "2026-10-14",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150943",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150940",
-    "title": "惠州市德赛电池有限公司2027届校园招聘宣讲会",
-    "company": "惠州市德赛电池有限公司2027届校园招聘宣讲会",
-    "kind": "线下",
-    "location": "德济楼101",
-    "datetime": "2026-10-14 15:30-17:00（周三）",
-    "date": "2026-10-14",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150940",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150911",
-    "title": "德邦物流股份有限公司",
-    "company": "德邦物流股份有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-14 15:30-17:00（周三）",
-    "date": "2026-10-14",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150911",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150724",
-    "title": "南通深南电路有限公司",
-    "company": "南通深南电路有限公司",
-    "kind": "线下",
-    "location": "百川楼101",
-    "datetime": "2026-10-14 15:30-17:00（周三）",
-    "date": "2026-10-14",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150724",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150976",
     "title": "面试",
     "company": "面试",
@@ -896,6 +836,66 @@
     "datetime": "2026-10-14 14:00-15:00（周三）",
     "date": "2026-10-14",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150722",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150947",
+    "title": "青春当燃，志在四方|四方股份2027届全球校园招聘",
+    "company": "青春当燃，志在四方|四方股份2027届全球校园招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-14 15:30-17:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150947",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150943",
+    "title": "浙江银轮机械股份有限公司",
+    "company": "浙江银轮机械股份有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-10-14 15:30-17:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150943",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150940",
+    "title": "惠州市德赛电池有限公司2027届校园招聘宣讲会",
+    "company": "惠州市德赛电池有限公司2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "德济楼101",
+    "datetime": "2026-10-14 15:30-17:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150940",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150911",
+    "title": "德邦物流股份有限公司",
+    "company": "德邦物流股份有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-14 15:30-17:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150911",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150724",
+    "title": "南通深南电路有限公司",
+    "company": "南通深南电路有限公司",
+    "kind": "线下",
+    "location": "百川楼101",
+    "datetime": "2026-10-14 15:30-17:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150724",
     "source": "official",
     "source_label": "就业网"
   }
