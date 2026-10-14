@@ -1,41 +1,5 @@
 [
   {
-    "id": "official-150981",
-    "title": "郑州宇通集团有限公司",
-    "company": "郑州宇通集团有限公司",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-10-14 18:00-20:00（周三）",
-    "date": "2026-10-14",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150981",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150961",
-    "title": "华友钴业2027届校园招聘会",
-    "company": "华友钴业2027届校园招聘会",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-14 18:00-20:00（周三）",
-    "date": "2026-10-14",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150961",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150984",
-    "title": "美丽中国支教项目27级招募宣讲会",
-    "company": "美丽中国支教项目27级招募宣讲会",
-    "kind": "线上",
-    "location": "线上宣讲",
-    "datetime": "2026-10-14 19:00-20:00（周三）",
-    "date": "2026-10-14",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150984",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150938",
     "title": "浙江交投物流集团有限公司",
     "company": "浙江交投物流集团有限公司",
@@ -896,6 +860,42 @@
     "datetime": "2026-10-14 18:00-19:06（周三）",
     "date": "2026-10-14",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150976",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150981",
+    "title": "郑州宇通集团有限公司",
+    "company": "郑州宇通集团有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-10-14 18:00-20:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150981",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150961",
+    "title": "华友钴业2027届校园招聘会",
+    "company": "华友钴业2027届校园招聘会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-14 18:00-20:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150961",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150984",
+    "title": "美丽中国支教项目27级招募宣讲会",
+    "company": "美丽中国支教项目27级招募宣讲会",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-10-14 19:00-20:00（周三）",
+    "date": "2026-10-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150984",
     "source": "official",
     "source_label": "就业网"
   }
