@@ -1,41 +1,5 @@
 [
   {
-    "id": "official-150980",
-    "title": "上海环世物流（集团）有限公司",
-    "company": "上海环世物流（集团）有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-15 18:00-20:00（周四）",
-    "date": "2026-10-15",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150980",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150854",
-    "title": "零跑汽车2027届校园招聘",
-    "company": "零跑汽车2027届校园招聘",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-10-15 18:00-20:00（周四）",
-    "date": "2026-10-15",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150854",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150791",
-    "title": "三一集团有限公司",
-    "company": "三一集团有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-15 18:00-20:00（周四）",
-    "date": "2026-10-15",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150791",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150908",
     "title": "中国能源建设集团东北电力第一工程有限公司",
     "company": "中国能源建设集团东北电力第一工程有限公司",
@@ -884,6 +848,42 @@
     "datetime": "2026-10-15 16:00-17:30（周四）",
     "date": "2026-10-15",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150974",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150980",
+    "title": "上海环世物流（集团）有限公司",
+    "company": "上海环世物流（集团）有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-15 18:00-20:00（周四）",
+    "date": "2026-10-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150980",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150854",
+    "title": "零跑汽车2027届校园招聘",
+    "company": "零跑汽车2027届校园招聘",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-10-15 18:00-20:00（周四）",
+    "date": "2026-10-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150854",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150791",
+    "title": "三一集团有限公司",
+    "company": "三一集团有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-15 18:00-20:00（周四）",
+    "date": "2026-10-15",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150791",
     "source": "official",
     "source_label": "就业网"
   }
