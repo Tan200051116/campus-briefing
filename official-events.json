@@ -264,6 +264,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151008",
+    "title": "【央企】中建三局一公司2027届“争先之星”秋季校园招聘专场宣讲会",
+    "company": "【央企】中建三局一公司2027届“争先之星”秋季校园招聘专场宣讲会",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-19 15:30-17:00（周一）",
+    "date": "2026-10-19",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151008",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150690",
     "title": "西安图为电气技术有限公司2027秋季招聘",
     "company": "西安图为电气技术有限公司2027秋季招聘",
@@ -348,6 +360,30 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151011",
+    "title": "SAP 大连VT/STAR招聘宣讲",
+    "company": "SAP 大连VT/STAR招聘宣讲",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-20 18:00-20:00（周二）",
+    "date": "2026-10-20",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151011",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150992",
+    "title": "顺丰速运（沈阳）有限公司",
+    "company": "顺丰速运（沈阳）有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-21 13:30-15:00（周三）",
+    "date": "2026-10-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150992",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150925",
     "title": "就业指导",
     "company": "就业指导",
@@ -420,6 +456,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150891",
+    "title": "深圳市科曼医疗设备有限公司",
+    "company": "深圳市科曼医疗设备有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-21 18:00-20:00（周三）",
+    "date": "2026-10-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150891",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150986",
     "title": "中石化重型起重运输工程有限责任公司",
     "company": "中石化重型起重运输工程有限责任公司",
@@ -440,6 +488,18 @@
     "datetime": "2026-10-22 10:00-11:30（周四）",
     "date": "2026-10-22",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150963",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151014",
+    "title": "钦实集团有限公司",
+    "company": "钦实集团有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-22 13:30-15:00（周四）",
+    "date": "2026-10-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151014",
     "source": "official",
     "source_label": "就业网"
   },
