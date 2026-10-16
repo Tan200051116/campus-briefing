@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-150908",
-    "title": "中国能源建设集团东北电力第一工程有限公司",
-    "company": "中国能源建设集团东北电力第一工程有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-16 10:00-11:30（周五）",
-    "date": "2026-10-16",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150908",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150639",
-    "title": "科捷智能科技股份有限公司",
-    "company": "科捷智能科技股份有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-16 10:00-11:30（周五）",
-    "date": "2026-10-16",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150639",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150942",
     "title": "中集安瑞科2027届秋季校园招聘",
     "company": "中集安瑞科2027届秋季校园招聘",
@@ -788,6 +764,30 @@
     "datetime": "2026-11-06 14:00-15:30（周五）",
     "date": "2026-11-06",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151009",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150908",
+    "title": "中国能源建设集团东北电力第一工程有限公司",
+    "company": "中国能源建设集团东北电力第一工程有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-16 10:00-11:30（周五）",
+    "date": "2026-10-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150908",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150639",
+    "title": "科捷智能科技股份有限公司",
+    "company": "科捷智能科技股份有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-16 10:00-11:30（周五）",
+    "date": "2026-10-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150639",
     "source": "official",
     "source_label": "就业网"
   }
