@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-151027",
-    "title": "深圳中远海运数字科技有限公司",
-    "company": "深圳中远海运数字科技有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-19 10:00-11:30（周一）",
-    "date": "2026-10-19",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151027",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150978",
-    "title": "中国船舶集团青岛北海造船2027届毕业生招聘宣讲会",
-    "company": "中国船舶集团青岛北海造船2027届毕业生招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-19 10:00-11:30（周一）",
-    "date": "2026-10-19",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150978",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150922",
     "title": "中国重汽集团2027届校园招聘宣讲会",
     "company": "中国重汽集团2027届校园招聘宣讲会",
@@ -704,6 +680,30 @@
     "datetime": "2026-11-06 14:00-15:30（周五）",
     "date": "2026-11-06",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151009",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151027",
+    "title": "深圳中远海运数字科技有限公司",
+    "company": "深圳中远海运数字科技有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-19 10:00-11:30（周一）",
+    "date": "2026-10-19",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151027",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150978",
+    "title": "中国船舶集团青岛北海造船2027届毕业生招聘宣讲会",
+    "company": "中国船舶集团青岛北海造船2027届毕业生招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-19 10:00-11:30（周一）",
+    "date": "2026-10-19",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150978",
     "source": "official",
     "source_label": "就业网"
   }
