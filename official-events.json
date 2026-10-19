@@ -240,6 +240,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151038",
+    "title": "广州市晓星火教育科技有限公司",
+    "company": "广州市晓星火教育科技有限公司",
+    "kind": "线下",
+    "location": "四海楼306",
+    "datetime": "2026-10-21 18:00-20:00（周三）",
+    "date": "2026-10-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151038",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150937",
     "title": "深圳桃李未来教育集团有限公司",
     "company": "深圳桃李未来教育集团有限公司",
@@ -420,6 +432,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151037",
+    "title": "中铁十六局集团有限公司",
+    "company": "中铁十六局集团有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-23 10:00-11:30（周五）",
+    "date": "2026-10-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151037",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151032",
     "title": "华为技术有限公司--销售职类/消费者管理培训生专场",
     "company": "华为技术有限公司--销售职类/消费者管理培训生专场",
@@ -500,6 +524,18 @@
     "datetime": "2026-10-24 18:00-20:00（周六）",
     "date": "2026-10-24",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150923",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151039",
+    "title": "福建水利电力职业技术学院",
+    "company": "福建水利电力职业技术学院",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-25 10:00-11:30（周日）",
+    "date": "2026-10-25",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151039",
     "source": "official",
     "source_label": "就业网"
   },
@@ -668,18 +704,6 @@
     "datetime": "2026-11-06 14:00-15:30（周五）",
     "date": "2026-11-06",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151009",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150991",
-    "title": "中车齐齐哈尔车辆有限公司",
-    "company": "中车齐齐哈尔车辆有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-18 18:00-20:00（周日）",
-    "date": "2026-10-18",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150991",
     "source": "official",
     "source_label": "就业网"
   }
