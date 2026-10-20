@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-150985",
-    "title": "中国船舶集团渤海造船有限公司2026年秋季招聘宣讲会",
-    "company": "中国船舶集团渤海造船有限公司2026年秋季招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-20 10:00-11:30（周二）",
-    "date": "2026-10-20",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150985",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150975",
-    "title": "珠海光库科技股份有限公司",
-    "company": "珠海光库科技股份有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-20 10:00-11:30（周二）",
-    "date": "2026-10-20",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150975",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151042",
     "title": "中央某部委在京直属行政单位招录宣讲",
     "company": "中央某部委在京直属行政单位招录宣讲",
@@ -608,6 +584,30 @@
     "datetime": "2026-11-06 14:00-15:30（周五）",
     "date": "2026-11-06",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151009",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150985",
+    "title": "中国船舶集团渤海造船有限公司2026年秋季招聘宣讲会",
+    "company": "中国船舶集团渤海造船有限公司2026年秋季招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-20 10:00-11:30（周二）",
+    "date": "2026-10-20",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150985",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150975",
+    "title": "珠海光库科技股份有限公司",
+    "company": "珠海光库科技股份有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-20 10:00-11:30（周二）",
+    "date": "2026-10-20",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150975",
     "source": "official",
     "source_label": "就业网"
   }
