@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-151042",
-    "title": "中央某部委在京直属行政单位招录宣讲",
-    "company": "中央某部委在京直属行政单位招录宣讲",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-20 13:30-15:00（周二）",
-    "date": "2026-10-20",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151042",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-151028",
-    "title": "石家庄市“进百校”校园宣讲会",
-    "company": "石家庄市“进百校”校园宣讲会",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-20 13:30-15:00（周二）",
-    "date": "2026-10-20",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151028",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151021",
     "title": "军事科学院国防科技创新研究院2026招聘",
     "company": "军事科学院国防科技创新研究院2026招聘",
@@ -608,6 +584,30 @@
     "datetime": "2026-10-20 10:00-11:30（周二）",
     "date": "2026-10-20",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150975",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151042",
+    "title": "中央某部委在京直属行政单位招录宣讲",
+    "company": "中央某部委在京直属行政单位招录宣讲",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-20 13:30-15:00（周二）",
+    "date": "2026-10-20",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151042",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151028",
+    "title": "石家庄市“进百校”校园宣讲会",
+    "company": "石家庄市“进百校”校园宣讲会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-20 13:30-15:00（周二）",
+    "date": "2026-10-20",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151028",
     "source": "official",
     "source_label": "就业网"
   }
