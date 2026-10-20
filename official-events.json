@@ -1,41 +1,5 @@
 [
   {
-    "id": "official-151021",
-    "title": "军事科学院国防科技创新研究院2026招聘",
-    "company": "军事科学院国防科技创新研究院2026招聘",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-20 15:30-17:00（周二）",
-    "date": "2026-10-20",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151021",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150995",
-    "title": "中国海洋石油集团有限公司2027届校园招聘会",
-    "company": "中国海洋石油集团有限公司2027届校园招聘会",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-20 15:30-17:00（周二）",
-    "date": "2026-10-20",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150995",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150871",
-    "title": "山东和捷物流有限公司",
-    "company": "山东和捷物流有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-20 15:30-17:00（周二）",
-    "date": "2026-10-20",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150871",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151011",
     "title": "SAP 大连VT/STAR招聘宣讲",
     "company": "SAP 大连VT/STAR招聘宣讲",
@@ -608,6 +572,42 @@
     "datetime": "2026-10-20 13:30-15:00（周二）",
     "date": "2026-10-20",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151028",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151021",
+    "title": "军事科学院国防科技创新研究院2026招聘",
+    "company": "军事科学院国防科技创新研究院2026招聘",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-20 15:30-17:00（周二）",
+    "date": "2026-10-20",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151021",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150995",
+    "title": "中国海洋石油集团有限公司2027届校园招聘会",
+    "company": "中国海洋石油集团有限公司2027届校园招聘会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-20 15:30-17:00（周二）",
+    "date": "2026-10-20",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150995",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150871",
+    "title": "山东和捷物流有限公司",
+    "company": "山东和捷物流有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-20 15:30-17:00（周二）",
+    "date": "2026-10-20",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150871",
     "source": "official",
     "source_label": "就业网"
   }
