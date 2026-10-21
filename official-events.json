@@ -480,6 +480,30 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151036",
+    "title": "深信服科技股份有限公司大连海事秋招专场岗位推荐会",
+    "company": "深信服科技股份有限公司大连海事秋招专场岗位推荐会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-27 15:30-17:00（周二）",
+    "date": "2026-10-27",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151036",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151045",
+    "title": "中建一局集团第二建筑有限公司2027校园招聘",
+    "company": "中建一局集团第二建筑有限公司2027校园招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-28 15:30-17:00（周三）",
+    "date": "2026-10-28",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151045",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151048",
     "title": "鞍山市“名校优生计划”宣讲会",
     "company": "鞍山市“名校优生计划”宣讲会",
@@ -516,6 +540,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-150990",
+    "title": "黑龙江云枫汽车有限公司",
+    "company": "黑龙江云枫汽车有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-29 18:00-20:00（周四）",
+    "date": "2026-10-29",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150990",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-150970",
     "title": "学院就业指导",
     "company": "学院就业指导",
@@ -536,6 +572,30 @@
     "datetime": "2026-11-03 10:00-11:30（周二）",
     "date": "2026-11-03",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151023",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151052",
+    "title": "中化石油有限公司",
+    "company": "中化石油有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-11-03 13:30-15:00（周二）",
+    "date": "2026-11-03",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151052",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150965",
+    "title": "臻鼎科技集团秦皇岛园区校园招聘会",
+    "company": "臻鼎科技集团秦皇岛园区校园招聘会",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-11-05 13:30-15:00（周四）",
+    "date": "2026-11-05",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150965",
     "source": "official",
     "source_label": "就业网"
   },
