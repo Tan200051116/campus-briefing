@@ -1,65 +1,5 @@
 [
   {
-    "id": "official-151038",
-    "title": "广州市晓星火教育科技有限公司",
-    "company": "广州市晓星火教育科技有限公司",
-    "kind": "线下",
-    "location": "四海楼306",
-    "datetime": "2026-10-21 18:00-20:00（周三）",
-    "date": "2026-10-21",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151038",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150937",
-    "title": "深圳桃李未来教育集团有限公司",
-    "company": "深圳桃李未来教育集团有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-21 18:00-20:00（周三）",
-    "date": "2026-10-21",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150937",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150929",
-    "title": "北京数码大方科技股份有限公司",
-    "company": "北京数码大方科技股份有限公司",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-10-21 18:00-20:00（周三）",
-    "date": "2026-10-21",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150929",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150917",
-    "title": "福建海通发展股份有限公司",
-    "company": "福建海通发展股份有限公司",
-    "kind": "线下",
-    "location": "新图书馆报告厅",
-    "datetime": "2026-10-21 18:00-20:00（周三）",
-    "date": "2026-10-21",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150917",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150891",
-    "title": "深圳市科曼医疗设备有限公司",
-    "company": "深圳市科曼医疗设备有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-21 18:00-20:00（周三）",
-    "date": "2026-10-21",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150891",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150986",
     "title": "中石化重型起重运输工程有限责任公司",
     "company": "中石化重型起重运输工程有限责任公司",
@@ -656,6 +596,66 @@
     "datetime": "2026-10-21 18:00-19:30（周三）",
     "date": "2026-10-21",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151029",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151038",
+    "title": "广州市晓星火教育科技有限公司",
+    "company": "广州市晓星火教育科技有限公司",
+    "kind": "线下",
+    "location": "四海楼306",
+    "datetime": "2026-10-21 18:00-20:00（周三）",
+    "date": "2026-10-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151038",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150937",
+    "title": "深圳桃李未来教育集团有限公司",
+    "company": "深圳桃李未来教育集团有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-21 18:00-20:00（周三）",
+    "date": "2026-10-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150937",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150929",
+    "title": "北京数码大方科技股份有限公司",
+    "company": "北京数码大方科技股份有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-10-21 18:00-20:00（周三）",
+    "date": "2026-10-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150929",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150917",
+    "title": "福建海通发展股份有限公司",
+    "company": "福建海通发展股份有限公司",
+    "kind": "线下",
+    "location": "新图书馆报告厅",
+    "datetime": "2026-10-21 18:00-20:00（周三）",
+    "date": "2026-10-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150917",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150891",
+    "title": "深圳市科曼医疗设备有限公司",
+    "company": "深圳市科曼医疗设备有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-21 18:00-20:00（周三）",
+    "date": "2026-10-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150891",
     "source": "official",
     "source_label": "就业网"
   }
