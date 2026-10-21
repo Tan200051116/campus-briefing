@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-151031",
-    "title": "中国出口信用保险公司辽宁分公司2027年校园招聘宣讲会",
-    "company": "中国出口信用保险公司辽宁分公司2027年校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-21 15:30-17:00（周三）",
-    "date": "2026-10-21",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151031",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-151025",
-    "title": "2027年火箭军文职人员招聘宣讲",
-    "company": "2027年火箭军文职人员招聘宣讲",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-21 15:30-17:00（周三）",
-    "date": "2026-10-21",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151025",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151029",
     "title": "广东新锦成陶瓷集团有限公司",
     "company": "广东新锦成陶瓷集团有限公司",
@@ -572,6 +548,30 @@
     "datetime": "2026-10-21 13:30-15:00（周三）",
     "date": "2026-10-21",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150992",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151031",
+    "title": "中国出口信用保险公司辽宁分公司2027年校园招聘宣讲会",
+    "company": "中国出口信用保险公司辽宁分公司2027年校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-21 15:30-17:00（周三）",
+    "date": "2026-10-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151031",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151025",
+    "title": "2027年火箭军文职人员招聘宣讲",
+    "company": "2027年火箭军文职人员招聘宣讲",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-21 15:30-17:00（周三）",
+    "date": "2026-10-21",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151025",
     "source": "official",
     "source_label": "就业网"
   }
