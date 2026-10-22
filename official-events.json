@@ -1,53 +1,5 @@
 [
   {
-    "id": "official-151050",
-    "title": "青岛儒海船舶股份有限公司",
-    "company": "青岛儒海船舶股份有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-22 18:00-20:00（周四）",
-    "date": "2026-10-22",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151050",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-151015",
-    "title": "内蒙古伊利实业集团股份有限公司液态奶事业部",
-    "company": "内蒙古伊利实业集团股份有限公司液态奶事业部",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-10-22 18:00-20:00（周四）",
-    "date": "2026-10-22",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151015",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150939",
-    "title": "南京高精船用设备有限公司2027届校园宣讲会",
-    "company": "南京高精船用设备有限公司2027届校园宣讲会",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-22 18:00-20:00（周四）",
-    "date": "2026-10-22",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150939",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150904",
-    "title": "罗莱生活科技股份有限公司",
-    "company": "罗莱生活科技股份有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-22 18:00-20:00（周四）",
-    "date": "2026-10-22",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150904",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150956",
     "title": "【组团】2026年青岛市“招才引智名校行”暨“海纳英才”活动",
     "company": "【组团】2026年青岛市“招才引智名校行”暨“海纳英才”活动",
@@ -548,6 +500,54 @@
     "datetime": "2026-10-22 15:30-17:00（周四）",
     "date": "2026-10-22",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150769",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151050",
+    "title": "青岛儒海船舶股份有限公司",
+    "company": "青岛儒海船舶股份有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-22 18:00-20:00（周四）",
+    "date": "2026-10-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151050",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151015",
+    "title": "内蒙古伊利实业集团股份有限公司液态奶事业部",
+    "company": "内蒙古伊利实业集团股份有限公司液态奶事业部",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-10-22 18:00-20:00（周四）",
+    "date": "2026-10-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151015",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150939",
+    "title": "南京高精船用设备有限公司2027届校园宣讲会",
+    "company": "南京高精船用设备有限公司2027届校园宣讲会",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-22 18:00-20:00（周四）",
+    "date": "2026-10-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150939",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150904",
+    "title": "罗莱生活科技股份有限公司",
+    "company": "罗莱生活科技股份有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-22 18:00-20:00（周四）",
+    "date": "2026-10-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150904",
     "source": "official",
     "source_label": "就业网"
   }
