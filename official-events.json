@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-151014",
-    "title": "钦实集团有限公司",
-    "company": "钦实集团有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-22 13:30-15:00（周四）",
-    "date": "2026-10-22",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151014",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150951",
-    "title": "珠海万达商管2027届校园招聘",
-    "company": "珠海万达商管2027届校园招聘",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-22 13:30-15:00（周四）",
-    "date": "2026-10-22",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150951",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151010",
     "title": "【组团】昆山市2026年“百校千企引才计划”专场招聘会",
     "company": "【组团】昆山市2026年“百校千企引才计划”专场招聘会",
@@ -548,6 +524,30 @@
     "datetime": "2026-10-22 10:00-11:30（周四）",
     "date": "2026-10-22",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150963",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151014",
+    "title": "钦实集团有限公司",
+    "company": "钦实集团有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-22 13:30-15:00（周四）",
+    "date": "2026-10-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151014",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150951",
+    "title": "珠海万达商管2027届校园招聘",
+    "company": "珠海万达商管2027届校园招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-22 13:30-15:00（周四）",
+    "date": "2026-10-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150951",
     "source": "official",
     "source_label": "就业网"
   }
