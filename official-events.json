@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-151017",
-    "title": "蓉达航运集团2027届校园招聘宣讲会",
-    "company": "蓉达航运集团2027届校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-10-22 15:30-17:00（周四）",
-    "date": "2026-10-22",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151017",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150769",
-    "title": "安徽江汽物流有限公司",
-    "company": "安徽江汽物流有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-22 15:30-17:00（周四）",
-    "date": "2026-10-22",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150769",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151050",
     "title": "青岛儒海船舶股份有限公司",
     "company": "青岛儒海船舶股份有限公司",
@@ -548,6 +524,30 @@
     "datetime": "2026-10-22 14:00-16:00（周四）",
     "date": "2026-10-22",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151010",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151017",
+    "title": "蓉达航运集团2027届校园招聘宣讲会",
+    "company": "蓉达航运集团2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-10-22 15:30-17:00（周四）",
+    "date": "2026-10-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151017",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150769",
+    "title": "安徽江汽物流有限公司",
+    "company": "安徽江汽物流有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-22 15:30-17:00（周四）",
+    "date": "2026-10-22",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150769",
     "source": "official",
     "source_label": "就业网"
   }
