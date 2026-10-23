@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150956",
-    "title": "【组团】2026年青岛市“招才引智名校行”暨“海纳英才”活动",
-    "company": "【组团】2026年青岛市“招才引智名校行”暨“海纳英才”活动",
-    "kind": "线下",
-    "location": "启航楼一楼",
-    "datetime": "2026-10-23 09:30-11:00（周五）",
-    "date": "2026-10-23",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150956",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151037",
     "title": "中铁十六局集团有限公司",
     "company": "中铁十六局集团有限公司",
@@ -500,6 +488,18 @@
     "datetime": "2026-11-06 14:00-15:30（周五）",
     "date": "2026-11-06",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151009",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150956",
+    "title": "【组团】2026年青岛市“招才引智名校行”暨“海纳英才”活动",
+    "company": "【组团】2026年青岛市“招才引智名校行”暨“海纳英才”活动",
+    "kind": "线下",
+    "location": "启航楼一楼",
+    "datetime": "2026-10-23 09:30-11:00（周五）",
+    "date": "2026-10-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150956",
     "source": "official",
     "source_label": "就业网"
   }
