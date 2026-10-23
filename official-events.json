@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-151032",
-    "title": "华为技术有限公司--销售职类/消费者管理培训生专场",
-    "company": "华为技术有限公司--销售职类/消费者管理培训生专场",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-23 13:30-15:00（周五）",
-    "date": "2026-10-23",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151032",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150967",
-    "title": "深圳市英维克科技股份有限公司",
-    "company": "深圳市英维克科技股份有限公司",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-23 13:30-15:00（周五）",
-    "date": "2026-10-23",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150967",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151051",
     "title": "晓禾科技（武汉）有限公司",
     "company": "晓禾科技（武汉）有限公司",
@@ -548,6 +524,30 @@
     "datetime": "2026-10-23 10:00-11:30（周五）",
     "date": "2026-10-23",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151037",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151032",
+    "title": "华为技术有限公司--销售职类/消费者管理培训生专场",
+    "company": "华为技术有限公司--销售职类/消费者管理培训生专场",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-23 13:30-15:00（周五）",
+    "date": "2026-10-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151032",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150967",
+    "title": "深圳市英维克科技股份有限公司",
+    "company": "深圳市英维克科技股份有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-23 13:30-15:00（周五）",
+    "date": "2026-10-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150967",
     "source": "official",
     "source_label": "就业网"
   }
