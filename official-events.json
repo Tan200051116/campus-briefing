@@ -168,6 +168,30 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151056",
+    "title": "海德威科技集团（青岛）有限公司",
+    "company": "海德威科技集团（青岛）有限公司",
+    "kind": "线下",
+    "location": "百川楼202",
+    "datetime": "2026-10-26 13:30-15:00（周一）",
+    "date": "2026-10-26",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151056",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151053",
+    "title": "宁波力勤资源科技股份有限公司",
+    "company": "宁波力勤资源科技股份有限公司",
+    "kind": "线下",
+    "location": "百川楼102",
+    "datetime": "2026-10-26 13:30-15:00（周一）",
+    "date": "2026-10-26",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151053",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151046",
     "title": "【组团】浙江省海港集团、宁波舟山港集团",
     "company": "【组团】浙江省海港集团、宁波舟山港集团",
@@ -188,6 +212,30 @@
     "datetime": "2026-10-26 13:30-15:00（周一）",
     "date": "2026-10-26",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151034",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150998",
+    "title": "北京爱航船务代理有限公司",
+    "company": "北京爱航船务代理有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-26 13:30-15:00（周一）",
+    "date": "2026-10-26",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150998",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150989",
+    "title": "吉数科技（大连）有限公司",
+    "company": "吉数科技（大连）有限公司",
+    "kind": "线下",
+    "location": "百川楼203",
+    "datetime": "2026-10-26 13:30-15:00（周一）",
+    "date": "2026-10-26",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150989",
     "source": "official",
     "source_label": "就业网"
   },
@@ -320,6 +368,18 @@
     "datetime": "2026-10-27 15:30-17:00（周二）",
     "date": "2026-10-27",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151036",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151058",
+    "title": "大连腾马科技发展有限公司",
+    "company": "大连腾马科技发展有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-28 13:30-15:00（周三）",
+    "date": "2026-10-28",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151058",
     "source": "official",
     "source_label": "就业网"
   },
