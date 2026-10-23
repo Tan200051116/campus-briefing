@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-151059",
-    "title": "青岛儒海船舶股份有限公司",
-    "company": "青岛儒海船舶股份有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-23 18:00-20:00（周五）",
-    "date": "2026-10-23",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151059",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-151002",
-    "title": "浙江荣盛控股集团有限公司",
-    "company": "浙江荣盛控股集团有限公司",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-10-23 18:00-20:00（周五）",
-    "date": "2026-10-23",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151002",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150923",
     "title": "江西江铃进出口有限责任公司27届秋季校招宣讲会",
     "company": "江西江铃进出口有限责任公司27届秋季校招宣讲会",
@@ -548,6 +524,30 @@
     "datetime": "2026-10-23 15:30-17:00（周五）",
     "date": "2026-10-23",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150944",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151059",
+    "title": "青岛儒海船舶股份有限公司",
+    "company": "青岛儒海船舶股份有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-23 18:00-20:00（周五）",
+    "date": "2026-10-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151059",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151002",
+    "title": "浙江荣盛控股集团有限公司",
+    "company": "浙江荣盛控股集团有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-10-23 18:00-20:00（周五）",
+    "date": "2026-10-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151002",
     "source": "official",
     "source_label": "就业网"
   }
