@@ -72,6 +72,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151059",
+    "title": "青岛儒海船舶股份有限公司",
+    "company": "青岛儒海船舶股份有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-23 18:00-20:00（周五）",
+    "date": "2026-10-23",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151059",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151002",
     "title": "浙江荣盛控股集团有限公司",
     "company": "浙江荣盛控股集团有限公司",
@@ -360,6 +372,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151061",
+    "title": "中国人民解放军91977部队",
+    "company": "中国人民解放军91977部队",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-28 15:30-17:00（周三）",
+    "date": "2026-10-28",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151061",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151045",
     "title": "中建一局集团第二建筑有限公司2027校园招聘",
     "company": "中建一局集团第二建筑有限公司2027校园招聘",
@@ -392,6 +416,18 @@
     "datetime": "2026-10-29 13:30-15:00（周四）",
     "date": "2026-10-29",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151048",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151060",
+    "title": "中建一局集团第五建筑有限公司",
+    "company": "中建一局集团第五建筑有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-29 15:30-17:00（周四）",
+    "date": "2026-10-29",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151060",
     "source": "official",
     "source_label": "就业网"
   },
