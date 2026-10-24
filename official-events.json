@@ -264,6 +264,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151066",
+    "title": "芯联集成2027届校园招聘空中宣讲会",
+    "company": "芯联集成2027届校园招聘空中宣讲会",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-10-27 19:00-20:00（周二）",
+    "date": "2026-10-27",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151066",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151058",
     "title": "大连腾马科技发展有限公司",
     "company": "大连腾马科技发展有限公司",
@@ -440,6 +452,30 @@
     "datetime": "2026-11-06 14:00-15:30（周五）",
     "date": "2026-11-06",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151009",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151065",
+    "title": "某部队研究所2027年文职人员招录宣讲会公告",
+    "company": "某部队研究所2027年文职人员招录宣讲会公告",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-11-06 15:30-17:00（周五）",
+    "date": "2026-11-06",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151065",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151067",
+    "title": "新加坡港务PSA 2027届校园招聘宣讲会",
+    "company": "新加坡港务PSA 2027届校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-11-09 09:00-12:00（周一）",
+    "date": "2026-11-09",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151067",
     "source": "official",
     "source_label": "就业网"
   }
