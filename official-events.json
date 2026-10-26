@@ -418,53 +418,5 @@
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151067",
     "source": "official",
     "source_label": "就业网"
-  },
-  {
-    "id": "official-151039",
-    "title": "福建水利电力职业技术学院",
-    "company": "福建水利电力职业技术学院",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-25 10:00-11:30（周日）",
-    "date": "2026-10-25",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151039",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-151035",
-    "title": "浙江国际海运职业技术学院",
-    "company": "浙江国际海运职业技术学院",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-25 10:00-11:30（周日）",
-    "date": "2026-10-25",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151035",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150983",
-    "title": "河北港口集团2027届校园招聘",
-    "company": "河北港口集团2027届校园招聘",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-25 10:00-11:30（周日）",
-    "date": "2026-10-25",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150983",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150982",
-    "title": "江苏海新船务重工有限公司",
-    "company": "江苏海新船务重工有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-25 13:30-15:00（周日）",
-    "date": "2026-10-25",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150982",
-    "source": "official",
-    "source_label": "就业网"
   }
 ]
