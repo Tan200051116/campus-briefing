@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-151066",
-    "title": "芯联集成2027届校园招聘空中宣讲会",
-    "company": "芯联集成2027届校园招聘空中宣讲会",
-    "kind": "线上",
-    "location": "线上宣讲",
-    "datetime": "2026-10-27 19:00-20:00（周二）",
-    "date": "2026-10-27",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151066",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151058",
     "title": "大连腾马科技发展有限公司",
     "company": "大连腾马科技发展有限公司",
@@ -260,6 +248,18 @@
     "datetime": "2026-10-27 15:30-17:00（周二）",
     "date": "2026-10-27",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151036",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151066",
+    "title": "芯联集成2027届校园招聘空中宣讲会",
+    "company": "芯联集成2027届校园招聘空中宣讲会",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-10-27 19:00-20:00（周二）",
+    "date": "2026-10-27",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151066",
     "source": "official",
     "source_label": "就业网"
   }
