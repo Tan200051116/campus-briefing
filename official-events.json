@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-151036",
-    "title": "深信服科技股份有限公司大连海事秋招专场岗位推荐会",
-    "company": "深信服科技股份有限公司大连海事秋招专场岗位推荐会",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-27 15:30-17:00（周二）",
-    "date": "2026-10-27",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151036",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151066",
     "title": "芯联集成2027届校园招聘空中宣讲会",
     "company": "芯联集成2027届校园招聘空中宣讲会",
@@ -260,6 +248,18 @@
     "datetime": "2026-10-27 13:30-15:00（周二）",
     "date": "2026-10-27",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150972",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151036",
+    "title": "深信服科技股份有限公司大连海事秋招专场岗位推荐会",
+    "company": "深信服科技股份有限公司大连海事秋招专场岗位推荐会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-27 15:30-17:00（周二）",
+    "date": "2026-10-27",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151036",
     "source": "official",
     "source_label": "就业网"
   }
