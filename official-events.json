@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150990",
-    "title": "黑龙江云枫汽车有限公司",
-    "company": "黑龙江云枫汽车有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-29 18:00-20:00（周四）",
-    "date": "2026-10-29",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150990",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150970",
     "title": "交通学院就业指导",
     "company": "交通学院就业指导",
@@ -260,6 +248,18 @@
     "datetime": "2026-10-29 15:30-17:30（周四）",
     "date": "2026-10-29",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150966",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150990",
+    "title": "黑龙江云枫汽车有限公司",
+    "company": "黑龙江云枫汽车有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-29 18:00-20:00（周四）",
+    "date": "2026-10-29",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150990",
     "source": "official",
     "source_label": "就业网"
   }
