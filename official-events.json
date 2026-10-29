@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150966",
-    "title": "招商港口2027届校园招聘",
-    "company": "招商港口2027届校园招聘",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-29 15:30-17:30（周四）",
-    "date": "2026-10-29",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150966",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150990",
     "title": "黑龙江云枫汽车有限公司",
     "company": "黑龙江云枫汽车有限公司",
@@ -260,6 +248,18 @@
     "datetime": "2026-10-29 15:30-17:00（周四）",
     "date": "2026-10-29",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150782",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150966",
+    "title": "招商港口2027届校园招聘",
+    "company": "招商港口2027届校园招聘",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-10-29 15:30-17:30（周四）",
+    "date": "2026-10-29",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150966",
     "source": "official",
     "source_label": "就业网"
   }
