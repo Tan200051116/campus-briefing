@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-151060",
-    "title": "中建一局集团第五建筑有限公司",
-    "company": "中建一局集团第五建筑有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-10-29 15:30-17:00（周四）",
-    "date": "2026-10-29",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151060",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-150782",
-    "title": "悍高集团股份有限公司",
-    "company": "悍高集团股份有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-10-29 15:30-17:00（周四）",
-    "date": "2026-10-29",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150782",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-150966",
     "title": "招商港口2027届校园招聘",
     "company": "招商港口2027届校园招聘",
@@ -260,6 +236,30 @@
     "datetime": "2026-10-29 13:30-15:00（周四）",
     "date": "2026-10-29",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151048",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151060",
+    "title": "中建一局集团第五建筑有限公司",
+    "company": "中建一局集团第五建筑有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-10-29 15:30-17:00（周四）",
+    "date": "2026-10-29",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151060",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-150782",
+    "title": "悍高集团股份有限公司",
+    "company": "悍高集团股份有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-10-29 15:30-17:00（周四）",
+    "date": "2026-10-29",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150782",
     "source": "official",
     "source_label": "就业网"
   }
