@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-150970",
-    "title": "交通学院就业指导",
-    "company": "交通学院就业指导",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-10-31 09:00-11:00（周六）",
-    "date": "2026-10-31",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150970",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151072",
     "title": "德邦物流股份有限公司",
     "company": "德邦物流股份有限公司",
@@ -84,18 +72,6 @@
     "source_label": "就业网"
   },
   {
-    "id": "official-151078",
-    "title": "锦州华顺国有资产经营（集团）有限公司",
-    "company": "锦州华顺国有资产经营（集团）有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-11-04 09:00-10:30（周三）",
-    "date": "2026-11-04",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151078",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151080",
     "title": "中国船级社海南分社2027年招聘",
     "company": "中国船级社海南分社2027年招聘",
@@ -144,6 +120,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151092",
+    "title": "2026达飞中国校园开放日",
+    "company": "2026达飞中国校园开放日",
+    "kind": "线下",
+    "location": "启航楼101、一楼",
+    "datetime": "2026-11-06 13:20-16:30（周五）",
+    "date": "2026-11-06",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151092",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151009",
     "title": "日本船级社（ClassNK）2027届招聘",
     "company": "日本船级社（ClassNK）2027届招聘",
@@ -188,6 +176,18 @@
     "datetime": "2026-11-06 19:00-21:00（周五）",
     "date": "2026-11-06",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151075",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151078",
+    "title": "锦州华顺国有资产经营（集团）有限公司",
+    "company": "锦州华顺国有资产经营（集团）有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-11-07 10:00-11:30（周六）",
+    "date": "2026-11-07",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151078",
     "source": "official",
     "source_label": "就业网"
   },
