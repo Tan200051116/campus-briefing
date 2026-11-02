@@ -17,7 +17,7 @@
     "company": "山东省港口集团有限公司2027届校园招聘",
     "kind": "线下",
     "location": "启航楼101",
-    "datetime": "2026-11-02 15:30-17:00（周一）",
+    "datetime": "2026-11-02 16:00-17:00（周一）",
     "date": "2026-11-02",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151077",
     "source": "official",
@@ -296,6 +296,30 @@
     "datetime": "2026-11-09 09:00-12:00（周一）",
     "date": "2026-11-09",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151067",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151093",
+    "title": "浙江爱旭太阳能科技有限公司",
+    "company": "浙江爱旭太阳能科技有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-11-10 15:30-17:00（周二）",
+    "date": "2026-11-10",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151093",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151091",
+    "title": "云尖信息技术股份有限公司",
+    "company": "云尖信息技术股份有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-11-12 15:30-17:00（周四）",
+    "date": "2026-11-12",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151091",
     "source": "official",
     "source_label": "就业网"
   }
