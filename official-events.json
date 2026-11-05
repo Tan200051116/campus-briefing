@@ -132,6 +132,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151094",
+    "title": "晓禾科技27届空中宣讲会",
+    "company": "晓禾科技27届空中宣讲会",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-11-06 15:00-15:45（周五）",
+    "date": "2026-11-06",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151094",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151065",
     "title": "某部队研究所2027年文职人员招录宣讲会公告",
     "company": "某部队研究所2027年文职人员招录宣讲会公告",
@@ -252,6 +264,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151098",
+    "title": "中国人民解放军海军航空大学",
+    "company": "中国人民解放军海军航空大学",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-11-12 15:30-17:00（周四）",
+    "date": "2026-11-12",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151098",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151091",
     "title": "云尖信息技术股份有限公司",
     "company": "云尖信息技术股份有限公司",
@@ -260,6 +284,30 @@
     "datetime": "2026-11-12 15:30-17:00（周四）",
     "date": "2026-11-12",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151091",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151090",
+    "title": "北汽福田汽车股份有限公司山东厂区2027届校招宣讲",
+    "company": "北汽福田汽车股份有限公司山东厂区2027届校招宣讲",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-11-16 18:00-20:00（周一）",
+    "date": "2026-11-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151090",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151097",
+    "title": "明阳智慧能源集团股份公司",
+    "company": "明阳智慧能源集团股份公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-11-18 15:30-17:00（周三）",
+    "date": "2026-11-18",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151097",
     "source": "official",
     "source_label": "就业网"
   }
