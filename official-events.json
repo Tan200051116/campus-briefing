@@ -1,41 +1,5 @@
 [
   {
-    "id": "official-151089",
-    "title": "一汽解放动力总成事业部2027届校招宣讲会",
-    "company": "一汽解放动力总成事业部2027届校招宣讲会",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-11-05 18:00-20:00（周四）",
-    "date": "2026-11-05",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151089",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-151083",
-    "title": "锦州农垦（集团）有限公司",
-    "company": "锦州农垦（集团）有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-11-05 18:00-20:00（周四）",
-    "date": "2026-11-05",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151083",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-151082",
-    "title": "锦州水兴实业有限公司",
-    "company": "锦州水兴实业有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-11-05 18:00-20:00（周四）",
-    "date": "2026-11-05",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151082",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151099",
     "title": "中车大连机车车辆有限公司",
     "company": "中车大连机车车辆有限公司",
@@ -308,6 +272,42 @@
     "datetime": "2026-11-05 13:30-15:00（周四）",
     "date": "2026-11-05",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/150965",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151089",
+    "title": "一汽解放动力总成事业部2027届校招宣讲会",
+    "company": "一汽解放动力总成事业部2027届校招宣讲会",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-11-05 18:00-20:00（周四）",
+    "date": "2026-11-05",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151089",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151083",
+    "title": "锦州农垦（集团）有限公司",
+    "company": "锦州农垦（集团）有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-11-05 18:00-20:00（周四）",
+    "date": "2026-11-05",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151083",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151082",
+    "title": "锦州水兴实业有限公司",
+    "company": "锦州水兴实业有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-11-05 18:00-20:00（周四）",
+    "date": "2026-11-05",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151082",
     "source": "official",
     "source_label": "就业网"
   }
