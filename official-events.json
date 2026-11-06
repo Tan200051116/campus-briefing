@@ -12,18 +12,6 @@
     "source_label": "就业网"
   },
   {
-    "id": "official-151084",
-    "title": "锦州市华银资产经营有限公司",
-    "company": "锦州市华银资产经营有限公司",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-11-06 13:30-15:00（周五）",
-    "date": "2026-11-06",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151084",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151009",
     "title": "日本船级社（ClassNK）2027届招聘",
     "company": "日本船级社（ClassNK）2027届招聘",
@@ -260,6 +248,18 @@
     "datetime": "2026-11-06 10:00-11:30（周五）",
     "date": "2026-11-06",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151079",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151084",
+    "title": "锦州市华银资产经营有限公司",
+    "company": "锦州市华银资产经营有限公司",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-11-06 13:30-15:00（周五）",
+    "date": "2026-11-06",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151084",
     "source": "official",
     "source_label": "就业网"
   }
