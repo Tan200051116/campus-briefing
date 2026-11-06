@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-151065",
-    "title": "某部队研究所2027年文职人员招录宣讲会公告",
-    "company": "某部队研究所2027年文职人员招录宣讲会公告",
-    "kind": "线下",
-    "location": "启航楼301",
-    "datetime": "2026-11-06 15:30-17:00（周五）",
-    "date": "2026-11-06",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151065",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151073",
     "title": "南航通用航空股份有限公司",
     "company": "南航通用航空股份有限公司",
@@ -260,6 +248,18 @@
     "datetime": "2026-11-06 15:00-15:45（周五）",
     "date": "2026-11-06",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151094",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151065",
+    "title": "某部队研究所2027年文职人员招录宣讲会公告",
+    "company": "某部队研究所2027年文职人员招录宣讲会公告",
+    "kind": "线下",
+    "location": "启航楼301",
+    "datetime": "2026-11-06 15:30-17:00（周五）",
+    "date": "2026-11-06",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151065",
     "source": "official",
     "source_label": "就业网"
   }
