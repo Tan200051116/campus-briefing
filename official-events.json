@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-151092",
-    "title": "2026达飞中国校园开放日",
-    "company": "2026达飞中国校园开放日",
-    "kind": "线下",
-    "location": "启航楼101、一楼",
-    "datetime": "2026-11-06 13:20-16:30（周五）",
-    "date": "2026-11-06",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151092",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151065",
     "title": "某部队研究所2027年文职人员招录宣讲会公告",
     "company": "某部队研究所2027年文职人员招录宣讲会公告",
@@ -224,6 +212,18 @@
     "datetime": "2026-11-06 10:00-11:30（周五）",
     "date": "2026-11-06",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151079",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151092",
+    "title": "2026达飞中国校园开放日",
+    "company": "2026达飞中国校园开放日",
+    "kind": "线下",
+    "location": "启航楼101、一楼",
+    "datetime": "2026-11-06 13:20-16:30（周五）",
+    "date": "2026-11-06",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151092",
     "source": "official",
     "source_label": "就业网"
   },
