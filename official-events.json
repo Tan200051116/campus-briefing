@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-151085",
-    "title": "锦州海通实业有限公司",
-    "company": "锦州海通实业有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-11-07 13:30-15:00（周六）",
-    "date": "2026-11-07",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151085",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151076",
     "title": "内蒙古北方重工业集团有限公司",
     "company": "内蒙古北方重工业集团有限公司",
@@ -152,6 +140,18 @@
     "datetime": "2026-11-07 10:00-11:30（周六）",
     "date": "2026-11-07",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151078",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151085",
+    "title": "锦州海通实业有限公司",
+    "company": "锦州海通实业有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-11-07 13:30-15:00（周六）",
+    "date": "2026-11-07",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151085",
     "source": "official",
     "source_label": "就业网"
   }
