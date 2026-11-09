@@ -12,18 +12,6 @@
     "source_label": "就业网"
   },
   {
-    "id": "official-151102",
-    "title": "陆军工程大学招聘文职人员宣讲会",
-    "company": "陆军工程大学招聘文职人员宣讲会",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-11-09 09:30-11:00（周一）",
-    "date": "2026-11-09",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151102",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151093",
     "title": "浙江爱旭太阳能科技有限公司",
     "company": "浙江爱旭太阳能科技有限公司",
@@ -116,6 +104,18 @@
     "datetime": "2026-11-18 15:30-17:00（周三）",
     "date": "2026-11-18",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151097",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151102",
+    "title": "陆军工程大学招聘文职人员宣讲会",
+    "company": "陆军工程大学招聘文职人员宣讲会",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-11-09 09:30-11:00（周一）",
+    "date": "2026-11-09",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151102",
     "source": "official",
     "source_label": "就业网"
   }
