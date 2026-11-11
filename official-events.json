@@ -12,6 +12,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151104",
+    "title": "方田教育27届空宣",
+    "company": "方田教育27届空宣",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-11-11 15:00-17:00（周三）",
+    "date": "2026-11-11",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151104",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151100",
     "title": "沈阳兴华航空电器有限责任公司",
     "company": "沈阳兴华航空电器有限责任公司",
@@ -60,6 +72,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151101",
+    "title": "人本股份有限公司",
+    "company": "人本股份有限公司",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-11-14 18:00-19:00（周六）",
+    "date": "2026-11-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151101",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151103",
     "title": "【组团】2026年秋季“人社局长进校园”城市专场推介暨“南通日”专场招聘系列",
     "company": "【组团】2026年秋季“人社局长进校园”城市专场推介暨“南通日”专场招聘系列",
@@ -84,6 +108,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151107",
+    "title": "山重建机有限公司（省属国企）",
+    "company": "山重建机有限公司（省属国企）",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-11-17 13:30-15:00（周二）",
+    "date": "2026-11-17",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151107",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151097",
     "title": "明阳智慧能源集团股份公司",
     "company": "明阳智慧能源集团股份公司",
@@ -92,6 +128,18 @@
     "datetime": "2026-11-18 15:30-17:00（周三）",
     "date": "2026-11-18",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151097",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151106",
+    "title": "中国东方电气集团宏华海洋2027校园招聘宣讲会",
+    "company": "中国东方电气集团宏华海洋2027校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-11-18 18:00-20:00（周三）",
+    "date": "2026-11-18",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151106",
     "source": "official",
     "source_label": "就业网"
   }
