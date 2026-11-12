@@ -1,29 +1,5 @@
 [
   {
-    "id": "official-151098",
-    "title": "中国人民解放军海军航空大学",
-    "company": "中国人民解放军海军航空大学",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-11-12 15:30-17:00（周四）",
-    "date": "2026-11-12",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151098",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
-    "id": "official-151091",
-    "title": "云尖信息技术股份有限公司",
-    "company": "云尖信息技术股份有限公司",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-11-12 15:30-17:00（周四）",
-    "date": "2026-11-12",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151091",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151105",
     "title": "晓禾科技27届空中宣讲会",
     "company": "晓禾科技27届空中宣讲会",
@@ -116,6 +92,30 @@
     "datetime": "2026-11-12 10:00-11:30（周四）",
     "date": "2026-11-12",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151100",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151098",
+    "title": "中国人民解放军海军航空大学",
+    "company": "中国人民解放军海军航空大学",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-11-12 15:30-17:00（周四）",
+    "date": "2026-11-12",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151098",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151091",
+    "title": "云尖信息技术股份有限公司",
+    "company": "云尖信息技术股份有限公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-11-12 15:30-17:00（周四）",
+    "date": "2026-11-12",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151091",
     "source": "official",
     "source_label": "就业网"
   }
