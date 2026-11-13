@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-151105",
-    "title": "晓禾科技27届空中宣讲会",
-    "company": "晓禾科技27届空中宣讲会",
-    "kind": "线上",
-    "location": "线上宣讲",
-    "datetime": "2026-11-13 15:00-15:45（周五）",
-    "date": "2026-11-13",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151105",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151101",
     "title": "人本股份有限公司",
     "company": "人本股份有限公司",
@@ -60,6 +48,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151111",
+    "title": "中国南方航空股份有限公司工程技术分公司",
+    "company": "中国南方航空股份有限公司工程技术分公司",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-11-18 13:30-15:00（周三）",
+    "date": "2026-11-18",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151111",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151097",
     "title": "明阳智慧能源集团股份公司",
     "company": "明阳智慧能源集团股份公司",
@@ -80,6 +80,30 @@
     "datetime": "2026-11-18 18:00-20:00（周三）",
     "date": "2026-11-18",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151106",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151110",
+    "title": "安徽航瑞国际滚装运输有限公司",
+    "company": "安徽航瑞国际滚装运输有限公司",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-11-19 15:30-17:00（周四）",
+    "date": "2026-11-19",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151110",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151105",
+    "title": "晓禾科技27届空中宣讲会",
+    "company": "晓禾科技27届空中宣讲会",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-11-13 15:00-15:45（周五）",
+    "date": "2026-11-13",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151105",
     "source": "official",
     "source_label": "就业网"
   }
