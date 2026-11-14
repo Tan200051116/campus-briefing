@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-151101",
-    "title": "人本股份有限公司",
-    "company": "人本股份有限公司",
-    "kind": "线上",
-    "location": "线上宣讲",
-    "datetime": "2026-11-14 18:00-19:00（周六）",
-    "date": "2026-11-14",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151101",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151103",
     "title": "【组团】2026年秋季“人社局长进校园”城市专场推介暨“南通日”专场招聘系列",
     "company": "【组团】2026年秋季“人社局长进校园”城市专场推介暨“南通日”专场招聘系列",
@@ -104,6 +92,18 @@
     "datetime": "2026-11-24 18:30-20:30（周二）",
     "date": "2026-11-24",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151108",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151101",
+    "title": "人本股份有限公司",
+    "company": "人本股份有限公司",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-11-14 18:00-19:00（周六）",
+    "date": "2026-11-14",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151101",
     "source": "official",
     "source_label": "就业网"
   }
