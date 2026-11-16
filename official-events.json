@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-151103",
-    "title": "【组团】2026年秋季“人社局长进校园”城市专场推介暨“南通日”专场招聘系列",
-    "company": "【组团】2026年秋季“人社局长进校园”城市专场推介暨“南通日”专场招聘系列",
-    "kind": "线下",
-    "location": "启航楼一楼",
-    "datetime": "2026-11-16 14:00-16:00（周一）",
-    "date": "2026-11-16",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151103",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151090",
     "title": "北汽福田汽车股份有限公司山东厂区2027届校招宣讲",
     "company": "北汽福田汽车股份有限公司山东厂区2027届校招宣讲",
@@ -92,6 +80,18 @@
     "datetime": "2026-11-24 18:30-20:30（周二）",
     "date": "2026-11-24",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151108",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151103",
+    "title": "【组团】2026年秋季“人社局长进校园”城市专场推介暨“南通日”专场招聘系列",
+    "company": "【组团】2026年秋季“人社局长进校园”城市专场推介暨“南通日”专场招聘系列",
+    "kind": "线下",
+    "location": "启航楼一楼",
+    "datetime": "2026-11-16 14:00-16:00（周一）",
+    "date": "2026-11-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151103",
     "source": "official",
     "source_label": "就业网"
   }
