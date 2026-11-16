@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-151090",
-    "title": "北汽福田汽车股份有限公司山东厂区2027届校招宣讲",
-    "company": "北汽福田汽车股份有限公司山东厂区2027届校招宣讲",
-    "kind": "线下",
-    "location": "启航楼105",
-    "datetime": "2026-11-16 18:00-20:00（周一）",
-    "date": "2026-11-16",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151090",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151107",
     "title": "山重建机有限公司（省属国企）",
     "company": "山重建机有限公司（省属国企）",
@@ -92,6 +80,18 @@
     "datetime": "2026-11-16 14:00-16:00（周一）",
     "date": "2026-11-16",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151103",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151090",
+    "title": "北汽福田汽车股份有限公司山东厂区2027届校招宣讲",
+    "company": "北汽福田汽车股份有限公司山东厂区2027届校招宣讲",
+    "kind": "线下",
+    "location": "启航楼105",
+    "datetime": "2026-11-16 18:00-20:00（周一）",
+    "date": "2026-11-16",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151090",
     "source": "official",
     "source_label": "就业网"
   }
