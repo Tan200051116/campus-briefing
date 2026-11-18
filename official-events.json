@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-151106",
-    "title": "中国东方电气集团宏华海洋2027校园招聘宣讲会",
-    "company": "中国东方电气集团宏华海洋2027校园招聘宣讲会",
-    "kind": "线下",
-    "location": "启航楼101",
-    "datetime": "2026-11-18 18:00-20:00（周三）",
-    "date": "2026-11-18",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151106",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151110",
     "title": "安徽航瑞国际滚装运输有限公司",
     "company": "安徽航瑞国际滚装运输有限公司",
@@ -68,6 +56,18 @@
     "datetime": "2026-11-18 15:30-17:00（周三）",
     "date": "2026-11-18",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151097",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151106",
+    "title": "中国东方电气集团宏华海洋2027校园招聘宣讲会",
+    "company": "中国东方电气集团宏华海洋2027校园招聘宣讲会",
+    "kind": "线下",
+    "location": "启航楼101",
+    "datetime": "2026-11-18 18:00-20:00（周三）",
+    "date": "2026-11-18",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151106",
     "source": "official",
     "source_label": "就业网"
   }
