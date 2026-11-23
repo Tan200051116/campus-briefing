@@ -58,5 +58,29 @@
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151113",
     "source": "official",
     "source_label": "就业网"
+  },
+  {
+    "id": "official-151120",
+    "title": "中航光电科技股份有限公司",
+    "company": "中航光电科技股份有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-12-01 13:30-15:00（周二）",
+    "date": "2026-12-01",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151120",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151119",
+    "title": "华为技术有限公司2027届应届生销服类招聘岗位推介会",
+    "company": "华为技术有限公司2027届应届生销服类招聘岗位推介会",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-12-03 13:30-15:00（周四）",
+    "date": "2026-12-03",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151119",
+    "source": "official",
+    "source_label": "就业网"
   }
 ]
