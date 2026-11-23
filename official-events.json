@@ -12,6 +12,18 @@
     "source_label": "就业网"
   },
   {
+    "id": "official-151116",
+    "title": "大连拓扑伟业科技有限公司",
+    "company": "大连拓扑伟业科技有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-11-25 10:00-11:30（周三）",
+    "date": "2026-11-25",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151116",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
     "id": "official-151114",
     "title": "【组团】安徽港航集团2027届毕业生校园招聘",
     "company": "【组团】安徽港航集团2027届毕业生校园招聘",
@@ -20,6 +32,18 @@
     "datetime": "2026-11-25 14:00-16:00（周三）",
     "date": "2026-11-25",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151114",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151118",
+    "title": "慧合航运（海南）有限公司",
+    "company": "慧合航运（海南）有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-11-26 10:00-11:30（周四）",
+    "date": "2026-11-26",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151118",
     "source": "official",
     "source_label": "就业网"
   },
