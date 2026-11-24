@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-151108",
-    "title": "新东方深圳学校-27校招空中宣讲会-冲刺专场！",
-    "company": "新东方深圳学校-27校招空中宣讲会-冲刺专场！",
-    "kind": "线上",
-    "location": "线上宣讲",
-    "datetime": "2026-11-24 18:30-20:30（周二）",
-    "date": "2026-11-24",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151108",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151116",
     "title": "大连拓扑伟业科技有限公司",
     "company": "大连拓扑伟业科技有限公司",
@@ -92,6 +80,18 @@
     "datetime": "2026-12-03 13:30-15:00（周四）",
     "date": "2026-12-03",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151119",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151108",
+    "title": "新东方深圳学校-27校招空中宣讲会-冲刺专场！",
+    "company": "新东方深圳学校-27校招空中宣讲会-冲刺专场！",
+    "kind": "线上",
+    "location": "线上宣讲",
+    "datetime": "2026-11-24 18:30-20:30（周二）",
+    "date": "2026-11-24",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151108",
     "source": "official",
     "source_label": "就业网"
   }
