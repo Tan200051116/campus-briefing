@@ -1,17 +1,5 @@
 [
   {
-    "id": "official-151113",
-    "title": "中信戴卡股份有限公司",
-    "company": "中信戴卡股份有限公司",
-    "kind": "线下",
-    "location": "启航楼202",
-    "datetime": "2026-11-27 15:30-17:00（周五）",
-    "date": "2026-11-27",
-    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151113",
-    "source": "official",
-    "source_label": "就业网"
-  },
-  {
     "id": "official-151120",
     "title": "中航光电科技股份有限公司",
     "company": "中航光电科技股份有限公司",
@@ -68,6 +56,18 @@
     "datetime": "2026-12-04 10:00-11:30（周五）",
     "date": "2026-12-04",
     "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151124",
+    "source": "official",
+    "source_label": "就业网"
+  },
+  {
+    "id": "official-151113",
+    "title": "中信戴卡股份有限公司",
+    "company": "中信戴卡股份有限公司",
+    "kind": "线下",
+    "location": "启航楼202",
+    "datetime": "2026-11-27 15:30-17:00（周五）",
+    "date": "2026-11-27",
+    "official_url": "https://myjob.dlmu.edu.cn/teachin/view/id/151113",
     "source": "official",
     "source_label": "就业网"
   }
